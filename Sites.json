@@ -1,0 +1,88 @@
+[
+    {
+        "title": "MDN Web Docs",
+        "snippet": "Recursos para desenvolvedores, por desenvolvedores. Documentação sobre tecnologias da web abertas, incluindo HTML, CSS e APIs.",
+        "link": "https://developer.mozilla.org",
+        "tags": [
+            "educação",
+            "desenvolvimento",
+            "css",
+            "html",
+            "javascript",
+            "docs"
+        ]
+    },
+    {
+        "title": "Stack Overflow",
+        "snippet": "Comunidade online para desenvolvedores aprenderem, compartilharem seus conhecimentos e construírem suas carreiras.",
+        "link": "https://stackoverflow.com",
+        "tags": [
+            "educação",
+            "desenvolvimento",
+            "programação",
+            "comunidade",
+            "ajuda"
+        ]
+    },
+    {
+        "title": "W3Schools",
+        "snippet": "O maior site de desenvolvimento web do mundo, com tutoriais e referências sobre linguagens de desenvolvimento.",
+        "link": "https://www.w3schools.com",
+        "tags": [
+            "educação",
+            "tutorial",
+            "html",
+            "css",
+            "javascript",
+            "aprender"
+        ]
+    },
+    {
+        "title": "CSS-Tricks",
+        "snippet": "Dicas, truques e artigos diários sobre Cascading Style Sheets.",
+        "link": "https://css-tricks.com",
+        "tags": [
+            "educação",
+            "css",
+            "frontend",
+            "design",
+            "dicas"
+        ]
+    },
+    {
+        "title": "GitHub",
+        "snippet": "Plataforma de hospedagem de código e controle de versão usando Git. Permite que desenvolvedores trabalhem juntos em projetos.",
+        "link": "https://github.com",
+        "tags": [
+            "educação",
+            "git",
+            "versionamento",
+            "código",
+            "desenvolvimento",
+            "projetos"
+        ]
+    },
+    {
+        "title": "Can I use...",
+        "snippet": "Fornece tabelas de suporte de navegador atualizadas para tecnologias de front-end da web em navegadores de desktop e móveis.",
+        "link": "https://caniuse.com/",
+        "tags": [
+            "educação",
+            "compatibilidade",
+            "browser",
+            "css",
+            "html5"
+        ]
+    },
+    {
+        "title": "YouTube",
+        "snippet": "Plataforma de compartilhamento de vídeos onde os usuários podem assistir, curtir, compartilhar, comentar e enviar seus próprios vídeos.",
+        "link": "https://youtube.com",
+        "tags": [
+            "entretenimento",
+            "vídeos",
+            "música",
+            "vlogs"
+        ]
+    }
+]
