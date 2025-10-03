@@ -1,0 +1,601 @@
+[
+    {
+        "id": 1,
+        "text": {
+            "pt-br": "A vida é o que acontece enquanto você está ocupado fazendo outros planos.",
+            "en": "Life is what happens when you're busy making other plans.",
+            "es": "La vida es lo que pasa mientras estás ocupado haciendo otros planes."
+        },
+        "author": {
+            "pt-br": "John Lennon",
+            "en": "John Lennon",
+            "es": "John Lennon"
+        },
+        "tags": [
+            "vida",
+            "planos",
+            "reflexão",
+            "música",
+            "vida real"
+        ]
+    },
+    {
+        "id": 2,
+        "text": {
+            "pt-br": "O único modo de fazer um excelente trabalho é amar o que você faz.",
+            "en": "The only way to do great work is to love what you do.",
+            "es": "La única forma de hacer un gran trabajo es amar lo que haces."
+        },
+        "author": {
+            "pt-br": "Steve Jobs",
+            "en": "Steve Jobs",
+            "es": "Steve Jobs"
+        },
+        "tags": [
+            "trabalho",
+            "motivação",
+            "excelência",
+            "tecnologia",
+            "vida real"
+        ]
+    },
+    {
+        "id": 3,
+        "text": {
+            "pt-br": "Imagine todas as pessoas vivendo a vida em paz.",
+            "en": "Imagine all the people living life in peace.",
+            "es": "Imagina a toda la gente viviendo la vida en paz."
+        },
+        "author": {
+            "pt-br": "John Lennon",
+            "en": "John Lennon",
+            "es": "John Lennon"
+        },
+        "tags": [
+            "paz",
+            "esperança",
+            "imaginação",
+            "música",
+            "vida real"
+        ]
+    },
+    {
+        "id": 4,
+        "text": {
+            "pt-br": "A persistência é o caminho do êxito.",
+            "en": "Persistence is the path to success.",
+            "es": "La persistencia es el camino al éxito."
+        },
+        "author": {
+            "pt-br": "Charles Chaplin",
+            "en": "Charles Chaplin",
+            "es": "Charles Chaplin"
+        },
+        "tags": [
+            "persistência",
+            "sucesso",
+            "motivação",
+            "cinema",
+            "vida real"
+        ]
+    },
+    {
+        "id": 5,
+        "text": {
+            "pt-br": "Se você pode sonhar, você pode realizar.",
+            "en": "If you can dream it, you can achieve it.",
+            "es": "Si puedes soñarlo, puedes lograrlo."
+        },
+        "author": {
+            "pt-br": "Zig Ziglar",
+            "en": "Zig Ziglar",
+            "es": "Zig Ziglar"
+        },
+        "tags": [
+            "sonho",
+            "realização",
+            "motivação",
+            "desenvolvimento pessoal",
+            "vida real"
+        ]
+    },
+    {
+        "id": 6,
+        "text": {
+            "pt-br": "Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e torne-as grandes.",
+            "en": "Don't wait for extraordinary opportunities. Seize common occasions and make them great.",
+            "es": "No esperes por oportunidades extraordinarias. Agarra ocasiones comunes y hazlas grandes."
+        },
+        "author": {
+            "pt-br": "Orison Swett Marden",
+            "en": "Orison Swett Marden",
+            "es": "Orison Swett Marden"
+        },
+        "tags": [
+            "oportunidade",
+            "crescimento",
+            "ação",
+            "motivação",
+            "vida real"
+        ]
+    },
+    {
+        "id": 7,
+        "text": {
+            "pt-br": "Ser feliz sem motivo é a mais autêntica forma de felicidade.",
+            "en": "Being happy for no reason is the most authentic form of happiness.",
+            "es": "Ser feliz sin motivo es la forma más auténtica de felicidad."
+        },
+        "author": {
+            "pt-br": "Carlos Drummond de Andrade",
+            "en": "Carlos Drummond de Andrade",
+            "es": "Carlos Drummond de Andrade"
+        },
+        "tags": [
+            "felicidade",
+            "autoconhecimento",
+            "poesia",
+            "literatura",
+            "vida real"
+        ]
+    },
+    {
+        "id": 8,
+        "text": {
+            "pt-br": "Tudo o que um sonho precisa para ser realizado é alguém que acredite nele.",
+            "en": "All a dream needs to be realized is someone who believes in it.",
+            "es": "Todo lo que un sueño necesita para ser realizado es alguien que crea en él."
+        },
+        "author": {
+            "pt-br": "Roberto Shinyashiki",
+            "en": "Roberto Shinyashiki",
+            "es": "Roberto Shinyashiki"
+        },
+        "tags": [
+            "sonho",
+            "crença",
+            "motivação",
+            "vida real"
+        ]
+    },
+    {
+        "id": 9,
+        "text": {
+            "pt-br": "Que a Força esteja com você.",
+            "en": "May the Force be with you.",
+            "es": "Que la Fuerza te acompañe."
+        },
+        "author": {
+            "pt-br": "Obi-Wan Kenobi (Star Wars)",
+            "en": "Obi-Wan Kenobi (Star Wars)",
+            "es": "Obi-Wan Kenobi (Star Wars)"
+        },
+        "tags": [
+            "ficção",
+            "filmes",
+            "star wars",
+            "força",
+            "esperança"
+        ]
+    },
+    {
+        "id": 10,
+        "text": {
+            "pt-br": "Com grandes poderes vêm grandes responsabilidades.",
+            "en": "With great power comes great responsibility.",
+            "es": "Un gran poder conlleva una gran responsabilidad."
+        },
+        "author": {
+            "pt-br": "Tio Ben (Homem-Aranha)",
+            "en": "Uncle Ben (Spider-Man)",
+            "es": "Tío Ben (Hombre Araña)"
+        },
+        "tags": [
+            "ficção",
+            "super-herói",
+            "responsabilidade",
+            "filmes",
+            "desenhos",
+            "livros"
+        ]
+    },
+    {
+        "id": 11,
+        "text": {
+            "pt-br": "Para o infinito e além!",
+            "en": "To infinity and beyond!",
+            "es": "¡Al infinito y más allá!"
+        },
+        "author": {
+            "pt-br": "Buzz Lightyear (Toy Story)",
+            "en": "Buzz Lightyear (Toy Story)",
+            "es": "Buzz Lightyear (Toy Story)"
+        },
+        "tags": [
+            "ficção",
+            "animação",
+            "aventura",
+            "otimismo",
+            "filmes",
+            "desenhos"
+        ]
+    },
+    {
+        "id": 12,
+        "text": {
+            "pt-br": "Eu sou seu pai.",
+            "en": "I am your father.",
+            "es": "Yo soy tu padre."
+        },
+        "author": {
+            "pt-br": "Darth Vader (Star Wars)",
+            "en": "Darth Vader (Star Wars)",
+            "es": "Darth Vader (Star Wars)"
+        },
+        "tags": [
+            "ficção",
+            "filmes",
+            "star wars",
+            "vilão",
+            "revelação"
+        ]
+    },
+    {
+        "id": 13,
+        "text": {
+            "pt-br": "Nunca desista, jamais se renda.",
+            "en": "Never give up, never surrender.",
+            "es": "Nunca te rindas, nunca te entregues."
+        },
+        "author": {
+            "pt-br": "Guy Fleegman (Heróis Fora de Órbita)",
+            "en": "Guy Fleegman (Galaxy Quest)",
+            "es": "Guy Fleegman (Héroes Fuera de Órbita)"
+        },
+        "tags": [
+            "ficção",
+            "filmes",
+            "motivação",
+            "perseverança"
+        ]
+    },
+    {
+        "id": 14,
+        "text": {
+            "pt-br": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+            "en": "Education is the most powerful weapon which you can use to change the world.",
+            "es": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+        },
+        "author": {
+            "pt-br": "Nelson Mandela",
+            "en": "Nelson Mandela",
+            "es": "Nelson Mandela"
+        },
+        "tags": [
+            "educação",
+            "mudança",
+            "ativismo",
+            "política",
+            "vida real"
+        ]
+    },
+    {
+        "id": 15,
+        "text": {
+            "pt-br": "Seja a mudança que você deseja ver no mundo.",
+            "en": "Be the change that you wish to see in the world.",
+            "es": "Sé el cambio que deseas ver en el mundo."
+        },
+        "author": {
+            "pt-br": "Mahatma Gandhi",
+            "en": "Mahatma Gandhi",
+            "es": "Mahatma Gandhi"
+        },
+        "tags": [
+            "mudança",
+            "inspiração",
+            "paz",
+            "ativismo",
+            "vida real"
+        ]
+    },
+    {
+        "id": 16,
+        "text": {
+            "pt-br": "Penso, logo existo.",
+            "en": "I think, therefore I am.",
+            "es": "Pienso, luego existo."
+        },
+        "author": {
+            "pt-br": "René Descartes",
+            "en": "René Descartes",
+            "es": "René Descartes"
+        },
+        "tags": [
+            "filosofia",
+            "existência",
+            "razão",
+            "pensamento",
+            "vida real"
+        ]
+    },
+    {
+        "id": 17,
+        "text": {
+            "pt-br": "A vida é 10% o que acontece com você e 90% como você reage a isso.",
+            "en": "Life is 10% what happens to you and 90% how you react to it.",
+            "es": "La vida es 10% lo que te sucede y 90% cómo reaccionas a ello."
+        },
+        "author": {
+            "pt-br": "Charles R. Swindoll",
+            "en": "Charles R. Swindoll",
+            "es": "Charles R. Swindoll"
+        },
+        "tags": [
+            "vida",
+            "atitude",
+            "reação",
+            "resiliência",
+            "vida real"
+        ]
+    },
+    {
+        "id": 18,
+        "text": {
+            "pt-br": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
+            "en": "The future belongs to those who believe in the beauty of their dreams.",
+            "es": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+        },
+        "author": {
+            "pt-br": "Eleanor Roosevelt",
+            "en": "Eleanor Roosevelt",
+            "es": "Eleanor Roosevelt"
+        },
+        "tags": [
+            "futuro",
+            "sonho",
+            "esperança",
+            "inspiração",
+            "vida real"
+        ]
+    },
+    {
+        "id": 19,
+        "text": {
+            "pt-br": "A única constante na vida é a mudança.",
+            "en": "The only constant in life is change.",
+            "es": "La única constante en la vida es el cambio."
+        },
+        "author": {
+            "pt-br": "Heráclito",
+            "en": "Heraclitus",
+            "es": "Heráclito"
+        },
+        "tags": [
+            "filosofia",
+            "mudança",
+            "vida",
+            "constante",
+            "vida real"
+        ]
+    },
+    {
+        "id": 20,
+        "text": {
+            "pt-br": "A imaginação é mais importante que o conhecimento.",
+            "en": "Imagination is more important than knowledge.",
+            "es": "La imaginación es más importante que el conocimiento."
+        },
+        "author": {
+            "pt-br": "Albert Einstein",
+            "en": "Albert Einstein",
+            "es": "Albert Einstein"
+        },
+        "tags": [
+            "ciência",
+            "imaginação",
+            "conhecimento",
+            "inovação",
+            "vida real"
+        ]
+    },
+    {
+        "id": 61,
+        "text": {
+            "pt-br": "Salvar pessoas, caçar coisas. O negócio da família.",
+            "en": "Saving people, hunting things. The family business.",
+            "es": "Salvar personas, cazar cosas. El negocio familiar."
+        },
+        "author": {
+            "pt-br": "Dean Winchester",
+            "en": "Dean Winchester",
+            "es": "Dean Winchester"
+        },
+        "tags": [
+            "séries",
+            "supernatural",
+            "caçador",
+            "família",
+            "missão"
+        ]
+    },
+    {
+        "id": 62,
+        "text": {
+            "pt-br": "Diga-me, qual é o seu desejo mais profundo?",
+            "en": "Tell me, what is it that you truly desire?",
+            "es": "¿Dime, cuál es tu deseo más profundo?"
+        },
+        "author": {
+            "pt-br": "Lúcifer Morningstar",
+            "en": "Lucifer Morningstar",
+            "es": "Lucifer Morningstar"
+        },
+        "tags": [
+            "séries",
+            "lucifer",
+            "desejo",
+            "interrogatório",
+            "poder"
+        ]
+    },
+    {
+        "id": 63,
+        "text": {
+            "pt-br": "Nunca desista! Mantenha-se firme! Enquanto você tiver o Cosmo, não há nada que não possa fazer!",
+            "en": "Never give up! Stand firm! As long as you have Cosmo, there's nothing you can't do!",
+            "es": "¡Nunca te rindas! ¡Mantente firme! ¡Mientras tengas el Cosmos, no hay nada que no puedas hacer!"
+        },
+        "author": {
+            "pt-br": "Seiya de Pégaso",
+            "en": "Pegasus Seiya",
+            "es": "Seiya de Pegaso"
+        },
+        "tags": [
+            "animes",
+            "desenhos",
+            "cavaleiros do zodíaco",
+            "motivação",
+            "cosmo"
+        ]
+    },
+    {
+        "id": 64,
+        "text": {
+            "pt-br": "Eu sou o protetor do meu universo!",
+            "en": "I am the protector of my universe!",
+            "es": "¡Soy el protector de mi universo!"
+        },
+        "author": {
+            "pt-br": "Son Goku",
+            "en": "Son Goku",
+            "es": "Son Goku"
+        },
+        "tags": [
+            "animes",
+            "desenhos",
+            "dragon ball",
+            "heroísmo",
+            "proteção"
+        ]
+    },
+    {
+        "id": 65,
+        "text": {
+            "pt-br": "Eu nunca volto atrás na minha palavra! Esse é o meu jeito ninja!",
+            "en": "I never go back on my word! That's my ninja way!",
+            "es": "¡Nunca me retracto de mi palabra! ¡Ese es mi camino ninja!"
+        },
+        "author": {
+            "pt-br": "Naruto Uzumaki",
+            "en": "Naruto Uzumaki",
+            "es": "Naruto Uzumaki"
+        },
+        "tags": [
+            "animes",
+            "desenhos",
+            "naruto",
+            "determinação",
+            "promessa"
+        ]
+    },
+    {
+        "id": 66,
+        "text": {
+            "pt-br": "Você entra no meu Sonhar. Eu crio o seu Sonhar. Nós criamos sonhos uns para os outros.",
+            "en": "You enter my Dreaming. I create your Dreaming. We create dreams for each other.",
+            "es": "Entras en mi Soñar. Yo creo tu Soñar. Creamos sueños el uno para el otro."
+        },
+        "author": {
+            "pt-br": "Sonho (Morpheus)",
+            "en": "Dream (Morpheus)",
+            "es": "Sueño (Morpheus)"
+        },
+        "tags": [
+            "séries",
+            "livros",
+            "sandman",
+            "sonhos",
+            "criação"
+        ]
+    },
+    {
+        "id": 67,
+        "text": {
+            "pt-br": "Ainda não está na hora de mostrar o meu rosto.",
+            "en": "It's not time to show my face yet.",
+            "es": "Todavía no es hora de mostrar mi cara."
+        },
+        "author": {
+            "pt-br": "Professor (Sergio Marquina)",
+            "en": "The Professor (Sergio Marquina)",
+            "es": "El Profesor (Sergio Marquina)"
+        },
+        "tags": [
+            "séries",
+            "la casa de papel",
+            "mistério",
+            "estratégia"
+        ]
+    },
+    {
+        "id": 87,
+        "text": {
+            "pt-br": "Eu prefiro morrer do que viver sem paixão.",
+            "en": "I'd rather die than live without passion.",
+            "es": "Preferiría morir antes que vivir sin pasión."
+        },
+        "author": {
+            "pt-br": "Jungkook (BTS)",
+            "en": "Jungkook (BTS)",
+            "es": "Jungkook (BTS)"
+        },
+        "tags": [
+            "kpop",
+            "paixão",
+            "vida",
+            "inspiração",
+            "vida real"
+        ]
+    },
+    {
+        "id": 90,
+        "text": {
+            "pt-br": "Eu sou fraco, mas posso fazer isso!",
+            "en": "I'm weak, but I can do it!",
+            "es": "Soy débil, ¡pero puedo hacerlo!"
+        },
+        "author": {
+            "pt-br": "Zenitsu Agatsuma",
+            "en": "Zenitsu Agatsuma",
+            "es": "Zenitsu Agatsuma"
+        },
+        "tags": [
+            "animes",
+            "desenhos",
+            "demon slayer",
+            "superação",
+            "coragem"
+        ]
+    },
+    {
+        "id": 102,
+        "text": {
+            "pt-br": "Não importa quantas vezes eu morra, como a Fênix, eu renasço das cinzas.",
+            "en": "No matter how many times I die, like the Phoenix, I will be reborn from the ashes.",
+            "es": "No importa cuántas veces muera, como el Fénix, renaceré de las cenizas."
+        },
+        "author": {
+            "pt-br": "Ikki de Fênix",
+            "en": "Ikki of Phoenix",
+            "es": "Ikki de Fénix"
+        },
+        "tags": [
+            "animes",
+            "desenhos",
+            "renascimento",
+            "fênix",
+            "determinação"
+        ]
+    }
+]
