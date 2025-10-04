@@ -1,9 +1,9 @@
 [
-        { id: 1, type: 'image', url: 'https://picsum.photos/id/10/200/300', title: 'Exemplo de Imagem de Paisagem 1', link: 'https://unsplash.com/' },
-        { id: 2, type: 'image', url: 'https://picsum.photos/id/20/300/400', title: 'Exemplo de Imagem de Arquitetura', link: 'https://pexels.com/' },
-        { id: 3, type: 'image', url: 'https://picsum.photos/id/30/400/300', title: 'Exemplo de Imagem de Tecnologia', link: 'https://pixabay.com/' },
-        { id: 4, type: 'image', url: 'https://picsum.photos/id/40/250/250', title: 'Exemplo de Imagem de Natureza', link: 'https://unsplash.com/' },
-        { id: 5, type: 'image', url: 'https://picsum.photos/id/50/300/300', title: 'Exemplo de Imagem Abstrata', link: 'https://pexels.com/' },
-        { id: 6, type: 'image', url: 'https://picsum.photos/id/60/200/200', title: 'Exemplo de Imagem de Comida', link: 'https://pixabay.com/' },
-        { id: 7, type: 'image', url: 'https://picsum.photos/id/70/400/200', title: 'Exemplo de Imagem de Pessoas', link: 'https://unsplash.com/' },
-    ]
+    { "id": 1, "type": "image", "url": "https://picsum.photos/id/10/200/300", "title": "Exemplo de Imagem de Paisagem 1", "link": "https://unsplash.com/" },
+    { "id": 2, "type": "image", "url": "https://picsum.photos/id/20/300/400", "title": "Exemplo de Imagem de Arquitetura", "link": "https://pexels.com/" },
+    { "id": 3, "type": "image", "url": "https://picsum.photos/id/30/400/300", "title": "Exemplo de Imagem de Tecnologia", "link": "https://pixabay.com/" },
+    { "id": 4, "type": "image", "url": "https://picsum.photos/id/40/250/250", "title": "Exemplo de Imagem de Natureza", "link": "https://unsplash.com/" },
+    { "id": 5, "type": "image", "url": "https://picsum.photos/id/50/300/300", "title": "Exemplo de Imagem Abstrata", "link": "https://pexels.com/" },
+    { "id": 6, "type": "image", "url": "https://picsum.photos/id/60/200/200", "title": "Exemplo de Imagem de Comida", "link": "https://pixabay.com/" },
+    { "id": 7, "type": "image", "url": "https://picsum.photos/id/70/400/200", "title": "Exemplo de Imagem de Pessoas", "link": "https://unsplash.com/" }
+]
