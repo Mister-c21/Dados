@@ -6,4 +6,4 @@
         { id: 5, type: 'image', url: 'https://picsum.photos/id/50/300/300', title: 'Exemplo de Imagem Abstrata', link: 'https://pexels.com/' },
         { id: 6, type: 'image', url: 'https://picsum.photos/id/60/200/200', title: 'Exemplo de Imagem de Comida', link: 'https://pixabay.com/' },
         { id: 7, type: 'image', url: 'https://picsum.photos/id/70/400/200', title: 'Exemplo de Imagem de Pessoas', link: 'https://unsplash.com/' },
-    ];
+    ]
