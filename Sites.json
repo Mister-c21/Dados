@@ -5200,6 +5200,1304 @@
             "areia",
             "brasil"
         ]
+    },
+    {
+        "title": "BBC Learning English",
+        "snippet": "Recursos gratuitos e de alta qualidade da BBC para aprender inglês, incluindo notícias, vocabulário e gramática.",
+        "link": "https://www.bbc.co.uk/learningenglish",
+        "tags": [
+            "educação",
+            "idiomas",
+            "inglês",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "British Council LearnEnglish",
+        "snippet": "Recursos educativos e testes de proficiência em inglês, oferecidos pelo British Council.",
+        "link": "https://learnenglish.britishcouncil.org",
+        "tags": [
+            "educação",
+            "idiomas",
+            "inglês",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Google Primer",
+        "snippet": "Aplicativo e site com lições curtas e gratuitas de marketing digital, negócios e habilidades profissionais.",
+        "link": "https://www.yourprimer.com",
+        "tags": [
+            "educação",
+            "marketing",
+            "negócios",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Product Hunt",
+        "snippet": "Comunidade onde novos produtos e aplicativos (muitas vezes ferramentas de aprendizado ou produtividade) são lançados e votados.",
+        "link": "https://www.producthunt.com",
+        "tags": [
+            "educação",
+            "tecnologia",
+            "inovação",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Future of Learning",
+        "snippet": "Iniciativa de pesquisa e artigos sobre as tendências e o futuro da educação globalmente.",
+        "link": "https://www.futureoflearning.com",
+        "tags": [
+            "educação",
+            "pesquisa",
+            "inovação",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Open Culture",
+        "snippet": "Agrega links para milhares de cursos online gratuitos, e-books e filmes educativos de alta qualidade.",
+        "link": "http://www.openculture.com",
+        "tags": [
+            "educação",
+            "cultura",
+            "gratuito",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "e-Books Brasil (domínio público)",
+        "snippet": "Acervo de obras literárias e clássicas em domínio público para download gratuito em português.",
+        "link": "http://ebooksbrasil.org",
+        "tags": [
+            "educação",
+            "literatura",
+            "gratuito",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "The Big History Project",
+        "snippet": "Curso multimédia e abrangente que conta a história do universo desde o Big Bang até hoje, focado no ensino secundário.",
+        "link": "https://www.bighistoryproject.com",
+        "tags": [
+            "educação",
+            "história",
+            "ciência",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "National Geographic Education",
+        "snippet": "Recursos, mapas e atividades didáticas focadas em geografia, ciência e exploração.",
+        "link": "https://www.nationalgeographic.org/education/",
+        "tags": [
+            "educação",
+            "geografia",
+            "ciência",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Brainly (Brainly.com.br)",
+        "snippet": "Rede social de aprendizado onde estudantes fazem e respondem perguntas sobre tarefas de casa e disciplinas escolares.",
+        "link": "https://brainly.com.br",
+        "tags": [
+            "educação",
+            "comunidade",
+            "tarefa",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Superprof (Recursos)",
+        "snippet": "Além de aulas particulares, o site oferece artigos e resumos em várias disciplinas escolares e de ensino superior.",
+        "link": "https://www.superprof.pt/blog",
+        "tags": [
+            "educação",
+            "aulas",
+            "recursos",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Descomplica",
+        "snippet": "Plataforma de educação brasileira focada em preparação para ENEM, vestibulares e cursos profissionalizantes online.",
+        "link": "https://descomplica.com.br",
+        "tags": [
+            "educação",
+            "enem",
+            "vestibular",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Gabarito ENEM (INSA)",
+        "snippet": "Portal de estudos e informações sobre o ENEM, notas de corte e dicas de preparação.",
+        "link": "https://www.gabaritoenem.com.br",
+        "tags": [
+            "educação",
+            "enem",
+            "vestibular",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Stoodi",
+        "snippet": "Plataforma de vídeo aulas e exercícios focada em preparação para o ENEM e os principais vestibulares do país.",
+        "link": "https://www.stoodi.com.br",
+        "tags": [
+            "educação",
+            "enem",
+            "vestibular",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "EBSCOhost",
+        "snippet": "Provedor de bases de dados de pesquisa acadêmica, periódicos e e-books (geralmente acessado via instituições).",
+        "link": "https://www.ebsco.com",
+        "tags": [
+            "educação",
+            "pesquisa",
+            "acadêmico",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Code Golf Stack Exchange",
+        "snippet": "Fórum de perguntas e respostas extremamente específico para desafios de programação onde o objetivo é escrever o código mais curto possível.",
+        "link": "https://codegolf.stackexchange.com",
+        "tags": [
+            "educação",
+            "programação",
+            "nicho",
+            "desafio"
+        ]
+    },
+    {
+        "title": "TryHackMe",
+        "snippet": "Plataforma de aprendizado prático de cibersegurança e 'hacking ético' através de laboratórios virtuais e desafios gamificados.",
+        "link": "https://tryhackme.com",
+        "tags": [
+            "educação",
+            "cibersegurança",
+            "hacking",
+            "nicho"
+        ]
+    },
+    {
+        "title": "WebAssembly Official Site",
+        "snippet": "Site com documentação e tutoriais para aprender WebAssembly (Wasm), uma linguagem de baixo nível para web browsers.",
+        "link": "https://webassembly.org",
+        "tags": [
+            "educação",
+            "programação",
+            "web development",
+            "nicho"
+        ]
+    },
+    {
+        "title": "PostgreSQL Documentation",
+        "snippet": "Documentação oficial e detalhada para o sistema de gerenciamento de banco de dados relacional PostgreSQL.",
+        "link": "https://www.postgresql.org/docs/",
+        "tags": [
+            "educação",
+            "banco de dados",
+            "sql",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Learn OpenGL",
+        "snippet": "Tutoriais extensivos e práticos para aprender a API gráfica OpenGL, focada em desenvolvimento de gráficos 3D.",
+        "link": "https://learnopengl.com",
+        "tags": [
+            "educação",
+            "gráficos 3d",
+            "programação",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Rhino 3D Tutorials",
+        "snippet": "Recursos de aprendizado e tutoriais para o software Rhinoceros 3D, focado em modelagem de superfície NURBS.",
+        "link": "https://www.rhino3d.com/learn/",
+        "tags": [
+            "educação",
+            "design",
+            "modelagem 3d",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Brazilian Jiu-Jitsu Global Federation (IBJJF)",
+        "snippet": "Regras, rankings e informações sobre torneios de Jiu-Jitsu Brasileiro, com foco em competições globais.",
+        "link": "https://ibjjf.com",
+        "tags": [
+            "educação",
+            "artes marciais",
+            "jiu-jitsu",
+            "nicho"
+        ]
+    },
+    {
+        "title": "International Phonetic Association (IPA)",
+        "snippet": "Site oficial da organização que define o Alfabeto Fonético Internacional, usado em linguística e ensino de idiomas.",
+        "link": "https://www.internationalphoneticassociation.org",
+        "tags": [
+            "educação",
+            "linguística",
+            "fonética",
+            "nicho"
+        ]
+    },
+    {
+        "title": "LEGO Education",
+        "snippet": "Recursos e kits de robótica e programação da LEGO, focados em soluções didáticas para salas de aula.",
+        "link": "https://education.lego.com/pt-br/",
+        "tags": [
+            "educação",
+            "robótica",
+            "programação",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Arduino Official Documentation",
+        "snippet": "Tutoriais, referências de linguagem e comunidade para a plataforma de microcontroladores de código aberto Arduino.",
+        "link": "https://docs.arduino.cc",
+        "tags": [
+            "educação",
+            "eletrônica",
+            "programação",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Raspberry Pi Foundation Education",
+        "snippet": "Recursos de aprendizado e projetos práticos focados no microcomputador Raspberry Pi e programação básica.",
+        "link": "https://www.raspberrypi.org/education/",
+        "tags": [
+            "educação",
+            "eletrônica",
+            "programação",
+            "nicho"
+        ]
+    },
+    {
+        "title": "National Center for Case Study Teaching in Science (NCCSTS)",
+        "snippet": "Coleção de estudos de caso para ensino superior, focados em biologia, química e geociências.",
+        "link": "https://sciencecases.lib.buffalo.edu/collection/",
+        "tags": [
+            "educação",
+            "ciência",
+            "estudo de caso",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Data Visualization Society (DVS)",
+        "snippet": "Comunidade e recursos para profissionais e entusiastas focados na teoria e prática da visualização de dados.",
+        "link": "https://www.datavisualizationsociety.com",
+        "tags": [
+            "educação",
+            "data science",
+            "design",
+            "nicho"
+        ]
+    },
+    {
+        "title": "R-bloggers",
+        "snippet": "Agregador de blogs e tutoriais sobre a linguagem de programação R, focada em análise estatística e gráficos.",
+        "link": "https://www.r-bloggers.com",
+        "tags": [
+            "educação",
+            "data science",
+            "r language",
+            "nicho"
+        ]
+    },
+    {
+        "title": "SANS Institute",
+        "snippet": "Organização de treinamento e certificação de alto nível, focada em segurança da informação e ciberdefesa.",
+        "link": "https://www.sans.org",
+        "tags": [
+            "educação",
+            "cibersegurança",
+            "certificação",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Disney+",
+        "snippet": "Serviço de streaming da Disney, incluindo filmes, séries e documentários da Disney, Pixar, Marvel, Star Wars e National Geographic.",
+        "link": "https://www.disneyplus.com",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "cinema",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Max (antigo HBO Max)",
+        "snippet": "Plataforma de streaming da Warner Bros. Discovery, com conteúdo da HBO, DC, Warner Bros. e Cartoon Network.",
+        "link": "https://www.max.com",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "séries",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "GloboPlay",
+        "snippet": "Serviço de streaming da Rede Globo, com acesso a novelas, séries nacionais, filmes e canais ao vivo.",
+        "link": "https://globoplay.globo.com",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "nacional",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Paramount+",
+        "snippet": "Plataforma de streaming da Paramount Global, com séries, filmes, e conteúdo da CBS, MTV, e Nickelodeon.",
+        "link": "https://www.paramountplus.com",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "séries",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "FilmAffinity",
+        "snippet": "Portal de cinema e séries de origem espanhola, com críticas, notas de usuários e recomendações.",
+        "link": "https://www.filmaffinity.com/pt/main.html",
+        "tags": [
+            "entretenimento",
+            "cinema",
+            "críticas",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "AdoroCinema",
+        "snippet": "Portal brasileiro com notícias, trailers, horários de cinema e informações sobre filmes e séries.",
+        "link": "https://www.adorocinema.com",
+        "tags": [
+            "entretenimento",
+            "cinema",
+            "notícias",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "GameFAQs",
+        "snippet": "Banco de dados e comunidade de guias, FAQs e detonados para jogos de videogame.",
+        "link": "https://gamefaqs.gamespot.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "guias",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Last.fm",
+        "snippet": "Serviço de 'scrobbling' que rastreia o que você ouve em outras plataformas e oferece gráficos e recomendações sociais.",
+        "link": "https://www.last.fm",
+        "tags": [
+            "entretenimento",
+            "música",
+            "social",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "SoundCloud",
+        "snippet": "Plataforma de distribuição de áudio social que permite aos artistas compartilhar músicas originais, mixes e podcasts.",
+        "link": "https://soundcloud.com",
+        "tags": [
+            "entretenimento",
+            "música",
+            "áudio",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "The Old Reader",
+        "snippet": "Leitor de RSS online para agregar feeds de notícias, blogs e podcasts favoritos em um só lugar.",
+        "link": "https://theoldreader.com",
+        "tags": [
+            "entretenimento",
+            "notícias",
+            "rss",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Flipboard",
+        "snippet": "Agregador de notícias e revistas digitais que apresenta o conteúdo em formato de revista folheável.",
+        "link": "https://flipboard.com",
+        "tags": [
+            "entretenimento",
+            "notícias",
+            "revista",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Tinder",
+        "snippet": "Um dos aplicativos de relacionamento e namoro mais populares do mundo, baseado em localização.",
+        "link": "https://tinder.com",
+        "tags": [
+            "entretenimento",
+            "social",
+            "namoro",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Bumble",
+        "snippet": "Aplicativo de namoro onde, em relacionamentos heterossexuais, a mulher deve dar o primeiro passo.",
+        "link": "https://bumble.com",
+        "tags": [
+            "entretenimento",
+            "social",
+            "namoro",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Steam Community",
+        "snippet": "Plataforma social da Steam onde usuários podem criar guias, fóruns e compartilhar capturas de tela de jogos.",
+        "link": "https://steamcommunity.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "comunidade",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "DeviantArt",
+        "snippet": "Comunidade online de artistas para exibir e compartilhar obras de arte digital, tradicional, fotografia e fan art.",
+        "link": "https://www.deviantart.com",
+        "tags": [
+            "entretenimento",
+            "arte",
+            "digital",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "The Dodo",
+        "snippet": "Conteúdo e vídeos virais focados em histórias inspiradoras de animais, resgate e conservação.",
+        "link": "https://www.thedodo.com",
+        "tags": [
+            "entretenimento",
+            "animais",
+            "vídeos",
+            "nicho"
+        ]
+    },
+    {
+        "title": "HowLongToBeat",
+        "snippet": "Base de dados que coleta informações de usuários para estimar quanto tempo leva para terminar jogos eletrônicos.",
+        "link": "https://howlongtobeat.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "estatísticas",
+            "nicho"
+        ]
+    },
+    {
+        "title": "PCGamingWiki",
+        "snippet": "Wiki colaborativa focada em detalhes técnicos, correções de bugs e otimizações para jogos de PC.",
+        "link": "https://www.pcgamingwiki.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "pc gaming",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Salty Bet",
+        "snippet": "Site de apostas de eSports de nicho, onde os usuários apostam 'dinheiro falso' em lutas aleatórias de personagens de jogos de luta (MUGEN).",
+        "link": "https://www.saltybet.com",
+        "tags": [
+            "entretenimento",
+            "esports",
+            "apostas",
+            "nicho"
+        ]
+    },
+    {
+        "title": "BoardGameGeek (BGG)",
+        "snippet": "O maior banco de dados e fórum do mundo para jogos de tabuleiro, com rankings, reviews e informações detalhadas.",
+        "link": "https://boardgamegeek.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "tabuleiro",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Goodreads (Reviews de Livros)",
+        "snippet": "Rede social de leitores, focada em catalogar livros, escrever resenhas e participar de desafios de leitura.",
+        "link": "https://www.goodreads.com",
+        "tags": [
+            "entretenimento",
+            "literatura",
+            "livros",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Ao3 (Archive of Our Own)",
+        "snippet": "Um dos maiores arquivos de fan fiction do mundo, de código aberto e sem fins lucrativos, para todas as franquias.",
+        "link": "https://archiveofourown.org",
+        "tags": [
+            "entretenimento",
+            "literatura",
+            "fan fiction",
+            "nicho"
+        ]
+    },
+    {
+        "title": "TV Tropes",
+        "snippet": "Wiki que cataloga e discute clichês e dispositivos de enredo ('tropes') em ficção (filmes, livros, jogos).",
+        "link": "https://tvtropes.org",
+        "tags": [
+            "entretenimento",
+            "ficção",
+            "referência",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Letterboxd",
+        "snippet": "Rede social para entusiastas de cinema, onde catalogam, avaliam e escrevem diários sobre filmes que assistiram.",
+        "link": "https://letterboxd.com",
+        "tags": [
+            "entretenimento",
+            "cinema",
+            "social",
+            "nicho"
+        ]
+    },
+    {
+        "title": "No Film School",
+        "snippet": "Recursos e tutoriais focados em cineastas independentes, cobrindo técnicas, equipamentos e financiamento de filmes.",
+        "link": "https://nofilmschool.com",
+        "tags": [
+            "entretenimento",
+            "cinema",
+            "produção",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Wired Magazine (Design)",
+        "snippet": "A revista Wired tem uma seção específica focada em design, arte, arquitetura e seu impacto na tecnologia.",
+        "link": "https://www.wired.com/category/design/",
+        "tags": [
+            "entretenimento",
+            "design",
+            "tecnologia",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Designboom",
+        "snippet": "Revista de design e arquitetura online, com foco em arte, tecnologia, ecologia e cultura global.",
+        "link": "https://www.designboom.com",
+        "tags": [
+            "entretenimento",
+            "design",
+            "arquitetura",
+            "nicho"
+        ]
+    },
+    {
+        "title": "The Art Newspaper",
+        "snippet": "Notícias e análises globais sobre o mercado de arte, colecionismo, museus e leilões.",
+        "link": "https://www.theartnewspaper.com",
+        "tags": [
+            "entretenimento",
+            "arte",
+            "negócios",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Fashionista",
+        "snippet": "Notícias e análises sobre a indústria da moda, focando em negócios, tendências e carreiras.",
+        "link": "https://fashionista.com",
+        "tags": [
+            "entretenimento",
+            "moda",
+            "negócios",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Inside Hook",
+        "snippet": "Revista de estilo de vida digital voltada para homens, cobrindo cultura, viagens e gadgets.",
+        "link": "https://www.insidehook.com",
+        "tags": [
+            "entretenimento",
+            "lifestyle",
+            "masculino",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Bloomberg News",
+        "snippet": "Plataforma de notícias financeiras, econômicas e de negócios em tempo real, utilizada por profissionais de mercado.",
+        "link": "https://www.bloomberg.com/news",
+        "tags": [
+            "notícias",
+            "finanças",
+            "economia",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Financial Times (FT)",
+        "snippet": "Jornal internacional de negócios, conhecido por sua cobertura profunda de finanças e política global.",
+        "link": "https://www.ft.com",
+        "tags": [
+            "notícias",
+            "finanças",
+            "economia",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Axios",
+        "snippet": "Portal de notícias americano com foco em política, negócios e tecnologia, conhecido por seu formato conciso e direto.",
+        "link": "https://www.axios.com",
+        "tags": [
+            "notícias",
+            "política",
+            "negócios",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "HuffPost (Huffington Post)",
+        "snippet": "Portal de notícias e blog americano com foco em política, opinião, entretenimento e variedades.",
+        "link": "https://www.huffpost.com",
+        "tags": [
+            "notícias",
+            "política",
+            "variedades",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "VICE News",
+        "snippet": "Divisão de notícias e documentários da VICE, conhecida por sua cobertura aprofundada de questões sociais e geopolíticas.",
+        "link": "https://www.vice.com/en/section/news",
+        "tags": [
+            "notícias",
+            "social",
+            "internacional",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Sky News",
+        "snippet": "Canal de notícias britânico com cobertura 24 horas de eventos globais, política e economia.",
+        "link": "https://news.sky.com",
+        "tags": [
+            "notícias",
+            "internacional",
+            "tv",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "The Independent",
+        "snippet": "Jornal britânico online com foco em notícias políticas, opiniões e cobertura internacional.",
+        "link": "https://www.independent.co.uk",
+        "tags": [
+            "notícias",
+            "internacional",
+            "política",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "La Nacion",
+        "snippet": "Um dos principais jornais diários da Argentina, com foco em política, economia e cultura.",
+        "link": "https://www.lanacion.com.ar",
+        "tags": [
+            "notícias",
+            "argentina",
+            "internacional",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "El Universal",
+        "snippet": "Um dos principais jornais diários do México, com forte cobertura de política e notícias nacionais.",
+        "link": "https://www.eluniversal.com.mx",
+        "tags": [
+            "notícias",
+            "méxico",
+            "internacional",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "The Times of India",
+        "snippet": "Um dos jornais mais lidos em inglês na Índia, com cobertura abrangente de política e negócios asiáticos.",
+        "link": "https://timesofindia.indiatimes.com",
+        "tags": [
+            "notícias",
+            "índia",
+            "ásia",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Globo Rural",
+        "snippet": "Notícias, cotações e análises sobre agronegócio, agricultura, pecuária e tecnologia no campo brasileiro.",
+        "link": "https://revistagloborural.globo.com",
+        "tags": [
+            "notícias",
+            "agronegócio",
+            "brasil",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Valor Econômico",
+        "snippet": "Principal jornal de economia e negócios do Brasil, com análises aprofundadas e cotações de mercado.",
+        "link": "https://valor.globo.com",
+        "tags": [
+            "notícias",
+            "economia",
+            "negócios",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Seu Dinheiro",
+        "snippet": "Portal de notícias financeiras focado em investimentos, finanças pessoais e mercado de ações para o investidor pessoa física.",
+        "link": "https://www.seudinheiro.com",
+        "tags": [
+            "notícias",
+            "finanças",
+            "investimentos",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Meio & Mensagem",
+        "snippet": "Principal veículo brasileiro de notícias sobre o mercado de publicidade, marketing, mídia e comunicação.",
+        "link": "https://www.meioemensagem.com.br",
+        "tags": [
+            "notícias",
+            "marketing",
+            "mídia",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "The Planetary Society",
+        "snippet": "Organização de notícias e defesa de projetos focada em exploração espacial, ciência planetária e busca por vida extraterrestre.",
+        "link": "https://www.planetary.org",
+        "tags": [
+            "notícias",
+            "ciência",
+            "espaço",
+            "nicho"
+        ]
+    },
+    {
+        "title": "SpaceWeather.com",
+        "snippet": "Notícias e alertas diários sobre clima espacial, auroras, meteoros e atividade solar.",
+        "link": "https://spaceweather.com",
+        "tags": [
+            "notícias",
+            "astronomia",
+            "clima espacial",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Paleo-Future",
+        "snippet": "Blog e arquivo focado em 'futuros que nunca aconteceram' – como as pessoas de antigamente imaginavam o futuro.",
+        "link": "http://www.paleofuture.com",
+        "tags": [
+            "notícias",
+            "história",
+            "tecnologia",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Defesa Aérea & Naval (DAN)",
+        "snippet": "Portal brasileiro focado em notícias de defesa, forças armadas (aérea e naval) e tecnologia militar.",
+        "link": "https://www.defesaaereanaval.com.br",
+        "tags": [
+            "notícias",
+            "militar",
+            "defesa",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Aero Magazine",
+        "snippet": "Revista brasileira e portal de notícias especializado em aviação executiva, táxi aéreo e mercado de aeronaves de luxo.",
+        "link": "https://aero.jor.br",
+        "tags": [
+            "notícias",
+            "aviação",
+            "negócios",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Revista Ferroviária",
+        "snippet": "Publicação brasileira focada exclusivamente em notícias, tecnologia e projetos da indústria ferroviária e metroviária.",
+        "link": "https://revistaferroviaria.com.br",
+        "tags": [
+            "notícias",
+            "transporte",
+            "ferroviário",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Segs (Seguros)",
+        "snippet": "Portal brasileiro especializado em notícias, mercado e legislação sobre o setor de seguros, previdência e capitalização.",
+        "link": "https://www.segs.com.br",
+        "tags": [
+            "notícias",
+            "seguros",
+            "negócios",
+            "nicho"
+        ]
+    },
+    {
+        "title": "AB Inbev Global Newsroom",
+        "snippet": "Portal de notícias e releases da maior cervejaria do mundo (dona da Ambev), com foco em estratégias de mercado e marcas.",
+        "link": "https://www.ab-inbev.com/newsroom/",
+        "tags": [
+            "notícias",
+            "negócios",
+            "bebidas",
+            "nicho"
+        ]
+    },
+    {
+        "title": "The R Street Institute",
+        "snippet": "Think tank americano focado em políticas públicas liberais, como reforma regulatória e segurança cibernética.",
+        "link": "https://www.rstreet.org",
+        "tags": [
+            "notícias",
+            "política",
+            "think tank",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Cato Institute",
+        "snippet": "Think tank americano libertário focado em política, economia e assuntos de liberdade civil.",
+        "link": "https://www.cato.org",
+        "tags": [
+            "notícias",
+            "política",
+            "economia",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Brookings Institution",
+        "snippet": "Think tank americano de centro-esquerda com foco em política, economia, assuntos exteriores e estudos metropolitanos.",
+        "link": "https://www.brookings.edu",
+        "tags": [
+            "notícias",
+            "política",
+            "economia",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Fundo Monetário Internacional (FMI)",
+        "snippet": "Notícias, relatórios e dados sobre a estabilidade financeira global e as economias dos países membros.",
+        "link": "https://www.imf.org/en/News",
+        "tags": [
+            "notícias",
+            "economia",
+            "internacional",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Banco Central do Brasil (BCB) Notícias",
+        "snippet": "Releases, comunicados e notícias oficiais do Banco Central brasileiro sobre política monetária e regulação.",
+        "link": "https://www.bcb.gov.br/detalhenoticia/noticias",
+        "tags": [
+            "notícias",
+            "economia",
+            "governo",
+            "nicho"
+        ]
+    },
+    {
+        "title": "FAS (Fundo Amazônia Sustentável)",
+        "snippet": "Notícias e projetos focados na conservação e desenvolvimento sustentável da Amazônia.",
+        "link": "https://fas-amazonia.org/noticias/",
+        "tags": [
+            "notícias",
+            "meio ambiente",
+            "amazônia",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Instituto Sou da Paz",
+        "snippet": "Organização não governamental brasileira focada em notícias e dados sobre segurança pública, violência e controle de armas.",
+        "link": "https://soudapaz.org",
+        "tags": [
+            "notícias",
+            "segurança",
+            "social",
+            "nicho"
+        ]
+    },
+    {
+        "title": "ESPN Brasil",
+        "snippet": "Portal brasileiro da ESPN, com ampla cobertura de futebol, esportes americanos (NBA, NFL, MLB) e automobilismo.",
+        "link": "https://www.espn.com.br",
+        "tags": [
+            "esportes",
+            "futebol",
+            "basquete",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "DAZN",
+        "snippet": "Serviço de streaming de esportes global, muitas vezes com direitos exclusivos para ligas de futebol, boxe e outras modalidades.",
+        "link": "https://www.dazn.com/pt-BR/home",
+        "tags": [
+            "esportes",
+            "streaming",
+            "futebol",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "GE - Globo Esporte (Futebol)",
+        "snippet": "O maior portal esportivo do Brasil, com cobertura diária e detalhada de clubes de futebol nacionais e internacionais.",
+        "link": "https://ge.globo.com/futebol/",
+        "tags": [
+            "esportes",
+            "futebol",
+            "notícias",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Premier League (Inglaterra)",
+        "snippet": "Site oficial da principal liga de futebol da Inglaterra, com notícias, resultados e tabelas.",
+        "link": "https://www.premierleague.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "liga",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "La Liga (Espanha)",
+        "snippet": "Site oficial da principal liga de futebol da Espanha, com notícias, resultados e tabelas.",
+        "link": "https://www.laliga.com/pt-BR",
+        "tags": [
+            "esportes",
+            "futebol",
+            "liga",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Serie A (Itália)",
+        "snippet": "Site oficial da principal liga de futebol da Itália, com notícias, resultados e tabelas.",
+        "link": "https://www.legaseriea.it/en",
+        "tags": [
+            "esportes",
+            "futebol",
+            "liga",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Bundesliga (Alemanha)",
+        "snippet": "Site oficial da principal liga de futebol da Alemanha, com notícias, resultados e tabelas.",
+        "link": "https://www.bundesliga.com/en/bundesliga",
+        "tags": [
+            "esportes",
+            "futebol",
+            "liga",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Ligue 1 (França)",
+        "snippet": "Site oficial da principal liga de futebol da França, com notícias, resultados e tabelas.",
+        "link": "https://www.ligue1.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "liga",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "UEFA Nations League",
+        "snippet": "Site oficial da competição de seleções europeias da UEFA, substituindo amistosos.",
+        "link": "https://www.uefa.com/uefanationsleague/",
+        "tags": [
+            "esportes",
+            "futebol",
+            "seleção",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "Super Bowl Official Site",
+        "snippet": "Site oficial da final da temporada da NFL (futebol americano), o maior evento esportivo anual dos EUA.",
+        "link": "https://www.nfl.com/super-bowl/",
+        "tags": [
+            "esportes",
+            "futebol americano",
+            "nfl",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "NBA League Pass",
+        "snippet": "Serviço de assinatura de streaming para assistir a todos os jogos da temporada regular da NBA.",
+        "link": "https://www.nba.com/leaguepass",
+        "tags": [
+            "esportes",
+            "basquete",
+            "streaming",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "MLB (Major League Baseball)",
+        "snippet": "Site oficial da principal liga profissional de beisebol dos EUA e Canadá.",
+        "link": "https://www.mlb.com",
+        "tags": [
+            "esportes",
+            "beisebol",
+            "eua",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "UFC Official Site",
+        "snippet": "Site oficial do Ultimate Fighting Championship, a maior organização de artes marciais mistas (MMA) do mundo.",
+        "link": "https://www.ufc.com",
+        "tags": [
+            "esportes",
+            "mma",
+            "luta",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "WWE Official Site",
+        "snippet": "Site oficial da World Wrestling Entertainment, líder em luta livre profissional e entretenimento.",
+        "link": "https://www.wwe.com",
+        "tags": [
+            "esportes",
+            "luta livre",
+            "entretenimento",
+            "abrangente"
+        ]
+    },
+    {
+        "title": "The Boxscore (NBA Stats)",
+        "snippet": "Portal de estatísticas e dados de basquete, com foco em métricas avançadas e análise de desempenho da NBA.",
+        "link": "https://www.theboxscore.com",
+        "tags": [
+            "esportes",
+            "basquete",
+            "estatísticas",
+            "nicho"
+        ]
+    },
+    {
+        "title": "FanGraphs",
+        "snippet": "Site de nicho focado em estatísticas avançadas (sabermetria) e análise aprofundada de beisebol (MLB).",
+        "link": "https://www.fangraphs.com",
+        "tags": [
+            "esportes",
+            "beisebol",
+            "estatísticas",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Advanced Football Analytics",
+        "snippet": "Análise e estatísticas avançadas (métricas de EPA, WPA) do futebol americano (NFL) e universitário.",
+        "link": "http://www.advancedfootballanalytics.com",
+        "tags": [
+            "esportes",
+            "futebol americano",
+            "estatísticas",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Transfermarkt",
+        "snippet": "Base de dados global de futebol, focada em valores de mercado de jogadores, transferências e rumores.",
+        "link": "https://www.transfermarkt.com.br",
+        "tags": [
+            "esportes",
+            "futebol",
+            "transferências",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Squawka",
+        "snippet": "Portal focado em estatísticas e comparação de jogadores de futebol usando gráficos de desempenho e métricas detalhadas.",
+        "link": "https://squawka.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "estatísticas",
+            "nicho"
+        ]
+    },
+    {
+        "title": "FIFA Beach Soccer",
+        "snippet": "Site oficial da FIFA dedicado exclusivamente à modalidade de Futebol de Areia, com notícias e competições globais.",
+        "link": "https://www.fifa.com/beachsoccer",
+        "tags": [
+            "esportes",
+            "futebol",
+            "areia",
+            "nicho"
+        ]
+    },
+    {
+        "title": "FIP (Federação Internacional de Padel)",
+        "snippet": "Site oficial da Federação Internacional de Padel, com foco em campeonatos mundiais e regulamentos.",
+        "link": "https://www.padelfip.com",
+        "tags": [
+            "esportes",
+            "padel",
+            "competição",
+            "nicho"
+        ]
+    },
+    {
+        "title": "CBTP (Tiro Esportivo)",
+        "snippet": "Site oficial da Confederação Brasileira de Tiro Esportivo, com foco em modalidades olímpicas e regras.",
+        "link": "https://www.cbtp.org.br",
+        "tags": [
+            "esportes",
+            "tiro",
+            "olimpíadas",
+            "nicho"
+        ]
+    },
+    {
+        "title": "CBBoxe (Boxe)",
+        "snippet": "Site oficial da Confederação Brasileira de Boxe, com rankings, eventos e notícias sobre o boxe amador e olímpico.",
+        "link": "https://cbboxe.org.br",
+        "tags": [
+            "esportes",
+            "boxe",
+            "luta",
+            "nicho"
+        ]
+    },
+    {
+        "title": "CBK (Karate)",
+        "snippet": "Site oficial da Confederação Brasileira de Karate, com foco em competições, seleções e graduações.",
+        "link": "https://cbk.org.br",
+        "tags": [
+            "esportes",
+            "karate",
+            "luta",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Wrestling Brasil (CBLA)",
+        "snippet": "Site oficial da Confederação Brasileira de Lutas Associadas (Wrestling Olímpico), com foco em greco-romana e livre.",
+        "link": "https://cbla.com.br",
+        "tags": [
+            "esportes",
+            "wrestling",
+            "luta",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Ironman Official Site",
+        "snippet": "Site oficial da série de triatlos de longa distância Ironman, com registros de eventos e resultados.",
+        "link": "https://www.ironman.com",
+        "tags": [
+            "esportes",
+            "triatlo",
+            "endurance",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Ultramarathon Running (iRunFar)",
+        "snippet": "Portal focado em notícias, reviews e cobertura de corridas de ultra-maratona e corrida de trilha (trail running).",
+        "link": "https://www.irunfar.com",
+        "tags": [
+            "esportes",
+            "corrida",
+            "maratona",
+            "nicho"
+        ]
+    },
+    {
+        "title": "Cycling News",
+        "snippet": "Site global de notícias focado exclusivamente em ciclismo de estrada, mountain bike e competições profissionais.",
+        "link": "https://www.cyclingnews.com",
+        "tags": [
+            "esportes",
+            "ciclismo",
+            "corrida",
+            "nicho"
+        ]
+    },
+    {
+        "title": "The Badminton World Federation (BWF)",
+        "snippet": "Site oficial da federação que rege o badminton, com rankings, resultados e cobertura de eventos globais.",
+        "link": "https://bwfbadminton.com",
+        "tags": [
+            "esportes",
+            "badminton",
+            "raquetes",
+            "nicho"
+        ]
     }
 ]
 
