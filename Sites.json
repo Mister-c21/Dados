@@ -4001,5 +4001,1205 @@
             "regional",
             "rio de janeiro"
         ]
+    },
+    {
+        "title": "Khan Academy Kids",
+        "snippet": "Versão da Khan Academy focada em matemática, leitura e habilidades socioemocionais para crianças pequenas.",
+        "link": "https://learn.khanacademy.org/khan-academy-kids/",
+        "tags": [
+            "educação",
+            "infantil",
+            "gratuito",
+            "mobile"
+        ]
+    },
+    {
+        "title": "Code.org",
+        "snippet": "Organização sem fins lucrativos focada em expandir o acesso à Ciência da Computação (CS) em escolas, com tutoriais fáceis.",
+        "link": "https://code.org",
+        "tags": [
+            "educação",
+            "programação",
+            "gratuito",
+            "escola"
+        ]
+    },
+    {
+        "title": "Quizlet",
+        "snippet": "Ferramenta popular de estudo que permite a criação e uso de flashcards, quizzes e jogos de memorização.",
+        "link": "https://quizlet.com",
+        "tags": [
+            "educação",
+            "ferramenta",
+            "estudo",
+            "memorização"
+        ]
+    },
+    {
+        "title": "Harvard OpenCourseWare",
+        "snippet": "Coleção de materiais de cursos de graduação e extensão de Harvard, disponibilizados gratuitamente.",
+        "link": "https://online-learning.harvard.edu/catalog/free",
+        "tags": [
+            "educação",
+            "universidade",
+            "gratuito",
+            "cursos"
+        ]
+    },
+    {
+        "title": "Stanford Online",
+        "snippet": "Cursos online e programas de certificado de Stanford University em diversas áreas, incluindo tecnologia e humanidades.",
+        "link": "https://online.stanford.edu",
+        "tags": [
+            "educação",
+            "universidade",
+            "cursos",
+            "tecnologia"
+        ]
+    },
+    {
+        "title": "e-MEC",
+        "snippet": "Sistema oficial do Ministério da Educação (MEC) para consultar e validar instituições de ensino superior e cursos no Brasil.",
+        "link": "https://emec.mec.gov.br",
+        "tags": [
+            "educação",
+            "governo",
+            "referência",
+            "brasil"
+        ]
+    },
+    {
+        "title": "CAPES",
+        "snippet": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, responsável pela avaliação de pós-graduação no Brasil.",
+        "link": "https://www.gov.br/capes/pt-br",
+        "tags": [
+            "educação",
+            "acadêmico",
+            "pesquisa",
+            "brasil"
+        ]
+    },
+    {
+        "title": "SciELO",
+        "snippet": "Biblioteca Científica Eletrônica Online, que publica coleções de periódicos científicos em acesso aberto.",
+        "link": "https://www.scielo.org",
+        "tags": [
+            "educação",
+            "ciência",
+            "pesquisa",
+            "acesso aberto"
+        ]
+    },
+    {
+        "title": "arXiv",
+        "snippet": "Arquivo de pré-prints eletrônicos de artigos científicos em matemática, física, ciência da computação e outras áreas.",
+        "link": "https://arxiv.org",
+        "tags": [
+            "educação",
+            "ciência",
+            "pesquisa",
+            "acadêmico"
+        ]
+    },
+    {
+        "title": "Mendeley",
+        "snippet": "Software e rede social acadêmica para gerenciamento de referências bibliográficas e artigos de pesquisa.",
+        "link": "https://www.mendeley.com",
+        "tags": [
+            "educação",
+            "pesquisa",
+            "ferramenta",
+            "acadêmico"
+        ]
+    },
+    {
+        "title": "Zotero",
+        "snippet": "Ferramenta de código aberto para auxiliar na coleta, organização, citação e compartilhamento de fontes de pesquisa.",
+        "link": "https://www.zotero.org",
+        "tags": [
+            "educação",
+            "pesquisa",
+            "código aberto",
+            "ferramenta"
+        ]
+    },
+    {
+        "title": "Stack Exchange",
+        "snippet": "Rede de sites de perguntas e respostas em diversas áreas, como programação, ciência, matemática e literatura.",
+        "link": "https://stackexchange.com",
+        "tags": [
+            "educação",
+            "comunidade",
+            "tecnologia",
+            "referência"
+        ]
+    },
+    {
+        "title": "MIT Open Learning",
+        "snippet": "Portal que reúne iniciativas de aprendizado aberto do MIT, incluindo o MITx e cursos profissionalizantes.",
+        "link": "https://openlearning.mit.edu",
+        "tags": [
+            "educação",
+            "universidade",
+            "tecnologia",
+            "cursos"
+        ]
+    },
+    {
+        "title": "FutureLearn",
+        "snippet": "Plataforma MOOC do Reino Unido, oferecendo cursos de universidades e organizações culturais renomadas.",
+        "link": "https://www.futurelearn.com",
+        "tags": [
+            "educação",
+            "cursos",
+            "mooc",
+            "internacional"
+        ]
+    },
+    {
+        "title": "Coursera for Business",
+        "snippet": "Foco em soluções de treinamento e desenvolvimento para empresas, utilizando o catálogo de cursos da Coursera.",
+        "link": "https://www.coursera.org/business",
+        "tags": [
+            "educação",
+            "negócios",
+            "corporativo",
+            "treinamento"
+        ]
+    },
+    {
+        "title": "LinkedIn Learning",
+        "snippet": "Biblioteca de cursos online focada em desenvolvimento profissional, criativo e tecnológico.",
+        "link": "https://www.linkedin.com/learning/",
+        "tags": [
+            "educação",
+            "profissional",
+            "carreira",
+            "tecnologia"
+        ]
+    },
+    {
+        "title": "Skillshare",
+        "snippet": "Plataforma de cursos com foco em criatividade, design, fotografia, escrita e artes.",
+        "link": "https://www.skillshare.com",
+        "tags": [
+            "educação",
+            "criatividade",
+            "design",
+            "arte"
+        ]
+    },
+    {
+        "title": "PADI e-Learning",
+        "snippet": "Cursos teóricos online da Professional Association of Diving Instructors, para quem deseja tirar a certificação de mergulho.",
+        "link": "https://www.padi.com/elearning",
+        "tags": [
+            "educação",
+            "hobby",
+            "mergulho",
+            "certificação"
+        ]
+    },
+    {
+        "title": "PMI (Project Management Institute)",
+        "snippet": "Organização global que oferece certificações, como a PMP (Project Management Professional), e padrões de gerenciamento de projetos.",
+        "link": "https://www.pmi.org",
+        "tags": [
+            "educação",
+            "certificação",
+            "gestão",
+            "negócios"
+        ]
+    },
+    {
+        "title": "TOEFL Official Site",
+        "snippet": "Informações e registro para o exame TOEFL (Teste de Inglês como Língua Estrangeira), usado para admissão em universidades.",
+        "link": "https://www.ets.org/toefl.html",
+        "tags": [
+            "educação",
+            "idiomas",
+            "teste",
+            "certificação"
+        ]
+    },
+    {
+        "title": "IELTS Official Site",
+        "snippet": "Informações e registro para o exame IELTS (Sistema Internacional de Teste da Língua Inglesa), usado globalmente.",
+        "link": "https://www.ielts.org",
+        "tags": [
+            "educação",
+            "idiomas",
+            "teste",
+            "certificação"
+        ]
+    },
+    {
+        "title": "TED-Ed",
+        "snippet": "Iniciativa do TED que produz vídeos educativos curtos e animações, focados em lições e ideias.",
+        "link": "https://ed.ted.com",
+        "tags": [
+            "educação",
+            "vídeos",
+            "animação",
+            "curiosidades"
+        ]
+    },
+    {
+        "title": "CuriosityStream",
+        "snippet": "Serviço de streaming por assinatura focado em documentários de ciência, história e não-ficção.",
+        "link": "https://curiositystream.com",
+        "tags": [
+            "educação",
+            "streaming",
+            "documentários",
+            "ciência"
+        ]
+    },
+    {
+        "title": "Duolingo Test Center",
+        "snippet": "Plataforma para realizar o Duolingo English Test (DET), um exame de proficiência de baixo custo aceito por muitas universidades.",
+        "link": "https://englishtest.duolingo.com",
+        "tags": [
+            "educação",
+            "idiomas",
+            "teste",
+            "certificação"
+        ]
+    },
+    {
+        "title": "UNCTAD e-Learning",
+        "snippet": "Cursos online sobre comércio, desenvolvimento e economia internacional, oferecidos pela Conferência das Nações Unidas sobre Comércio e Desenvolvimento.",
+        "link": "https://elearning.unctad.org",
+        "tags": [
+            "educação",
+            "economia",
+            "internacional",
+            "nações unidas"
+        ]
+    },
+    {
+        "title": "INEP",
+        "snippet": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, responsável pelo ENEM e dados educacionais brasileiros.",
+        "link": "https://www.gov.br/inep/pt-br",
+        "tags": [
+            "educação",
+            "governo",
+            "enem",
+            "pesquisa"
+        ]
+    },
+    {
+        "title": "Geogebra",
+        "snippet": "Software livre e gratuito de matemática dinâmica para todos os níveis de ensino, reunindo geometria, álgebra e cálculo.",
+        "link": "https://www.geogebra.org",
+        "tags": [
+            "educação",
+            "matemática",
+            "ferramenta",
+            "gratuito"
+        ]
+    },
+    {
+        "title": "Codecademy Pro",
+        "snippet": "Versão por assinatura do Codecademy, com projetos mais aprofundados, caminhos de carreira e avaliações de código.",
+        "link": "https://www.codecademy.com/pro",
+        "tags": [
+            "educação",
+            "programação",
+            "carreira",
+            "tecnologia"
+        ]
+    },
+    {
+        "title": "Rocketseat",
+        "snippet": "Plataforma de educação em programação brasileira, focada em desenvolvimento web e mobile (ecossistema JavaScript, React, Node.js).",
+        "link": "https://www.rocketseat.com.br",
+        "tags": [
+            "educação",
+            "programação",
+            "brasil",
+            "web development"
+        ]
+    },
+    {
+        "title": "Alura",
+        "snippet": "Maior escola de tecnologia e programação do Brasil, com foco em desenvolvimento, design e gestão.",
+        "link": "https://www.alura.com.br",
+        "tags": [
+            "educação",
+            "programação",
+            "tecnologia",
+            "brasil"
+        ]
+    },
+    {
+        "title": "Crunchyroll Games",
+        "snippet": "Divisão da Crunchyroll focada em publicar jogos móveis baseados em franquias populares de anime.",
+        "link": "https://www.crunchyroll.com/games",
+        "tags": [
+            "entretenimento",
+            "anime",
+            "jogos",
+            "mobile"
+        ]
+    },
+    {
+        "title": "RetroArch",
+        "snippet": "Front-end de código aberto para emuladores, engines de jogos, e players de mídia, permitindo jogar títulos retro em um único lugar.",
+        "link": "https://www.retroarch.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "retro",
+            "emulação"
+        ]
+    },
+    {
+        "title": "Internet Archive (Games)",
+        "snippet": "Biblioteca digital que preserva milhões de mídias, incluindo uma vasta coleção de jogos de arcade e console para jogar no navegador.",
+        "link": "https://archive.org/details/software",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "retro",
+            "gratuito"
+        ]
+    },
+    {
+        "title": "GOG.com (Good Old Games)",
+        "snippet": "Loja de jogos digitais que vende títulos sem DRM (Digital Rights Management), com foco em jogos clássicos de PC.",
+        "link": "https://www.gog.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "pc gaming",
+            "clássicos"
+        ]
+    },
+    {
+        "title": "Humble Bundle",
+        "snippet": "Plataforma que vende pacotes de jogos e software com preço sugerido, onde parte da receita vai para a caridade.",
+        "link": "https://www.humblebundle.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "caridade",
+            "software"
+        ]
+    },
+    {
+        "title": "Mod DB",
+        "snippet": "Banco de dados e centro de distribuição de 'mods' (modificações) para jogos de PC.",
+        "link": "https://www.moddb.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "comunidade",
+            "modding"
+        ]
+    },
+    {
+        "title": "Nexus Mods",
+        "snippet": "Plataforma popular para hospedar e baixar mods de uma ampla variedade de jogos, especialmente RPGs e jogos de mundo aberto.",
+        "link": "https://www.nexusmods.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "rpg",
+            "comunidade"
+        ]
+    },
+    {
+        "title": "GameSpot",
+        "snippet": "Site de notícias e análises de jogos eletrônicos, um dos mais antigos e respeitados da indústria.",
+        "link": "https://www.gamespot.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "reviews",
+            "notícias"
+        ]
+    },
+    {
+        "title": "Metacritic Games",
+        "snippet": "Agregador de críticas de jogos, filmes, TV e música, fornecendo uma pontuação média ponderada (Metascore).",
+        "link": "https://www.metacritic.com/game",
+        "tags": [
+            "entretenimento",
+            "críticas",
+            "jogos",
+            "referência"
+        ]
+    },
+    {
+        "title": "The Ringer",
+        "snippet": "Portal de cultura pop e esportes fundado por Bill Simmons, conhecido por seus podcasts e artigos analíticos.",
+        "link": "https://www.theringer.com",
+        "tags": [
+            "entretenimento",
+            "esportes",
+            "cultura pop",
+            "podcast"
+        ]
+    },
+    {
+        "title": "Vulture",
+        "snippet": "Seção de cultura e entretenimento da New York Magazine, com foco em notícias e críticas de TV, cinema e celebridades.",
+        "link": "https://www.vulture.com",
+        "tags": [
+            "entretenimento",
+            "críticas",
+            "cultura pop",
+            "celebridades"
+        ]
+    },
+    {
+        "title": "Pitchfork",
+        "snippet": "Revista de música online influente, conhecida por suas críticas de música alternativa, indie e experimental.",
+        "link": "https://pitchfork.com",
+        "tags": [
+            "entretenimento",
+            "música",
+            "críticas",
+            "indie"
+        ]
+    },
+    {
+        "title": "Resident Advisor (RA)",
+        "snippet": "Plataforma de música eletrônica global, com notícias, reviews, eventos e documentários sobre a cultura club.",
+        "link": "https://ra.co",
+        "tags": [
+            "entretenimento",
+            "música",
+            "eletrônica",
+            "eventos"
+        ]
+    },
+    {
+        "title": "Mixcloud",
+        "snippet": "Plataforma de streaming de áudio para rádios, DJs e podcasts, com foco em mixes e shows de rádio.",
+        "link": "https://www.mixcloud.com",
+        "tags": [
+            "entretenimento",
+            "música",
+            "rádio",
+            "podcast"
+        ]
+    },
+    {
+        "title": "Scribd",
+        "snippet": "Serviço de assinatura de e-books e audiobooks, comparável a uma 'biblioteca digital' pessoal.",
+        "link": "https://www.scribd.com",
+        "tags": [
+            "entretenimento",
+            "livros",
+            "audiobooks",
+            "leitura"
+        ]
+    },
+    {
+        "title": "Libby (by OverDrive)",
+        "snippet": "Aplicativo que permite a usuários de bibliotecas públicas emprestar e ler e-books e audiobooks gratuitamente.",
+        "link": "https://libbyapp.com/shelf",
+        "tags": [
+            "entretenimento",
+            "livros",
+            "gratuito",
+            "biblioteca"
+        ]
+    },
+    {
+        "title": "The Guardian Books",
+        "snippet": "Seção do jornal The Guardian dedicada a notícias, críticas, entrevistas e resenhas de livros.",
+        "link": "https://www.theguardian.com/books",
+        "tags": [
+            "entretenimento",
+            "livros",
+            "críticas",
+            "literatura"
+        ]
+    },
+    {
+        "title": "Pottermore / Wizarding World",
+        "snippet": "Site oficial da franquia Harry Potter e Mundo Bruxo, com notícias, histórias e interação para fãs.",
+        "link": "https://www.wizardingworld.com",
+        "tags": [
+            "entretenimento",
+            "ficção",
+            "literatura",
+            "franquia"
+        ]
+    },
+    {
+        "title": "Star Wars Official Site",
+        "snippet": "Ponto central para todas as notícias, vídeos e informações sobre a saga Star Wars.",
+        "link": "https://www.starwars.com",
+        "tags": [
+            "entretenimento",
+            "ficção",
+            "cinema",
+            "franquia"
+        ]
+    },
+    {
+        "title": "Marvel.com",
+        "snippet": "Site oficial da Marvel Comics e Marvel Studios, com notícias de quadrinhos, filmes e séries.",
+        "link": "https://www.marvel.com",
+        "tags": [
+            "entretenimento",
+            "quadrinhos",
+            "cinema",
+            "super-heróis"
+        ]
+    },
+    {
+        "title": "DC Comics Official Site",
+        "snippet": "Site oficial da DC Comics e seus personagens, incluindo Batman, Superman e Mulher-Maravilha.",
+        "link": "https://www.dccomics.com",
+        "tags": [
+            "entretenimento",
+            "quadrinhos",
+            "cinema",
+            "super-heróis"
+        ]
+    },
+    {
+        "title": "Pandora",
+        "snippet": "Serviço de rádio por internet que cria estações personalizadas com base no 'DNA musical' de músicas e artistas.",
+        "link": "https://www.pandora.com",
+        "tags": [
+            "entretenimento",
+            "música",
+            "streaming",
+            "rádio"
+        ]
+    },
+    {
+        "title": "RedBox",
+        "snippet": "Empresa americana conhecida por quiosques de aluguel de filmes e jogos em DVD, Blu-ray e digital.",
+        "link": "https://www.redbox.com",
+        "tags": [
+            "entretenimento",
+            "filmes",
+            "aluguel",
+            "mídia física"
+        ]
+    },
+    {
+        "title": "Filmow",
+        "snippet": "Rede social brasileira de cinema onde os usuários catalogam, avaliam e compartilham filmes e séries.",
+        "link": "https://filmow.com",
+        "tags": [
+            "entretenimento",
+            "cinema",
+            "social",
+            "brasil"
+        ]
+    },
+    {
+        "title": "OnlyFans",
+        "snippet": "Plataforma de conteúdo por assinatura onde criadores oferecem conteúdo exclusivo (fitness, tutoriais, entretenimento adulto) diretamente aos seus fãs.",
+        "link": "https://onlyfans.com",
+        "tags": [
+            "entretenimento",
+            "social",
+            "assinatura",
+            "conteúdo adulto"
+        ]
+    },
+    {
+        "title": "Pornhub (comédia)",
+        "snippet": "Apesar de ser focado em conteúdo adulto, o site também é usado como plataforma para vídeos de comédia e paródias de cultura pop. (Uso controverso).",
+        "link": "https://www.pornhub.com",
+        "tags": [
+            "entretenimento",
+            "conteúdo adulto",
+            "comédia",
+            "paródia"
+        ]
+    },
+    {
+        "title": "The New Yorker",
+        "snippet": "Revista americana conhecida por suas reportagens longas, ensaios aprofundados, ficção, poemas e cartuns.",
+        "link": "https://www.newyorker.com",
+        "tags": [
+            "notícias",
+            "cultura",
+            "política",
+            "literatura"
+        ]
+    },
+    {
+        "title": "The Atlantic",
+        "snippet": "Revista e portal com foco em política, economia, cultura e análise social de longo formato.",
+        "link": "https://www.theatlantic.com",
+        "tags": [
+            "notícias",
+            "análise",
+            "política",
+            "cultura"
+        ]
+    },
+    {
+        "title": "The Hill",
+        "snippet": "Portal americano focado em política, o Congresso dos EUA e o cenário político de Washington, D.C.",
+        "link": "https://thehill.com",
+        "tags": [
+            "notícias",
+            "política",
+            "eua",
+            "governo"
+        ]
+    },
+    {
+        "title": "Politico",
+        "snippet": "Jornalismo político focado em cobertura de bastidores, campanhas eleitorais e governo nos EUA e Europa.",
+        "link": "https://www.politico.com",
+        "tags": [
+            "notícias",
+            "política",
+            "eua",
+            "internacional"
+        ]
+    },
+    {
+        "title": "Al Jazeera",
+        "snippet": "Rede de notícias global do Oriente Médio, oferecendo uma perspectiva alternativa sobre eventos internacionais.",
+        "link": "https://www.aljazeera.com",
+        "tags": [
+            "notícias",
+            "internacional",
+            "oriente médio",
+            "geopolítica"
+        ]
+    },
+    {
+        "title": "Reuters",
+        "snippet": "Agência de notícias e portal global, líder em notícias de última hora, finanças e cobertura internacional.",
+        "link": "https://www.reuters.com",
+        "tags": [
+            "notícias",
+            "agência",
+            "internacional",
+            "finanças"
+        ]
+    },
+    {
+        "title": "Associated Press (AP)",
+        "snippet": "Agência de notícias cooperativa americana, uma das maiores e mais antigas do mundo, fonte primária para muitos veículos.",
+        "link": "https://apnews.com",
+        "tags": [
+            "notícias",
+            "agência",
+            "internacional",
+            "eua"
+        ]
+    },
+    {
+        "title": "Agência Brasil",
+        "snippet": "Agência de notícias pública do Brasil, operada pela Empresa Brasil de Comunicação (EBC).",
+        "link": "https://agenciabrasil.ebc.com.br",
+        "tags": [
+            "notícias",
+            "governo",
+            "brasil",
+            "pública"
+        ]
+    },
+    {
+        "title": "CNN Brasil",
+        "snippet": "Versão brasileira da rede de notícias CNN, com foco em política, economia e debates nacionais.",
+        "link": "https://www.cnnbrasil.com.br",
+        "tags": [
+            "notícias",
+            "brasil",
+            "tv",
+            "política"
+        ]
+    },
+    {
+        "title": "Record News",
+        "snippet": "Canal de notícias 24 horas brasileiro, parte do Grupo Record, com foco em notícias de última hora e debates.",
+        "link": "https://recordnews.r7.com",
+        "tags": [
+            "notícias",
+            "brasil",
+            "tv",
+            "nacional"
+        ]
+    },
+    {
+        "title": "Jovem Pan News",
+        "snippet": "Portal de notícias do grupo Jovem Pan, com foco em política, opinião e variedades.",
+        "link": "https://jovempan.com.br/noticias",
+        "tags": [
+            "notícias",
+            "rádio",
+            "brasil",
+            "opinião"
+        ]
+    },
+    {
+        "title": "UOL Tilt",
+        "snippet": "Seção do portal UOL dedicada exclusivamente a notícias, análises e tendências de tecnologia e inovação.",
+        "link": "https://www.uol.com.br/tilt/",
+        "tags": [
+            "notícias",
+            "tecnologia",
+            "inovação",
+            "brasil"
+        ]
+    },
+    {
+        "title": "Ecycle",
+        "snippet": "Portal de notícias focado em sustentabilidade, meio ambiente, consumo consciente e estilo de vida ecológico.",
+        "link": "https://www.ecycle.com.br",
+        "tags": [
+            "notícias",
+            "meio ambiente",
+            "sustentabilidade",
+            "ecologia"
+        ]
+    },
+    {
+        "title": "O Eco",
+        "snippet": "Mídia independente brasileira dedicada ao jornalismo ambiental, reportando sobre florestas, água e clima.",
+        "link": "https://oeco.org.br",
+        "tags": [
+            "notícias",
+            "meio ambiente",
+            "jornalismo",
+            "brasil"
+        ]
+    },
+    {
+        "title": "Healthline",
+        "snippet": "Portal global de notícias e informações sobre saúde, bem-estar, nutrição e condições médicas.",
+        "link": "https://www.healthline.com",
+        "tags": [
+            "notícias",
+            "saúde",
+            "bem-estar",
+            "medicina"
+        ]
+    },
+    {
+        "title": "WebMD",
+        "snippet": "Informações médicas, notícias de saúde e ferramenta de verificação de sintomas, muito popular nos EUA.",
+        "link": "https://www.webmd.com",
+        "tags": [
+            "notícias",
+            "saúde",
+            "medicina",
+            "referência"
+        ]
+    },
+    {
+        "title": "Jusbrasil",
+        "snippet": "Plataforma de conteúdo jurídico, com notícias, artigos, jurisprudência e legislação brasileira.",
+        "link": "https://www.jusbrasil.com.br",
+        "tags": [
+            "notícias",
+            "direito",
+            "jurídico",
+            "brasil"
+        ]
+    },
+    {
+        "title": "ConJur (Consultor Jurídico)",
+        "snippet": "Portal de notícias e análises sobre o mundo do direito e da justiça no Brasil.",
+        "link": "https://www.conjur.com.br",
+        "tags": [
+            "notícias",
+            "direito",
+            "jurídico",
+            "brasil"
+        ]
+    },
+    {
+        "title": "The Globe and Mail",
+        "snippet": "Um dos principais jornais diários do Canadá, com forte cobertura de política, negócios e notícias nacionais.",
+        "link": "https://www.theglobeandmail.com",
+        "tags": [
+            "notícias",
+            "canadá",
+            "internacional",
+            "política"
+        ]
+    },
+    {
+        "title": "Sydney Morning Herald",
+        "snippet": "Um dos jornais mais influentes da Austrália, cobrindo notícias locais, nacionais e internacionais.",
+        "link": "https://www.smh.com.au",
+        "tags": [
+            "notícias",
+            "austrália",
+            "internacional",
+            "regional"
+        ]
+    },
+    {
+        "title": "El País Brasil",
+        "snippet": "Edição em português do renomado jornal espanhol El País, com foco em política e cultura brasileira e global.",
+        "link": "https://brasil.elpais.com",
+        "tags": [
+            "notícias",
+            "internacional",
+            "brasil",
+            "espanha"
+        ]
+    },
+    {
+        "title": "DW Brasil",
+        "snippet": "Portal de notícias em português da Deutsche Welle, a emissora internacional da Alemanha.",
+        "link": "https://www.dw.com/pt-br",
+        "tags": [
+            "notícias",
+            "alemanha",
+            "internacional",
+            "brasil"
+        ]
+    },
+    {
+        "title": "Agência Pública",
+        "snippet": "Agência de jornalismo investigativo e independente, sem fins lucrativos, no Brasil.",
+        "link": "https://apublica.org",
+        "tags": [
+            "notícias",
+            "investigação",
+            "jornalismo",
+            "brasil"
+        ]
+    },
+    {
+        "title": "Repórter Brasil",
+        "snippet": "Organização que produz reportagens investigativas sobre direitos humanos, trabalho escravo e questões socioambientais.",
+        "link": "https://reporterbrasil.org.br",
+        "tags": [
+            "notícias",
+            "investigação",
+            "social",
+            "meio ambiente"
+        ]
+    },
+    {
+        "title": "O Antagonista",
+        "snippet": "Portal de notícias e política com viés opinativo e foco nos bastidores de Brasília.",
+        "link": "https://oantagonista.uol.com.br",
+        "tags": [
+            "notícias",
+            "política",
+            "opinião",
+            "brasil"
+        ]
+    },
+    {
+        "title": "Gazeta Esportiva",
+        "snippet": "Portal esportivo tradicional brasileiro, com forte cobertura de futebol paulista e notícias nacionais.",
+        "link": "https://www.gazetaesportiva.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "brasil",
+            "regional"
+        ]
+    },
+    {
+        "title": "World Athletics",
+        "snippet": "Site oficial da Federação Internacional de Atletismo, com notícias sobre provas de pista e campo, maratonas e rankings.",
+        "link": "https://www.worldathletics.org",
+        "tags": [
+            "esportes",
+            "atletismo",
+            "competição",
+            "internacional"
+        ]
+    },
+    {
+        "title": "FINA",
+        "snippet": "Site oficial da Federação Internacional de Natação, com informações sobre natação, saltos ornamentais, pólo aquático e nado artístico.",
+        "link": "https://www.fina.org",
+        "tags": [
+            "esportes",
+            "natação",
+            "aquáticos",
+            "competição"
+        ]
+    },
+    {
+        "title": "FIG (Federação Internacional de Ginástica)",
+        "snippet": "Site oficial da entidade que rege a ginástica artística, rítmica e de trampolim em nível global.",
+        "link": "https://www.gymnastics.sport",
+        "tags": [
+            "esportes",
+            "ginástica",
+            "olimpíadas",
+            "competição"
+        ]
+    },
+    {
+        "title": "World Rugby",
+        "snippet": "Site oficial da federação internacional que governa o Rugby Union, incluindo notícias, rankings e competições.",
+        "link": "https://www.world.rugby",
+        "tags": [
+            "esportes",
+            "rugby",
+            "internacional",
+            "competição"
+        ]
+    },
+    {
+        "title": "IIHF (Hóquei no Gelo)",
+        "snippet": "Site oficial da Federação Internacional de Hóquei no Gelo, com notícias sobre campeonatos mundiais e ligas.",
+        "link": "https://www.iihf.com",
+        "tags": [
+            "esportes",
+            "hóquei",
+            "inverno",
+            "competição"
+        ]
+    },
+    {
+        "title": "FIS (Esqui e Snowboard)",
+        "snippet": "Site oficial da Federação Internacional de Esqui, cobrindo esqui alpino, snowboard, salto de esqui e mais.",
+        "link": "https://www.fis-ski.com",
+        "tags": [
+            "esportes",
+            "inverno",
+            "esqui",
+            "snowboard"
+        ]
+    },
+    {
+        "title": "World Surf League (WSL)",
+        "snippet": "Site oficial do circuito mundial profissional de surf, com notícias, rankings e transmissão de eventos.",
+        "link": "https://www.worldsurfleague.com",
+        "tags": [
+            "esportes",
+            "surf",
+            "competição",
+            "ondas"
+        ]
+    },
+    {
+        "title": "Street League Skateboarding (SLS)",
+        "snippet": "Liga profissional global de skate de rua, com foco em competições de alto nível e rankings.",
+        "link": "https://www.streetleague.com",
+        "tags": [
+            "esportes",
+            "skate",
+            "radicais",
+            "competição"
+        ]
+    },
+    {
+        "title": "Fórmula E",
+        "snippet": "Site oficial do campeonato mundial de carros de fórmula movidos a energia elétrica.",
+        "link": "https://www.fiaformulae.com",
+        "tags": [
+            "esportes",
+            "automobilismo",
+            "elétrico",
+            "corrida"
+        ]
+    },
+    {
+        "title": "MotoGP",
+        "snippet": "Site oficial do principal campeonato mundial de motociclismo de velocidade.",
+        "link": "https://www.motogp.com",
+        "tags": [
+            "esportes",
+            "motociclismo",
+            "corrida",
+            "velocidade"
+        ]
+    },
+    {
+        "title": "WRC (World Rally Championship)",
+        "snippet": "Site oficial do Campeonato Mundial de Rally da FIA, com notícias sobre corridas off-road e equipes.",
+        "link": "https://www.wrc.com",
+        "tags": [
+            "esportes",
+            "automobilismo",
+            "rally",
+            "off-road"
+        ]
+    },
+    {
+        "title": "CBF Academy",
+        "snippet": "Plataforma de cursos e capacitação da Confederação Brasileira de Futebol, focada em gestão e treinadores.",
+        "link": "https://www.cbf.com.br/cbfacademy",
+        "tags": [
+            "esportes",
+            "futebol",
+            "cursos",
+            "treinamento"
+        ]
+    },
+    {
+        "title": "FIFAe World Cup",
+        "snippet": "Site oficial do campeonato mundial de eSports do jogo FIFA (EA Sports FC), organizado pela FIFA.",
+        "link": "https://www.fifa.gg/fifaewc",
+        "tags": [
+            "esportes",
+            "esports",
+            "fifa",
+            "competição"
+        ]
+    },
+    {
+        "title": "Overwatch League (OWL)",
+        "snippet": "Liga profissional de eSports do jogo Overwatch, baseada em cidades e com formato de liga americana.",
+        "link": "https://overwatchleague.com",
+        "tags": [
+            "esportes",
+            "esports",
+            "overwatch",
+            "competição"
+        ]
+    },
+    {
+        "title": "Call of Duty League (CDL)",
+        "snippet": "Liga profissional de eSports do jogo Call of Duty, com foco em times franqueados em cidades.",
+        "link": "https://callofdutyleague.com",
+        "tags": [
+            "esportes",
+            "esports",
+            "call of duty",
+            "competição"
+        ]
+    },
+    {
+        "title": "Placar",
+        "snippet": "Revista esportiva brasileira com foco em reportagens aprofundadas sobre futebol nacional e internacional.",
+        "link": "https://placar.abril.com.br",
+        "tags": [
+            "esportes",
+            "futebol",
+            "revista",
+            "análise"
+        ]
+    },
+    {
+        "title": "Lance!",
+        "snippet": "Um dos principais jornais e portais esportivos do Brasil, com cobertura diária e de todos os esportes.",
+        "link": "https://www.lance.com.br",
+        "tags": [
+            "esportes",
+            "futebol",
+            "notícias",
+            "brasil"
+        ]
+    },
+    {
+        "title": "CBHb (Handebol)",
+        "snippet": "Site oficial da Confederação Brasileira de Handebol, com notícias sobre seleções e ligas nacionais.",
+        "link": "https://cbhb.com.br",
+        "tags": [
+            "esportes",
+            "handebol",
+            "brasil",
+            "competição"
+        ]
+    },
+    {
+        "title": "CBRu (Rugby)",
+        "snippet": "Site oficial da Confederação Brasileira de Rugby, com informações sobre a modalidade no país.",
+        "link": "https://brasilrugby.com.br",
+        "tags": [
+            "esportes",
+            "rugby",
+            "brasil",
+            "nacional"
+        ]
+    },
+    {
+        "title": "CBBS (Beisebol e Softbol)",
+        "snippet": "Site oficial da Confederação Brasileira de Beisebol e Softbol, com foco em ligas e campeonatos nacionais.",
+        "link": "https://www.cbbs.com.br",
+        "tags": [
+            "esportes",
+            "beisebol",
+            "softbol",
+            "brasil"
+        ]
+    },
+    {
+        "title": "CBG (Golfe)",
+        "snippet": "Site oficial da Confederação Brasileira de Golfe, com informações sobre torneios e desenvolvimento do esporte.",
+        "link": "https://www.cbg.com.br",
+        "tags": [
+            "esportes",
+            "golfe",
+            "brasil",
+            "competição"
+        ]
+    },
+    {
+        "title": "World Series of Poker (WSOP)",
+        "snippet": "Site oficial do maior e mais prestigiado torneio de pôquer do mundo, realizado anualmente em Las Vegas.",
+        "link": "https://www.wsop.com",
+        "tags": [
+            "esportes",
+            "pôquer",
+            "torneio",
+            "jogos de cartas"
+        ]
+    },
+    {
+        "title": "PokerStars",
+        "snippet": "Maior plataforma de pôquer online do mundo, oferecendo torneios e jogos a dinheiro.",
+        "link": "https://www.pokerstars.net",
+        "tags": [
+            "esportes",
+            "pôquer",
+            "online",
+            "jogos"
+        ]
+    },
+    {
+        "title": "The Hockey News",
+        "snippet": "Principal fonte de notícias, análises e rumores sobre hóquei no gelo, especialmente a NHL.",
+        "link": "https://thehockeynews.com",
+        "tags": [
+            "esportes",
+            "hóquei",
+            "nhl",
+            "eua"
+        ]
+    },
+    {
+        "title": "NBA G League",
+        "snippet": "Liga de desenvolvimento oficial da NBA, servindo como campo de testes para regras e jogadores.",
+        "link": "https://gleague.nba.com",
+        "tags": [
+            "esportes",
+            "basquete",
+            "nba",
+            "liga"
+        ]
+    },
+    {
+        "title": "ESPN FC",
+        "snippet": "Seção da ESPN dedicada exclusivamente a notícias e cobertura de futebol (soccer) global.",
+        "link": "https://www.espn.com/soccer/",
+        "tags": [
+            "esportes",
+            "futebol",
+            "notícias",
+            "internacional"
+        ]
+    },
+    {
+        "title": "CBFS (Futebol de Areia)",
+        "snippet": "Site oficial da Confederação Brasileira de Futebol de Salão, com destaque para a Seleção de Futebol de Areia.",
+        "link": "https://www.cbfs.com.br/futebol-de-areia",
+        "tags": [
+            "esportes",
+            "futebol",
+            "areia",
+            "brasil"
+        ]
     }
 ]
+
