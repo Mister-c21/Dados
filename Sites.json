@@ -1,5 +1,80 @@
 [
     {
+        "title": "MDN Web Docs",
+        "snippet": "Recursos para desenvolvedores, por desenvolvedores. Documentação sobre tecnologias da web abertas, incluindo HTML, CSS e APIs.",
+        "link": "https://developer.mozilla.org",
+        "tags": [
+            "educação",
+            "desenvolvimento",
+            "css",
+            "html",
+            "javascript",
+            "docs"
+        ]
+    },
+    {
+        "title": "Stack Overflow",
+        "snippet": "Comunidade online para desenvolvedores aprenderem, compartilharem seus conhecimentos e construírem suas carreiras.",
+        "link": "https://stackoverflow.com",
+        "tags": [
+            "educação",
+            "desenvolvimento",
+            "programação",
+            "comunidade",
+            "ajuda"
+        ]
+    },
+    {
+        "title": "W3Schools",
+        "snippet": "O maior site de desenvolvimento web do mundo, com tutoriais e referências sobre linguagens de desenvolvimento.",
+        "link": "https://www.w3schools.com",
+        "tags": [
+            "educação",
+            "tutorial",
+            "html",
+            "css",
+            "javascript",
+            "aprender"
+        ]
+    },
+    {
+        "title": "CSS-Tricks",
+        "snippet": "Dicas, truques e artigos diários sobre Cascading Style Sheets e frontend.",
+        "link": "https://css-tricks.com",
+        "tags": [
+            "educação",
+            "css",
+            "frontend",
+            "design",
+            "dicas"
+        ]
+    },
+    {
+        "title": "GitHub",
+        "snippet": "Plataforma de hospedagem de código e controle de versão usando Git. Permite que desenvolvedores trabalhem juntos em projetos.",
+        "link": "https://github.com",
+        "tags": [
+            "educação",
+            "git",
+            "versionamento",
+            "código",
+            "desenvolvimento",
+            "projetos"
+        ]
+    },
+    {
+        "title": "Can I use...",
+        "snippet": "Fornece tabelas de suporte de navegador atualizadas para tecnologias de front-end da web em navegadores de desktop e móveis.",
+        "link": "https://caniuse.com/",
+        "tags": [
+            "educação",
+            "compatibilidade",
+            "browser",
+            "css",
+            "html5"
+        ]
+    },
+    {
         "title": "Coursera",
         "snippet": "Oferece acesso universal à melhor educação do mundo, fazendo parceria com as melhores universidades e organizações para oferecer cursos online.",
         "link": "https://www.coursera.org",
@@ -60,15 +135,225 @@
         ]
     },
     {
-        "title": "Medium",
-        "snippet": "Plataforma de publicação online com milhões de histórias e ideias em uma ampla variedade de tópicos, de tecnologia a cultura.",
-        "link": "https://medium.com",
+        "title": "Udemy",
+        "snippet": "Plataforma de aprendizado online com milhares de cursos pagos e gratuitos ministrados por instrutores globais.",
+        "link": "https://www.udemy.com",
         "tags": [
             "educação",
-            "notícias",
-            "artigos",
-            "blog",
-            "escrita"
+            "cursos",
+            "online",
+            "habilidades"
+        ]
+    },
+    {
+        "title": "FutureLearn",
+        "snippet": "Oferece cursos online de universidades e organizações especializadas, com foco em habilidades profissionais.",
+        "link": "https://www.futurelearn.com",
+        "tags": [
+            "educação",
+            "cursos",
+            "universidade",
+            "profissional"
+        ]
+    },
+    {
+        "title": "Kultivi",
+        "snippet": "Cursos preparatórios para ENEM, OAB, concursos e idiomas totalmente gratuitos e com certificação.",
+        "link": "https://kultivi.com",
+        "tags": [
+            "educação",
+            "gratuito",
+            "enem",
+            "concursos",
+            "idiomas"
+        ]
+    },
+    {
+        "title": "Harvard Online",
+        "snippet": "Cursos e programas online oferecidos pela Universidade de Harvard, cobrindo diversas disciplinas.",
+        "link": "https://online.harvard.edu",
+        "tags": [
+            "educação",
+            "universidade",
+            "cursos",
+            "ciência"
+        ]
+    },
+    {
+        "title": "MIT OpenCourseWare (OCW)",
+        "snippet": "Material de curso de quase todos os cursos do MIT (Massachusetts Institute of Technology), disponível gratuitamente online.",
+        "link": "https://ocw.mit.edu",
+        "tags": [
+            "educação",
+            "ciência",
+            "tecnologia",
+            "gratuito"
+        ]
+    },
+    {
+        "title": "Codecademy",
+        "snippet": "Plataforma interativa que ensina a codificar através de aulas práticas e projetos.",
+        "link": "https://www.codecademy.com",
+        "tags": [
+            "educação",
+            "programação",
+            "código",
+            "interativo"
+        ]
+    },
+    {
+        "title": "Nova Escola",
+        "snippet": "Conteúdo e cursos focados na prática e formação de professores e gestores escolares no Brasil.",
+        "link": "https://cursos.novaescola.org.br",
+        "tags": [
+            "educação",
+            "professores",
+            "bncc",
+            "pedagogia"
+        ]
+    },
+    {
+        "title": "Fundação Bradesco",
+        "snippet": "Escola Virtual com cursos online gratuitos em áreas como Administração, TI, Desenvolvimento Pessoal.",
+        "link": "https://www.ev.org.br",
+        "tags": [
+            "educação",
+            "gratuito",
+            "TI",
+            "administração"
+        ]
+    },
+    {
+        "title": "Alura",
+        "snippet": "Escola de tecnologia no Brasil, com cursos focados em Front-end, Mobile, Data Science, UX & Design, e mais.",
+        "link": "https://www.alura.com.br",
+        "tags": [
+            "educação",
+            "tecnologia",
+            "programação",
+            "cursos"
+        ]
+    },
+    {
+        "title": "Digital House",
+        "snippet": "Escola de codificação e tecnologia com bootcamps e cursos focados em carreiras digitais.",
+        "link": "https://www.digitalhouse.com/br",
+        "tags": [
+            "educação",
+            "bootcamp",
+            "tecnologia",
+            "carreira"
+        ]
+    },
+    {
+        "title": "OpenupEd",
+        "snippet": "Portal europeu que oferece formações MOOCs em inglês e espanhol, com foco em qualidade de ensino.",
+        "link": "https://www.openuped.eu/",
+        "tags": [
+            "educação",
+            "MOOC",
+            "internacional",
+            "cursos"
+        ]
+    },
+    {
+        "title": "Senac EAD",
+        "snippet": "Oferece cursos técnicos, de extensão e graduação a distância com foco em diversas áreas profissionais.",
+        "link": "https://www.ead.senac.br",
+        "tags": [
+            "educação",
+            "profissional",
+            "ead",
+            "técnico"
+        ]
+    },
+    {
+        "title": "Grok Learning",
+        "snippet": "Ensina programação e pensamento computacional de forma divertida e interativa, especialmente para jovens.",
+        "link": "https://groklearning.com",
+        "tags": [
+            "educação",
+            "programação",
+            "código",
+            "jovens"
+        ]
+    },
+    {
+        "title": "SoloLearn",
+        "snippet": "Aplicativo e site para aprender a codificar de forma social, com módulos de lições e prática.",
+        "link": "https://www.sololearn.com",
+        "tags": [
+            "educação",
+            "programação",
+            "móvel",
+            "social"
+        ]
+    },
+    {
+        "title": "Skillshare",
+        "snippet": "Comunidade de aprendizado online com milhares de aulas em criatividade, design, negócios e mais.",
+        "link": "https://www.skillshare.com",
+        "tags": [
+            "educação",
+            "criatividade",
+            "design",
+            "habilidades"
+        ]
+    },
+    {
+        "title": "Perguntados",
+        "snippet": "Jogo de perguntas e respostas que pode ser usado para fins educativos e para testar conhecimentos gerais.",
+        "link": "https://www.preguntados.com",
+        "tags": [
+            "educação",
+            "entretenimento",
+            "trivia",
+            "conhecimento"
+        ]
+    },
+    {
+        "title": "Jstor",
+        "snippet": "Biblioteca digital de artigos acadêmicos, livros e fontes primárias em humanidades e ciências sociais.",
+        "link": "https://www.jstor.org",
+        "tags": [
+            "educação",
+            "acadêmico",
+            "pesquisa",
+            "ciências"
+        ]
+    },
+    {
+        "title": "Google for Education",
+        "snippet": "Ferramentas e recursos do Google voltados para professores e alunos, como Classroom e recursos de busca.",
+        "link": "https://edu.google.com",
+        "tags": [
+            "educação",
+            "ferramentas",
+            "tecnologia",
+            "ensino"
+        ]
+    },
+    {
+        "title": "Scribd",
+        "snippet": "Serviço de leitura digital que oferece acesso a milhões de livros, audiolivros, revistas e documentos.",
+        "link": "https://www.scribd.com",
+        "tags": [
+            "educação",
+            "leitura",
+            "livros",
+            "documentos"
+        ]
+    },
+    {
+        "title": "YouTube",
+        "snippet": "Plataforma de compartilhamento de vídeos onde os usuários podem assistir, curtir, compartilhar, comentar e enviar seus próprios vídeos.",
+        "link": "https://youtube.com",
+        "tags": [
+            "entretenimento",
+            "vídeos",
+            "música",
+            "vlogs",
+            "streaming"
         ]
     },
     {
@@ -109,7 +394,7 @@
     },
     {
         "title": "IMDb (Internet Movie Database)",
-        "snippet": "A maior e mais popular fonte de filmes, TV e conteúdo de celebridades do mundo.",
+        "snippet": "A maior e mais popular fonte de filmes, TV e conteúdo de celebridades do mundo, com notas e críticas.",
         "link": "https://www.imdb.com",
         "tags": [
             "entretenimento",
@@ -121,50 +406,311 @@
     },
     {
         "title": "Reddit",
-        "snippet": "Rede de comunidades onde as pessoas podem compartilhar conteúdo, discutir e votar em tópicos de seu interesse.",
+        "snippet": "Rede de comunidades (subreddits) onde as pessoas podem compartilhar conteúdo, discutir e votar em tópicos de seu interesse.",
         "link": "https://www.reddit.com",
         "tags": [
             "entretenimento",
             "comunidade",
             "fórum",
-            "notícias",
+            "memes",
             "discussão"
         ]
     },
     {
+        "title": "Disney+",
+        "snippet": "Serviço de streaming da Disney, Pixar, Marvel, Star Wars e National Geographic.",
+        "link": "https://www.disneyplus.com",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "filmes",
+            "séries"
+        ]
+    },
+    {
+        "title": "Amazon Prime Video",
+        "snippet": "Plataforma de streaming incluída na assinatura Amazon Prime, com filmes, séries e conteúdo original.",
+        "link": "https://www.primevideo.com",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "filmes",
+            "séries"
+        ]
+    },
+    {
+        "title": "Max (ex-HBO Max)",
+        "snippet": "Serviço de streaming com catálogo da HBO, Warner Bros., e conteúdo original Max Originals.",
+        "link": "https://www.max.com",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "séries",
+            "filmes"
+        ]
+    },
+    {
+        "title": "Globoplay",
+        "snippet": "Plataforma de streaming brasileira com novelas, séries, filmes e a programação ao vivo da TV Globo.",
+        "link": "https://globoplay.globo.com",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "brasil",
+            "tv"
+        ]
+    },
+    {
+        "title": "Deezer",
+        "snippet": "Serviço de streaming de música francês com milhões de faixas e foco em qualidade de áudio.",
+        "link": "https://www.deezer.com",
+        "tags": [
+            "entretenimento",
+            "música",
+            "streaming",
+            "áudio"
+        ]
+    },
+    {
+        "title": "Crunchyroll",
+        "snippet": "Serviço de streaming focado em animes e mangás, com acesso a títulos recém-lançados no Japão.",
+        "link": "https://www.crunchyroll.com",
+        "tags": [
+            "entretenimento",
+            "anime",
+            "mangá",
+            "streaming"
+        ]
+    },
+    {
+        "title": "MUBI",
+        "snippet": "Plataforma de streaming curada, dedicada a filmes independentes, clássicos e de autor.",
+        "link": "https://mubi.com",
+        "tags": [
+            "entretenimento",
+            "cinema",
+            "independente",
+            "cult"
+        ]
+    },
+    {
+        "title": "Rotten Tomatoes",
+        "snippet": "Agregador de críticas de filmes e programas de TV que calcula uma classificação de aprovação (Tomatometer).",
+        "link": "https://www.rottentomatoes.com",
+        "tags": [
+            "entretenimento",
+            "cinema",
+            "críticas",
+            "filmes"
+        ]
+    },
+    {
+        "title": "SoundCloud",
+        "snippet": "Plataforma de distribuição de áudio online onde artistas independentes e grandes nomes publicam suas músicas e podcasts.",
+        "link": "https://soundcloud.com",
+        "tags": [
+            "entretenimento",
+            "música",
+            "áudio",
+            "artistas"
+        ]
+    },
+    {
+        "title": "Steam",
+        "snippet": "Principal plataforma de distribuição digital de jogos para PC, com fóruns e comunidades.",
+        "link": "https://store.steampowered.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "pc gaming",
+            "comunidade"
+        ]
+    },
+    {
+        "title": "9GAG",
+        "snippet": "Comunidade online de compartilhamento de memes, vídeos engraçados e conteúdo viral.",
+        "link": "https://9gag.com",
+        "tags": [
+            "entretenimento",
+            "humor",
+            "memes",
+            "viral"
+        ]
+    },
+    {
+        "title": "DeviantArt",
+        "snippet": "Comunidade de arte online que permite aos artistas exibirem seus trabalhos e interagirem com outros criadores.",
+        "link": "https://www.deviantart.com",
+        "tags": [
+            "entretenimento",
+            "arte",
+            "design",
+            "comunidade"
+        ]
+    },
+    {
+        "title": "Pinterest",
+        "snippet": "Plataforma visual de descoberta de ideias e inspiração (pins) em moda, culinária, hobbies, etc.",
+        "link": "https://www.pinterest.com",
+        "tags": [
+            "entretenimento",
+            "inspiração",
+            "visual",
+            "hobbies"
+        ]
+    },
+    {
+        "title": "Vimeo",
+        "snippet": "Plataforma de hospedagem e compartilhamento de vídeo, popular entre cineastas e artistas para conteúdo de alta qualidade.",
+        "link": "https://vimeo.com",
+        "tags": [
+            "entretenimento",
+            "vídeos",
+            "cinema",
+            "criação"
+        ]
+    },
+    {
+        "title": "NetMovies",
+        "snippet": "Plataforma de streaming brasileira, com foco em filmes e séries gratuitos (com anúncios) e pagos.",
+        "link": "https://www.netmovies.com.br",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "filmes",
+            "gratuito"
+        ]
+    },
+    {
+        "title": "Looke",
+        "snippet": "Streaming brasileiro que oferece conteúdo sob demanda, com foco em filmes e séries de diversas distribuidoras.",
+        "link": "https://www.looke.com.br",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "filmes",
+            "nacional"
+        ]
+    },
+    {
+        "title": "Afroflix",
+        "snippet": "Plataforma gratuita e colaborativa com produções audiovisuais feitas por, no mínimo, uma pessoa negra na equipe.",
+        "link": "https://www.afroflix.com.br",
+        "tags": [
+            "entretenimento",
+            "negro",
+            "nacional",
+            "gratuito"
+        ]
+    },
+    {
+        "title": "DIRECTV GO (DGO)",
+        "snippet": "Serviço que combina streaming e canais de TV ao vivo, oferecendo uma experiência de TV a cabo digital.",
+        "link": "https://www.dgo.com/br/",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "tv ao vivo",
+            "canais"
+        ]
+    },
+    {
+        "title": "The Pirate Bay",
+        "snippet": "Diretório de links magnéticos e arquivos torrent para entretenimento e software (Atenção: Acesso a conteúdo pirata).",
+        "link": "https://thepiratebay.org",
+        "tags": [
+            "entretenimento",
+            "torrent",
+            "downloads",
+            "filmes"
+        ]
+    },
+    {
+        "title": "IGN",
+        "snippet": "Site líder em notícias, análises e guias de videogames, filmes, TV e quadrinhos.",
+        "link": "https://www.ign.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "notícias",
+            "críticas"
+        ]
+    },
+    {
+        "title": "GameSpot",
+        "snippet": "Fonte popular de notícias, análises e informações sobre videogames.",
+        "link": "https://www.gamespot.com",
+        "tags": [
+            "entretenimento",
+            "jogos",
+            "reviews",
+            "pc gaming"
+        ]
+    },
+    {
+        "title": "MixCloud",
+        "snippet": "Plataforma de streaming de áudio para DJs, artistas de rádio e podcasters, especializada em mixes e shows de rádio.",
+        "link": "https://www.mixcloud.com",
+        "tags": [
+            "entretenimento",
+            "música",
+            "rádio",
+            "podcast"
+        ]
+    },
+    {
+        "title": "TuneIn",
+        "snippet": "Serviço que permite ouvir milhares de estações de rádio (música, notícias, esportes) de todo o mundo.",
+        "link": "https://tunein.com",
+        "tags": [
+            "entretenimento",
+            "rádio",
+            "música",
+            "notícias"
+        ]
+    },
+    {
+        "title": "Metacritic",
+        "snippet": "Agregador que compila críticas de música, filmes, TV, jogos e livros para dar uma pontuação média.",
+        "link": "https://www.metacritic.com",
+        "tags": [
+            "entretenimento",
+            "críticas",
+            "reviews",
+            "jogos"
+        ]
+    },
+    {
         "title": "Google Notícias",
-        "snippet": "Agregador de notícias que reúne manchetes de milhares de fontes de notícias em todo o mundo.",
+        "snippet": "Agregador de notícias que reúne manchetes de milhares de fontes globais e regionais.",
         "link": "https://news.google.com",
         "tags": [
             "notícias",
             "agregador",
             "mundial",
-            "atualidades",
-            "política"
+            "atualidades"
         ]
     },
     {
-        "title": "BBC News",
-        "snippet": "Notícias de última hora, análise e vídeo de todo o mundo. Cobertura da BBC sobre política, esporte, negócios e mais.",
-        "link": "https://www.bbc.com/news",
+        "title": "BBC News Brasil",
+        "snippet": "Notícias de última hora, análise e vídeo de todo o mundo, com foco na cobertura global em português.",
+        "link": "https://www.bbc.com/portuguese",
         "tags": [
             "notícias",
             "internacional",
-            "cobertura",
             "jornalismo",
             "mundo"
         ]
     },
     {
         "title": "The New York Times",
-        "snippet": "Reportagens de notícias de qualidade, multimídia e análise de um dos jornais mais influentes do mundo.",
+        "snippet": "Jornal influente com reportagens de qualidade, multimídia e análise aprofundada global.",
         "link": "https://www.nytimes.com",
         "tags": [
             "notícias",
             "jornalismo",
             "política",
-            "cultura",
-            "economia"
+            "internacional"
         ]
     },
     {
@@ -175,8 +721,304 @@
             "notícias",
             "brasil",
             "jornalismo",
+            "nacional"
+        ]
+    },
+    {
+        "title": "Estadão",
+        "snippet": "Oferece as últimas notícias do Brasil e do mundo, com foco em política, economia e cultura.",
+        "link": "https://www.estadao.com.br",
+        "tags": [
+            "notícias",
+            "brasil",
+            "política",
+            "economia"
+        ]
+    },
+    {
+        "title": "Agência Brasil",
+        "snippet": "Veículo público de comunicação do governo federal, com notícias sobre o Brasil e serviço.",
+        "link": "https://agenciabrasil.ebc.com.br",
+        "tags": [
+            "notícias",
+            "brasil",
+            "governo",
+            "serviço"
+        ]
+    },
+    {
+        "title": "CNN Brasil",
+        "snippet": "Cobertura ao vivo do Brasil e do mundo, com foco em política, economia e opinião.",
+        "link": "https://www.cnnbrasil.com.br",
+        "tags": [
+            "notícias",
+            "tv",
+            "política",
+            "economia"
+        ]
+    },
+    {
+        "title": "G1",
+        "snippet": "Portal de notícias do Grupo Globo, com cobertura ampla e nacional, incluindo todas as regiões do Brasil.",
+        "link": "https://g1.globo.com",
+        "tags": [
+            "notícias",
+            "brasil",
             "nacional",
+            "cobertura"
+        ]
+    },
+    {
+        "title": "UOL Notícias",
+        "snippet": "Grande portal brasileiro de conteúdo, com notícias de diversas editorias e colunistas.",
+        "link": "https://noticias.uol.com.br",
+        "tags": [
+            "notícias",
+            "brasil",
+            "colunas",
+            "variedades"
+        ]
+    },
+    {
+        "title": "O Globo",
+        "snippet": "Jornal carioca com forte cobertura de política, economia e cultura do Rio de Janeiro e do país.",
+        "link": "https://oglobo.globo.com",
+        "tags": [
+            "notícias",
+            "brasil",
+            "rio de janeiro",
+            "jornalismo"
+        ]
+    },
+    {
+        "title": "Reuters",
+        "snippet": "Agência de notícias global, conhecida por sua cobertura rápida e objetiva de notícias financeiras e internacionais.",
+        "link": "https://www.reuters.com",
+        "tags": [
+            "notícias",
+            "internacional",
+            "economia",
+            "agência"
+        ]
+    },
+    {
+        "title": "Associated Press (AP)",
+        "snippet": "Uma das maiores agências de notícias do mundo, fornecendo notícias e imagens para veículos globais.",
+        "link": "https://apnews.com",
+        "tags": [
+            "notícias",
+            "agência",
+            "internacional",
+            "fotojornalismo"
+        ]
+    },
+    {
+        "title": "The Guardian",
+        "snippet": "Jornal britânico com uma forte reputação de jornalismo investigativo e cobertura global.",
+        "link": "https://www.theguardian.com",
+        "tags": [
+            "notícias",
+            "internacional",
+            "investigação",
             "política"
+        ]
+    },
+    {
+        "title": "El País Brasil",
+        "snippet": "Edição em português do jornal espanhol, com foco em América Latina e notícias globais.",
+        "link": "https://brasil.elpais.com",
+        "tags": [
+            "notícias",
+            "internacional",
+            "américa latina",
+            "opinião"
+        ]
+    },
+    {
+        "title": "Sputnik Brasil",
+        "snippet": "Notícias e análises internacionais com uma perspectiva russa, cobrindo eventos globais.",
+        "link": "https://sputniknewsbrasil.com.br",
+        "tags": [
+            "notícias",
+            "internacional",
+            "geopolítica",
+            "rússia"
+        ]
+    },
+    {
+        "title": "Revista Veja",
+        "snippet": "Revista semanal brasileira com foco em política, economia, variedades e reportagens exclusivas.",
+        "link": "https://veja.abril.com.br",
+        "tags": [
+            "notícias",
+            "revista",
+            "política",
+            "reportagem"
+        ]
+    },
+    {
+        "title": "The Wall Street Journal",
+        "snippet": "Focado em notícias de negócios, finanças e mercados dos EUA e do mundo.",
+        "link": "https://www.wsj.com",
+        "tags": [
+            "notícias",
+            "economia",
+            "finanças",
+            "negócios"
+        ]
+    },
+    {
+        "title": "TechCrunch",
+        "snippet": "Notícias sobre startups, tecnologia e o mundo da inovação.",
+        "link": "https://techcrunch.com",
+        "tags": [
+            "notícias",
+            "tecnologia",
+            "startups",
+            "negócios"
+        ]
+    },
+    {
+        "title": "VICE",
+        "snippet": "Conteúdo focado em cultura, notícias e documentários com uma perspectiva jovem e alternativa.",
+        "link": "https://www.vice.com/pt/",
+        "tags": [
+            "notícias",
+            "cultura",
+            "jovem",
+            "documentário"
+        ]
+    },
+    {
+        "title": "Carta Capital",
+        "snippet": "Revista e portal de notícias brasileiro com foco em análises políticas e economia.",
+        "link": "https://www.cartacapital.com.br",
+        "tags": [
+            "notícias",
+            "política",
+            "análise",
+            "opinião"
+        ]
+    },
+    {
+        "title": "Valor Econômico",
+        "snippet": "Principal jornal de economia e negócios do Brasil.",
+        "link": "https://valor.globo.com",
+        "tags": [
+            "notícias",
+            "economia",
+            "negócios",
+            "mercado"
+        ]
+    },
+    {
+        "title": "HuffPost Brasil",
+        "snippet": "Edição brasileira de um portal de notícias com foco em política, estilo de vida e opiniões.",
+        "link": "https://www.huffpostbrasil.com",
+        "tags": [
+            "notícias",
+            "lifestyle",
+            "política",
+            "opinião"
+        ]
+    },
+    {
+        "title": "Exame",
+        "snippet": "Revista e portal focado em economia, investimentos, carreira e negócios no Brasil.",
+        "link": "https://exame.com",
+        "tags": [
+            "notícias",
+            "economia",
+            "investimentos",
+            "carreira"
+        ]
+    },
+    {
+        "title": "Terra Notícias",
+        "snippet": "Seção de notícias do portal Terra, com cobertura de assuntos nacionais e internacionais.",
+        "link": "https://www.terra.com.br/noticias/",
+        "tags": [
+            "notícias",
+            "brasil",
+            "variedades",
+            "atualidades"
+        ]
+    },
+    {
+        "title": "Zero Hora",
+        "snippet": "Um dos maiores jornais do Sul do Brasil, com forte cobertura regional do Rio Grande do Sul.",
+        "link": "https://gzh.com.br/",
+        "tags": [
+            "notícias",
+            "regional",
+            "sul do brasil",
+            "jornalismo"
+        ]
+    },
+    {
+        "title": "Al Jazeera English",
+        "snippet": "Rede de notícias sediada no Qatar, com forte cobertura do Oriente Médio e perspectiva global.",
+        "link": "https://www.aljazeera.com",
+        "tags": [
+            "notícias",
+            "internacional",
+            "oriente médio",
+            "mundo"
+        ]
+    },
+    {
+        "title": "Le Monde Diplomatique Brasil",
+        "snippet": "Análise e profundidade sobre geopolítica, cultura e sociedade, com foco na América Latina.",
+        "link": "https://diplomatique.org.br",
+        "tags": [
+            "notícias",
+            "análise",
+            "geopolítica",
+            "sociologia"
+        ]
+    },
+    {
+        "title": "Nexo Jornal",
+        "snippet": "Jornal digital com foco em infografia, dados e diferentes perspectivas sobre temas complexos.",
+        "link": "https://www.nexojornal.com.br",
+        "tags": [
+            "notícias",
+            "análise",
+            "dados",
+            "infografia"
+        ]
+    },
+    {
+        "title": "O Antagonista",
+        "snippet": "Site de notícias e opinião conhecido por sua cobertura política crítica no Brasil.",
+        "link": "https://oantagonista.com",
+        "tags": [
+            "notícias",
+            "política",
+            "opinião",
+            "brasil"
+        ]
+    },
+    {
+        "title": "Correio Braziliense",
+        "snippet": "Jornal de Brasília com foco na política nacional e no Distrito Federal.",
+        "link": "https://www.correiobraziliense.com.br",
+        "tags": [
+            "notícias",
+            "brasil",
+            "política",
+            "distrito federal"
+        ]
+    },
+    {
+        "title": "Jornal do Commercio (JC)",
+        "snippet": "Jornal de Pernambuco com forte cobertura de notícias do Nordeste e economia.",
+        "link": "https://jc.ne10.uol.com.br",
+        "tags": [
+            "notícias",
+            "regional",
+            "nordeste",
+            "pernambuco"
         ]
     },
     {
@@ -204,6 +1046,17 @@
         ]
     },
     {
+        "title": "Lance!",
+        "snippet": "Jornal e portal de esportes brasileiro com cobertura diária de diversas modalidades e colunistas.",
+        "link": "https://www.lance.com.br",
+        "tags": [
+            "esportes",
+            "futebol",
+            "notícias",
+            "brasil"
+        ]
+    },
+    {
         "title": "FIFA",
         "snippet": "Site oficial da Federação Internacional de Futebol, com notícias, resultados e informações sobre torneios mundiais.",
         "link": "https://www.fifa.com",
@@ -217,7 +1070,7 @@
     },
     {
         "title": "NBA.com",
-        "snippet": "O site oficial da National Basketball Association, com pontuações, destaques, estatísticas e notícias da liga.",
+        "snippet": "O site oficial da National Basketball Association, com pontuações, destaques, estatísticas e notícias da liga americana.",
         "link": "https://www.nba.com",
         "tags": [
             "esportes",
@@ -225,6 +1078,325 @@
             "eua",
             "liga",
             "estatísticas"
+        ]
+    },
+    {
+        "title": "NFL.com",
+        "snippet": "Site oficial da National Football League, com notícias, placares e estatísticas de futebol americano.",
+        "link": "https://www.nfl.com",
+        "tags": [
+            "esportes",
+            "futebol americano",
+            "eua",
+            "liga"
+        ]
+    },
+    {
+        "title": "NHL.com",
+        "snippet": "Site oficial da National Hockey League, com cobertura de hóquei no gelo da América do Norte.",
+        "link": "https://www.nhl.com",
+        "tags": [
+            "esportes",
+            "hóquei",
+            "liga",
+            "eua"
+        ]
+    },
+    {
+        "title": "MLB.com",
+        "snippet": "Site oficial da Major League Baseball, com notícias, resultados e cobertura de beisebol.",
+        "link": "https://www.mlb.com",
+        "tags": [
+            "esportes",
+            "beisebol",
+            "liga",
+            "eua"
+        ]
+    },
+    {
+        "title": "La Liga",
+        "snippet": "Site oficial da liga de futebol profissional da Espanha, com placares, notícias e calendário.",
+        "link": "https://www.laliga.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "espanha",
+            "liga"
+        ]
+    },
+    {
+        "title": "Premier League",
+        "snippet": "Site oficial da principal liga de futebol da Inglaterra, com notícias e informações sobre os clubes.",
+        "link": "https://www.premierleague.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "inglaterra",
+            "liga"
+        ]
+    },
+    {
+        "title": "UEFA",
+        "snippet": "Site oficial da União das Associações Europeias de Futebol, organizadora da Champions League e Eurocopa.",
+        "link": "https://www.uefa.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "europa",
+            "organização"
+        ]
+    },
+    {
+        "title": "F1",
+        "snippet": "Site oficial da Fórmula 1, com notícias, resultados, calendários e informações sobre pilotos.",
+        "link": "https://www.formula1.com",
+        "tags": [
+            "esportes",
+            "automobilismo",
+            "fórmula 1",
+            "notícias"
+        ]
+    },
+    {
+        "title": "Surto Olímpico",
+        "snippet": "Portal de notícias brasileiro especializado em esportes olímpicos, pan-americanos e paralímpicos.",
+        "link": "https://www.surtoolimpico.com.br",
+        "tags": [
+            "esportes",
+            "olimpíadas",
+            "brasil",
+            "notícias"
+        ]
+    },
+    {
+        "title": "TenisBrasil",
+        "snippet": "Principal portal brasileiro de notícias sobre tênis nacional e internacional.",
+        "link": "https://tenisbrasil.uol.com.br",
+        "tags": [
+            "esportes",
+            "tênis",
+            "notícias",
+            "torneios"
+        ]
+    },
+    {
+        "title": "UFC (Ultimate Fighting Championship)",
+        "snippet": "Site oficial da maior organização de artes marciais mistas (MMA) do mundo.",
+        "link": "https://www.ufc.com",
+        "tags": [
+            "esportes",
+            "mma",
+            "luta",
+            "notícias"
+        ]
+    },
+    {
+        "title": "WSL (World Surf League)",
+        "snippet": "Site oficial da liga mundial de surf, com notícias, rankings e competições ao vivo.",
+        "link": "https://www.worldsurfleague.com",
+        "tags": [
+            "esportes",
+            "surf",
+            "competição",
+            "notícias"
+        ]
+    },
+    {
+        "title": "Vôlei Brasil (CBV)",
+        "snippet": "Site oficial da Confederação Brasileira de Voleibol, com informações sobre ligas e seleção.",
+        "link": "https://cbv.com.br",
+        "tags": [
+            "esportes",
+            "vôlei",
+            "brasil",
+            "liga"
+        ]
+    },
+    {
+        "title": "Boxeador",
+        "snippet": "Portal brasileiro focado em notícias, resultados e análises de boxe e esportes de luta.",
+        "link": "https://www.boxeador.com.br",
+        "tags": [
+            "esportes",
+            "boxe",
+            "luta",
+            "notícias"
+        ]
+    },
+    {
+        "title": "Terra Esportes",
+        "snippet": "Seção de esportes do portal Terra, com cobertura de futebol e outras modalidades.",
+        "link": "https://www.terra.com.br/esportes/",
+        "tags": [
+            "esportes",
+            "futebol",
+            "notícias",
+            "variedades"
+        ]
+    },
+    {
+        "title": "Gazeta Esportiva",
+        "snippet": "Portal de notícias esportivas com foco em futebol de São Paulo e cobertura nacional.",
+        "link": "https://www.gazetaesportiva.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "são paulo",
+            "notícias"
+        ]
+    },
+    {
+        "title": "UOL Esporte",
+        "snippet": "Seção de esportes do portal UOL, com colunistas renomados e cobertura completa.",
+        "link": "https://www.uol.com.br/esporte/",
+        "tags": [
+            "esportes",
+            "futebol",
+            "colunas",
+            "notícias"
+        ]
+    },
+    {
+        "title": "Futebol Interior",
+        "snippet": "Portal de notícias brasileiro com foco nos campeonatos estaduais e times do interior de São Paulo.",
+        "link": "https://www.futebolinterior.com.br",
+        "tags": [
+            "esportes",
+            "futebol",
+            "regional",
+            "notícias"
+        ]
+    },
+    {
+        "title": "FootyStats",
+        "snippet": "Site de estatísticas de futebol (futebol) com dados detalhados de ligas de todo o mundo.",
+        "link": "https://footystats.org",
+        "tags": [
+            "esportes",
+            "futebol",
+            "estatísticas",
+            "dados"
+        ]
+    },
+    {
+        "title": "SofaScore",
+        "snippet": "Fornece resultados ao vivo, placares e estatísticas detalhadas de diversas modalidades esportivas.",
+        "link": "https://www.sofascore.com",
+        "tags": [
+            "esportes",
+            "resultados",
+            "estatísticas",
+            "ao vivo"
+        ]
+    },
+    {
+        "title": "Globo Rural (Hipismo)",
+        "snippet": "Seção especializada em esportes equestres como hipismo, com notícias e eventos.",
+        "link": "https://revistagloborural.globo.com/vida-no-campo/hipismo/",
+        "tags": [
+            "esportes",
+            "hipismo",
+            "cavalos",
+            "rural"
+        ]
+    },
+    {
+        "title": "Sportv",
+        "snippet": "Site do canal de esportes do Grupo Globo, com notícias, vídeos e transmissão de eventos.",
+        "link": "https://sportv.globo.com",
+        "tags": [
+            "esportes",
+            "tv",
+            "notícias",
+            "vídeos"
+        ]
+    },
+    {
+        "title": "Cycling News",
+        "snippet": "Líder em notícias, resultados e informações sobre ciclismo profissional em todo o mundo.",
+        "link": "https://www.cyclingnews.com",
+        "tags": [
+            "esportes",
+            "ciclismo",
+            "bicicleta",
+            "notícias"
+        ]
+    },
+    {
+        "title": "Running Magazine Brasil",
+        "snippet": "Revista e portal especializado em corrida de rua, maratonas e treinamento.",
+        "link": "https://corredoresanonimos.com.br",
+        "tags": [
+            "esportes",
+            "corrida",
+            "maratona",
+            "treinamento"
+        ]
+    },
+    {
+        "title": "World Athletics (IAAF)",
+        "snippet": "Site oficial da Federação Internacional de Atletismo, com notícias sobre as competições de pista e campo.",
+        "link": "https://worldathletics.org",
+        "tags": [
+            "esportes",
+            "atletismo",
+            "organização",
+            "competição"
+        ]
+    },
+    {
+        "title": "Boxe",
+        "snippet": "Site especializado em notícias e resultados de boxe, incluindo rankings e eventos.",
+        "link": "https://www.boxe.com.br",
+        "tags": [
+            "esportes",
+            "boxe",
+            "luta",
+            "notícias"
+        ]
+    },
+    {
+        "title": "World Rugby",
+        "snippet": "Site oficial da federação internacional de rugby, com notícias, rankings e informações sobre a Copa do Mundo.",
+        "link": "https://www.world.rugby",
+        "tags": [
+            "esportes",
+            "rugby",
+            "internacional",
+            "copa do mundo"
+        ]
+    },
+    {
+        "title": "Federação Internacional de Ginástica (FIG)",
+        "snippet": "Site oficial da federação que rege a ginástica artística, rítmica e de trampolim.",
+        "link": "https://www.gymnastics.sport",
+        "tags": [
+            "esportes",
+            "ginástica",
+            "olimpíadas",
+            "competição"
+        ]
+    },
+    {
+        "title": "FutLiga",
+        "snippet": "Plataforma para ligas e torneios de futebol amador, futsal e society no Brasil.",
+        "link": "https://www.futliga.com.br/Home",
+        "tags": [
+            "esportes",
+            "futebol amador",
+            "fut7",
+            "liga"
+        ]
+    },
+    {
+        "title": "SwimSwam Brasil",
+        "snippet": "Notícias e cobertura aprofundada sobre natação e esportes aquáticos no Brasil e no mundo.",
+        "link": "https://swimswam.com/pt-br/",
+        "tags": [
+            "esportes",
+            "natação",
+            "aquáticos",
+            "competição"
         ]
     }
 ]
