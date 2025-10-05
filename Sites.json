@@ -1,88 +1,230 @@
 [
     {
-        "title": "MDN Web Docs",
-        "snippet": "Recursos para desenvolvedores, por desenvolvedores. Documentação sobre tecnologias da web abertas, incluindo HTML, CSS e APIs.",
-        "link": "https://developer.mozilla.org",
+        "title": "Coursera",
+        "snippet": "Oferece acesso universal à melhor educação do mundo, fazendo parceria com as melhores universidades e organizações para oferecer cursos online.",
+        "link": "https://www.coursera.org",
         "tags": [
             "educação",
-            "desenvolvimento",
-            "css",
-            "html",
-            "javascript",
-            "docs"
-        ]
-    },
-    {
-        "title": "Stack Overflow",
-        "snippet": "Comunidade online para desenvolvedores aprenderem, compartilharem seus conhecimentos e construírem suas carreiras.",
-        "link": "https://stackoverflow.com",
-        "tags": [
-            "educação",
-            "desenvolvimento",
-            "programação",
-            "comunidade",
-            "ajuda"
-        ]
-    },
-    {
-        "title": "W3Schools",
-        "snippet": "O maior site de desenvolvimento web do mundo, com tutoriais e referências sobre linguagens de desenvolvimento.",
-        "link": "https://www.w3schools.com",
-        "tags": [
-            "educação",
-            "tutorial",
-            "html",
-            "css",
-            "javascript",
+            "cursos",
+            "online",
+            "universidade",
             "aprender"
         ]
     },
     {
-        "title": "CSS-Tricks",
-        "snippet": "Dicas, truques e artigos diários sobre Cascading Style Sheets.",
-        "link": "https://css-tricks.com",
+        "title": "edX",
+        "snippet": "Cursos online gratuitos e MOOCs de universidades de classe mundial, incluindo Harvard, MIT e Berkeley.",
+        "link": "https://www.edx.org",
         "tags": [
             "educação",
-            "css",
-            "frontend",
-            "design",
-            "dicas"
+            "cursos",
+            "MOOC",
+            "tecnologia",
+            "ciência"
         ]
     },
     {
-        "title": "GitHub",
-        "snippet": "Plataforma de hospedagem de código e controle de versão usando Git. Permite que desenvolvedores trabalhem juntos em projetos.",
-        "link": "https://github.com",
+        "title": "Khan Academy",
+        "snippet": "Missão de fornecer uma educação gratuita de classe mundial para qualquer pessoa, em qualquer lugar. Aulas, exercícios práticos e painéis de aprendizado personalizados.",
+        "link": "https://www.khanacademy.org",
         "tags": [
             "educação",
-            "git",
-            "versionamento",
-            "código",
-            "desenvolvimento",
-            "projetos"
+            "gratuito",
+            "matemática",
+            "ciências",
+            "tutoriais"
         ]
     },
     {
-        "title": "Can I use...",
-        "snippet": "Fornece tabelas de suporte de navegador atualizadas para tecnologias de front-end da web em navegadores de desktop e móveis.",
-        "link": "https://caniuse.com/",
+        "title": "Duolingo",
+        "snippet": "Aprenda idiomas gratuitamente e de forma divertida. Lições curtas e gamificadas ajudam você a aprender mais rapidamente.",
+        "link": "https://www.duolingo.com",
         "tags": [
             "educação",
-            "compatibilidade",
-            "browser",
-            "css",
-            "html5"
+            "idiomas",
+            "aprender",
+            "gratuito",
+            "aplicativo"
         ]
     },
     {
-        "title": "YouTube",
-        "snippet": "Plataforma de compartilhamento de vídeos onde os usuários podem assistir, curtir, compartilhar, comentar e enviar seus próprios vídeos.",
-        "link": "https://youtube.com",
+        "title": "TED",
+        "snippet": "Apresentações e palestras poderosas de especialistas e pensadores líderes em tecnologia, entretenimento e design.",
+        "link": "https://www.ted.com",
+        "tags": [
+            "educação",
+            "palestras",
+            "inspiração",
+            "conhecimento",
+            "ideias"
+        ]
+    },
+    {
+        "title": "Medium",
+        "snippet": "Plataforma de publicação online com milhões de histórias e ideias em uma ampla variedade de tópicos, de tecnologia a cultura.",
+        "link": "https://medium.com",
+        "tags": [
+            "educação",
+            "notícias",
+            "artigos",
+            "blog",
+            "escrita"
+        ]
+    },
+    {
+        "title": "Netflix",
+        "snippet": "Serviço de streaming por assinatura que oferece uma vasta biblioteca de filmes, documentários e séries de TV premiadas.",
+        "link": "https://www.netflix.com",
         "tags": [
             "entretenimento",
-            "vídeos",
+            "streaming",
+            "filmes",
+            "séries",
+            "tv"
+        ]
+    },
+    {
+        "title": "Twitch",
+        "snippet": "Serviço de transmissão ao vivo de vídeo focado em streaming de videogames, e-sports e transmissões de conteúdo criativo.",
+        "link": "https://www.twitch.tv",
+        "tags": [
+            "entretenimento",
+            "streaming",
+            "jogos",
+            "esportes",
+            "ao vivo"
+        ]
+    },
+    {
+        "title": "Spotify",
+        "snippet": "Serviço de streaming de música digital que oferece milhões de músicas, podcasts e outros conteúdos de artistas de todo o mundo.",
+        "link": "https://www.spotify.com",
+        "tags": [
+            "entretenimento",
             "música",
-            "vlogs"
+            "podcast",
+            "streaming",
+            "áudio"
+        ]
+    },
+    {
+        "title": "IMDb (Internet Movie Database)",
+        "snippet": "A maior e mais popular fonte de filmes, TV e conteúdo de celebridades do mundo.",
+        "link": "https://www.imdb.com",
+        "tags": [
+            "entretenimento",
+            "filmes",
+            "séries",
+            "celebridades",
+            "críticas"
+        ]
+    },
+    {
+        "title": "Reddit",
+        "snippet": "Rede de comunidades onde as pessoas podem compartilhar conteúdo, discutir e votar em tópicos de seu interesse.",
+        "link": "https://www.reddit.com",
+        "tags": [
+            "entretenimento",
+            "comunidade",
+            "fórum",
+            "notícias",
+            "discussão"
+        ]
+    },
+    {
+        "title": "Google Notícias",
+        "snippet": "Agregador de notícias que reúne manchetes de milhares de fontes de notícias em todo o mundo.",
+        "link": "https://news.google.com",
+        "tags": [
+            "notícias",
+            "agregador",
+            "mundial",
+            "atualidades",
+            "política"
+        ]
+    },
+    {
+        "title": "BBC News",
+        "snippet": "Notícias de última hora, análise e vídeo de todo o mundo. Cobertura da BBC sobre política, esporte, negócios e mais.",
+        "link": "https://www.bbc.com/news",
+        "tags": [
+            "notícias",
+            "internacional",
+            "cobertura",
+            "jornalismo",
+            "mundo"
+        ]
+    },
+    {
+        "title": "The New York Times",
+        "snippet": "Reportagens de notícias de qualidade, multimídia e análise de um dos jornais mais influentes do mundo.",
+        "link": "https://www.nytimes.com",
+        "tags": [
+            "notícias",
+            "jornalismo",
+            "política",
+            "cultura",
+            "economia"
+        ]
+    },
+    {
+        "title": "Folha de S.Paulo",
+        "snippet": "Um dos principais jornais do Brasil, oferecendo notícias e análises sobre política, economia, esporte e cultura.",
+        "link": "https://www.folha.uol.com.br",
+        "tags": [
+            "notícias",
+            "brasil",
+            "jornalismo",
+            "nacional",
+            "política"
+        ]
+    },
+    {
+        "title": "ESPN Brasil",
+        "snippet": "Notícias, resultados, vídeos, esportes ao vivo e cobertura completa sobre futebol, basquete, e mais.",
+        "link": "https://www.espn.com.br",
+        "tags": [
+            "esportes",
+            "futebol",
+            "basquete",
+            "notícias",
+            "ao vivo"
+        ]
+    },
+    {
+        "title": "Globo Esporte (ge)",
+        "snippet": "O maior portal de esportes do Brasil, com cobertura de futebol, Fórmula 1, vôlei e as Olimpíadas.",
+        "link": "https://ge.globo.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "brasil",
+            "notícias",
+            "resultados"
+        ]
+    },
+    {
+        "title": "FIFA",
+        "snippet": "Site oficial da Federação Internacional de Futebol, com notícias, resultados e informações sobre torneios mundiais.",
+        "link": "https://www.fifa.com",
+        "tags": [
+            "esportes",
+            "futebol",
+            "mundial",
+            "organização",
+            "copa"
+        ]
+    },
+    {
+        "title": "NBA.com",
+        "snippet": "O site oficial da National Basketball Association, com pontuações, destaques, estatísticas e notícias da liga.",
+        "link": "https://www.nba.com",
+        "tags": [
+            "esportes",
+            "basquete",
+            "eua",
+            "liga",
+            "estatísticas"
         ]
     }
 ]
