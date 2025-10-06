@@ -597,5 +597,546 @@
             "fênix",
             "determinação"
         ]
+    },
+    {
+        "id": 31,
+        "text": {
+            "pt-br": "A melhor vingança é um sucesso maciço.",
+            "en": "The best revenge is massive success.",
+            "es": "La mejor venganza es el éxito masivo."
+        },
+        "author": {
+            "pt-br": "Frank Sinatra",
+            "en": "Frank Sinatra",
+            "es": "Frank Sinatra"
+        },
+        "tags": [
+            "sucesso",
+            "motivação",
+            "vida"
+        ]
+    },
+    {
+        "id": 32,
+        "text": {
+            "pt-br": "Só sei que nada sei.",
+            "en": "I know that I know nothing.",
+            "es": "Solo sé que no sé nada."
+        },
+        "author": {
+            "pt-br": "Sócrates",
+            "en": "Socrates",
+            "es": "Sócrates"
+        },
+        "tags": [
+            "filosofia",
+            "conhecimento",
+            "existência"
+        ]
+    },
+    {
+        "id": 33,
+        "text": {
+            "pt-br": "Amar não é olhar um para o outro, é olhar juntos na mesma direção.",
+            "en": "Love does not consist in gazing at each other, but in looking outward together in the same direction.",
+            "es": "Amar no es mirarse el uno al otro, es mirar juntos en la misma dirección."
+        },
+        "author": {
+            "pt-br": "Antoine de Saint-Exupéry",
+            "en": "Antoine de Saint-Exupéry",
+            "es": "Antoine de Saint-Exupéry"
+        },
+        "tags": [
+            "amor",
+            "relacionamento",
+            "literatura"
+        ]
+    },
+    {
+        "id": 34,
+        "text": {
+            "pt-br": "A dúvida é o princípio da sabedoria.",
+            "en": "Doubt is the beginning of wisdom.",
+            "es": "La duda es el principio de la sabiduría."
+        },
+        "author": {
+            "pt-br": "Aristóteles",
+            "en": "Aristotle",
+            "es": "Aristóteles"
+        },
+        "tags": [
+            "filosofia",
+            "sabedoria",
+            "dúvida"
+        ]
+    },
+    {
+        "id": 35,
+        "text": {
+            "pt-br": "Tente mover o mundo – o primeiro passo será mover a si mesmo.",
+            "en": "Try to move the world — the first step will be to move yourself.",
+            "es": "Intenta mover el mundo – el primer paso será moverte a ti mismo."
+        },
+        "author": {
+            "pt-br": "Platão",
+            "en": "Plato",
+            "es": "Platón"
+        },
+        "tags": [
+            "ação",
+            "mudança",
+            "auto-aperfeiçoamento"
+        ]
+    },
+    {
+        "id": 36,
+        "text": {
+            "pt-br": "O tempo é o maior autor: sempre encontra a solução.",
+            "en": "Time is the greatest author: it always finds the solution.",
+            "es": "El tiempo es el mayor autor: siempre encuentra la solución."
+        },
+        "author": {
+            "pt-br": "Abraham Lincoln",
+            "en": "Abraham Lincoln",
+            "es": "Abraham Lincoln"
+        },
+        "tags": [
+            "tempo",
+            "solução",
+            "vida"
+        ]
+    },
+    {
+        "id": 37,
+        "text": {
+            "pt-br": "A arte de ser sábio é a arte de saber o que ignorar.",
+            "en": "The art of being wise is the art of knowing what to ignore.",
+            "es": "El arte de ser sabio es el arte de saber qué ignorar."
+        },
+        "author": {
+            "pt-br": "William James",
+            "en": "William James",
+            "es": "William James"
+        },
+        "tags": [
+            "sabedoria",
+            "foco",
+            "psicologia"
+        ]
+    },
+    {
+        "id": 38,
+        "text": {
+            "pt-br": "Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.",
+            "en": "To live is the rarest thing in the world. Most people just exist.",
+            "es": "Vivir es lo más raro del mundo. La mayoría de la gente solo existe."
+        },
+        "author": {
+            "pt-br": "Oscar Wilde",
+            "en": "Oscar Wilde",
+            "es": "Oscar Wilde"
+        },
+        "tags": [
+            "vida",
+            "existência",
+            "reflexão"
+        ]
+    },
+    {
+        "id": 39,
+        "text": {
+            "pt-br": "A coragem não é a ausência de medo, mas o triunfo sobre ele.",
+            "en": "Courage is not the absence of fear, but the triumph over it.",
+            "es": "El coraje no es la ausencia de miedo, sino el triunfo sobre él."
+        },
+        "author": {
+            "pt-br": "Nelson Mandela",
+            "en": "Nelson Mandela",
+            "es": "Nelson Mandela"
+        },
+        "tags": [
+            "coragem",
+            "medo",
+            "motivação"
+        ]
+    },
+    {
+        "id": 40,
+        "text": {
+            "pt-br": "A paz começa com um sorriso.",
+            "en": "Peace begins with a smile.",
+            "es": "La paz comienza con una sonrisa."
+        },
+        "author": {
+            "pt-br": "Madre Teresa de Calcutá",
+            "en": "Mother Teresa",
+            "es": "Madre Teresa de Calcuta"
+        },
+        "tags": [
+            "paz",
+            "felicidade",
+            "simplicidade"
+        ]
+    },
+    {
+        "id": 41,
+        "text": {
+            "pt-br": "Seus clientes mais insatisfeitos são sua maior fonte de aprendizado.",
+            "en": "Your most unhappy customers are your greatest source of learning.",
+            "es": "Tus clientes más insatisfechos son tu mayor fuente de aprendizaje."
+        },
+        "author": {
+            "pt-br": "Bill Gates",
+            "en": "Bill Gates",
+            "es": "Bill Gates"
+        },
+        "tags": [
+            "negócios",
+            "aprendizado",
+            "tecnologia"
+        ]
+    },
+    {
+        "id": 42,
+        "text": {
+            "pt-br": "A mente é tudo. O que você pensa, você se torna.",
+            "en": "The mind is everything. What you think you become.",
+            "es": "La mente lo es todo. Lo que piensas te conviertes."
+        },
+        "author": {
+            "pt-br": "Buda",
+            "en": "Buddha",
+            "es": "Buda"
+        },
+        "tags": [
+            "mente",
+            "espiritualidade",
+            "pensamento"
+        ]
+    },
+    {
+        "id": 43,
+        "text": {
+            "pt-br": "O segredo do progresso é começar.",
+            "en": "The secret of getting ahead is getting started.",
+            "es": "El secreto del progreso es empezar."
+        },
+        "author": {
+            "pt-br": "Mark Twain",
+            "en": "Mark Twain",
+            "es": "Mark Twain"
+        },
+        "tags": [
+            "progresso",
+            "início",
+            "ação"
+        ]
+    },
+    {
+        "id": 44,
+        "text": {
+            "pt-br": "A imaginação é a prévia das atrações futuras da vida.",
+            "en": "Imagination is the preview of life's coming attractions.",
+            "es": "La imaginación es la vista previa de las futuras atracciones de la vida."
+        },
+        "author": {
+            "pt-br": "Albert Einstein",
+            "en": "Albert Einstein",
+            "es": "Albert Einstein"
+        },
+        "tags": [
+            "imaginação",
+            "futuro",
+            "ciência"
+        ]
+    },
+    {
+        "id": 45,
+        "text": {
+            "pt-br": "É mais fácil obter o que se deseja com um sorriso do que com a ponta da espada.",
+            "en": "It is easier to get what you want with a smile than with the edge of the sword.",
+            "es": "Es más fácil conseguir lo que deseas con una sonrisa que con la punta de la espada."
+        },
+        "author": {
+            "pt-br": "William Shakespeare",
+            "en": "William Shakespeare",
+            "es": "William Shakespeare"
+        },
+        "tags": [
+            "persuasão",
+            "comportamento",
+            "literatura"
+        ]
+    },
+    {
+        "id": 46,
+        "text": {
+            "pt-br": "A melhor coisa sobre o futuro é que ele chega um dia de cada vez.",
+            "en": "The best thing about the future is that it comes one day at a time.",
+            "es": "Lo mejor del futuro es que llega un día a la vez."
+        },
+        "author": {
+            "pt-br": "Abraham Lincoln",
+            "en": "Abraham Lincoln",
+            "es": "Abraham Lincoln"
+        },
+        "tags": [
+            "futuro",
+            "paciência",
+            "tempo"
+        ]
+    },
+    {
+        "id": 47,
+        "text": {
+            "pt-br": "Quem não se move não nota as suas correntes.",
+            "en": "He who does not move does not notice his chains.",
+            "es": "Quien no se mueve no nota sus cadenas."
+        },
+        "author": {
+            "pt-br": "Rosa Luxemburgo",
+            "en": "Rosa Luxemburg",
+            "es": "Rosa Luxemburgo"
+        },
+        "tags": [
+            "liberdade",
+            "ação",
+            "política"
+        ]
+    },
+    {
+        "id": 48,
+        "text": {
+            "pt-br": "Errar é humano; perdoar, divino.",
+            "en": "To err is human; to forgive, divine.",
+            "es": "Errar es humano; perdonar, divino."
+        },
+        "author": {
+            "pt-br": "Alexander Pope",
+            "en": "Alexander Pope",
+            "es": "Alexander Pope"
+        },
+        "tags": [
+            "perdão",
+            "humanidade",
+            "moral"
+        ]
+    },
+    {
+        "id": 49,
+        "text": {
+            "pt-br": "O gênio é 1% inspiração e 99% transpiração.",
+            "en": "Genius is 1% inspiration and 99% perspiration.",
+            "es": "El genio es 1% inspiración y 99% transpiración."
+        },
+        "author": {
+            "pt-br": "Thomas Edison",
+            "en": "Thomas Edison",
+            "es": "Thomas Edison"
+        },
+        "tags": [
+            "trabalho",
+            "esforço",
+            "inspiração"
+        ]
+    },
+    {
+        "id": 50,
+        "text": {
+            "pt-br": "A vida encolhe ou expande em proporção à coragem de alguém.",
+            "en": "Life shrinks or expands in proportion to one's courage.",
+            "es": "La vida se encoge o se expande en proporción al coraje de uno."
+        },
+        "author": {
+            "pt-br": "Anaïs Nin",
+            "en": "Anaïs Nin",
+            "es": "Anaïs Nin"
+        },
+        "tags": [
+            "coragem",
+            "vida",
+            "crescimento"
+        ]
+    },
+    {
+        "id": 51,
+        "text": {
+            "pt-br": "O pessimista se queixa do vento; o otimista espera que ele mude; o realista ajusta as velas.",
+            "en": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+            "es": "El pesimista se queja del viento; el optimista espera que cambie; el realista ajusta las velas."
+        },
+        "author": {
+            "pt-br": "William Arthur Ward",
+            "en": "William Arthur Ward",
+            "es": "William Arthur Ward"
+        },
+        "tags": [
+            "atitude",
+            "realismo",
+            "otimismo"
+        ]
+    },
+    {
+        "id": 52,
+        "text": {
+            "pt-br": "Aquele que é bom em fazer desculpas raramente é bom em qualquer outra coisa.",
+            "en": "He who is good at making excuses is seldom good at anything else.",
+            "es": "El que es bueno para poner excusas rara vez es bueno en otra cosa."
+        },
+        "author": {
+            "pt-br": "Benjamin Franklin",
+            "en": "Benjamin Franklin",
+            "es": "Benjamin Franklin"
+        },
+        "tags": [
+            "produtividade",
+            "responsabilidade",
+            "vida"
+        ]
+    },
+    {
+        "id": 53,
+        "text": {
+            "pt-br": "As pessoas viajam para admirar a altura das montanhas, a imensidão do mar e o fluxo dos rios... e passam por si mesmas sem se perguntar.",
+            "en": "People travel to admire the height of the mountains, the huge waves of the sea, the long courses of rivers... and they pass themselves by without wonder.",
+            "es": "La gente viaja para admirar la altura de las montañas, las enormes olas del mar, los largos cursos de los ríos... y pasan por sí mismos sin asombro."
+        },
+        "author": {
+            "pt-br": "Santo Agostinho",
+            "en": "Saint Augustine",
+            "es": "San Agustín"
+        },
+        "tags": [
+            "autoconhecimento",
+            "viagem",
+            "reflexão"
+        ]
+    },
+    {
+        "id": 54,
+        "text": {
+            "pt-br": "Felicidade é o que acontece quando o que você pensa, o que você diz e o que você faz estão em harmonia.",
+            "en": "Happiness is when what you think, what you say, and what you do are in harmony.",
+            "es": "La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía."
+        },
+        "author": {
+            "pt-br": "Mahatma Gandhi",
+            "en": "Mahatma Gandhi",
+            "es": "Mahatma Gandhi"
+        },
+        "tags": [
+            "felicidade",
+            "harmonia",
+            "integridade"
+        ]
+    },
+    {
+        "id": 55,
+        "text": {
+            "pt-br": "A educação formal lhe dará uma vida; a autoeducação lhe dará uma fortuna.",
+            "en": "Formal education will make you a living; self-education will make you a fortune.",
+            "es": "La educación formal te dará una vida; la autoeducación te dará una fortuna."
+        },
+        "author": {
+            "pt-br": "Jim Rohn",
+            "en": "Jim Rohn",
+            "es": "Jim Rohn"
+        },
+        "tags": [
+            "educação",
+            "crescimento",
+            "sucesso"
+        ]
+    },
+    {
+        "id": 56,
+        "text": {
+            "pt-br": "A forma mais elevada de ignorância é quando você rejeita algo sobre o qual não sabe nada.",
+            "en": "The highest form of ignorance is when you reject something you don't know anything about.",
+            "es": "La forma más elevada de ignorancia es cuando rechazas algo de lo que no sabes nada."
+        },
+        "author": {
+            "pt-br": "Wayne Dyer",
+            "en": "Wayne Dyer",
+            "es": "Wayne Dyer"
+        },
+        "tags": [
+            "ignorância",
+            "conhecimento",
+            "mente"
+        ]
+    },
+    {
+        "id": 57,
+        "text": {
+            "pt-br": "A vida não examinada não vale a pena ser vivida.",
+            "en": "The unexamined life is not worth living.",
+            "es": "La vida no examinada no merece ser vivida."
+        },
+        "author": {
+            "pt-br": "Sócrates",
+            "en": "Socrates",
+            "es": "Sócrates"
+        },
+        "tags": [
+            "filosofia",
+            "reflexão",
+            "vida"
+        ]
+    },
+    {
+        "id": 58,
+        "text": {
+            "pt-br": "A mudança não virá se esperarmos por outra pessoa ou outro momento. Nós somos aqueles que estávamos esperando. Nós somos a mudança que buscamos.",
+            "en": "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.",
+            "es": "El cambio no vendrá si esperamos por otra persona u otro momento. Nosotros somos aquellos que estábamos esperando. Nosotros somos el cambio que buscamos."
+        },
+        "author": {
+            "pt-br": "Barack Obama",
+            "en": "Barack Obama",
+            "es": "Barack Obama"
+        },
+        "tags": [
+            "mudança",
+            "liderança",
+            "ação"
+        ]
+    },
+    {
+        "id": 59,
+        "text": {
+            "pt-br": "A melhor maneira de prever o futuro é criá-lo.",
+            "en": "The best way to predict the future is to create it.",
+            "es": "La mejor manera de predecir el futuro es crearlo."
+        },
+        "author": {
+            "pt-br": "Peter Drucker",
+            "en": "Peter Drucker",
+            "es": "Peter Drucker"
+        },
+        "tags": [
+            "futuro",
+            "criação",
+            "inovação"
+        ]
+    },
+    {
+        "id": 60,
+        "text": {
+            "pt-br": "O conhecimento fala, mas a sabedoria escuta.",
+            "en": "Knowledge speaks, but wisdom listens.",
+            "es": "El conocimiento habla, pero la sabiduría escucha."
+        },
+        "author": {
+            "pt-br": "Jimi Hendrix",
+            "en": "Jimi Hendrix",
+            "es": "Jimi Hendrix"
+        },
+        "tags": [
+            "sabedoria",
+            "conhecimento",
+            "música"
+        ]
     }
 ]
+
