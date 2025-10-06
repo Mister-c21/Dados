@@ -3297,6 +3297,1806 @@
             "humildade",
             "filosofia"
         ]
+    },
+    {
+        "id": 181,
+        "text": {
+            "pt-br": "Faça a sua vida ser um sonho, e de um sonho, uma realidade.",
+            "en": "Make your life a dream, and a dream, a reality.",
+            "es": "Haz de tu vida un sueño, y de un sueño, una realidad."
+        },
+        "author": {
+            "pt-br": "Antoine de Saint-Exupéry",
+            "en": "Antoine de Saint-Exupéry",
+            "es": "Antoine de Saint-Exupéry"
+        },
+        "tags": [
+            "sonho",
+            "realização",
+            "motivação"
+        ]
+    },
+    {
+        "id": 182,
+        "text": {
+            "pt-br": "A vida é o que acontece enquanto você está ocupado fazendo outros planos.",
+            "en": "Life is what happens when you're busy making other plans.",
+            "es": "La vida es lo que sucede mientras estás ocupado haciendo otros planes."
+        },
+        "author": {
+            "pt-br": "John Lennon",
+            "en": "John Lennon",
+            "es": "John Lennon"
+        },
+        "tags": [
+            "vida",
+            "momento presente",
+            "reflexão"
+        ]
+    },
+    {
+        "id": 183,
+        "text": {
+            "pt-br": "Não há atalhos para qualquer lugar que valha a pena ir.",
+            "en": "There are no shortcuts to any place worth going.",
+            "es": "No hay atajos para ningún lugar que valga la pena ir."
+        },
+        "author": {
+            "pt-br": "Beverly Sills",
+            "en": "Beverly Sills",
+            "es": "Beverly Sills"
+        },
+        "tags": [
+            "esforço",
+            "jornada",
+            "sucesso"
+        ]
+    },
+    {
+        "id": 184,
+        "text": {
+            "pt-br": "A imaginação é mais importante que o conhecimento.",
+            "en": "Imagination is more important than knowledge.",
+            "es": "La imaginación es más importante que el conocimiento."
+        },
+        "author": {
+            "pt-br": "Albert Einstein",
+            "en": "Albert Einstein",
+            "es": "Albert Einstein"
+        },
+        "tags": [
+            "imaginação",
+            "conhecimento",
+            "criatividade"
+        ]
+    },
+    {
+        "id": 185,
+        "text": {
+            "pt-br": "Um diamante é um pedaço de carvão que se deu bem sob pressão.",
+            "en": "A diamond is a chunk of coal that did well under pressure.",
+            "es": "Un diamante es un trozo de carbón al que le fue bien bajo presión."
+        },
+        "author": {
+            "pt-br": "Henry Kissinger",
+            "en": "Henry Kissinger",
+            "es": "Henry Kissinger"
+        },
+        "tags": [
+            "pressão",
+            "resiliência",
+            "superação"
+        ]
+    },
+    {
+        "id": 186,
+        "text": {
+            "pt-br": "O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento.",
+            "en": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+            "es": "El mayor enemigo del conocimiento no es la ignorancia, es la ilusión del conocimiento."
+        },
+        "author": {
+            "pt-br": "Stephen Hawking",
+            "en": "Stephen Hawking",
+            "es": "Stephen Hawking"
+        },
+        "tags": [
+            "conhecimento",
+            "humildade",
+            "ciência"
+        ]
+    },
+    {
+        "id": 187,
+        "text": {
+            "pt-br": "Se a única oração que você disser em toda a sua vida for 'obrigado', isso será suficiente.",
+            "en": "If the only prayer you ever say in your entire life is 'thank you,' it will be enough.",
+            "es": "Si la única oración que dices en toda tu vida es 'gracias', eso será suficiente."
+        },
+        "author": {
+            "pt-br": "Meister Eckhart",
+            "en": "Meister Eckhart",
+            "es": "Meister Eckhart"
+        },
+        "tags": [
+            "gratidão",
+            "espiritualidade",
+            "vida"
+        ]
+    },
+    {
+        "id": 188,
+        "text": {
+            "pt-br": "A vida só pode ser compreendida olhando para trás; mas só pode ser vivida olhando para a frente.",
+            "en": "Life can only be understood backwards; but it must be lived forwards.",
+            "es": "La vida solo puede ser comprendida mirando hacia atrás; pero solo puede ser vivida mirando hacia adelante."
+        },
+        "author": {
+            "pt-br": "Søren Kierkegaard",
+            "en": "Søren Kierkegaard",
+            "es": "Søren Kierkegaard"
+        },
+        "tags": [
+            "filosofia",
+            "vida",
+            "futuro"
+        ]
+    },
+    {
+        "id": 189,
+        "text": {
+            "pt-br": "O propósito da vida é ter uma vida com propósito.",
+            "en": "The purpose of life is to have a life of purpose.",
+            "es": "El propósito de la vida es tener una vida con propósito."
+        },
+        "author": {
+            "pt-br": "Robert Byrne",
+            "en": "Robert Byrne",
+            "es": "Robert Byrne"
+        },
+        "tags": [
+            "propósito",
+            "vida",
+            "significado"
+        ]
+    },
+    {
+        "id": 190,
+        "text": {
+            "pt-br": "Se você não está intimidado, não está aprendendo.",
+            "en": "If you're not intimidated, you're not learning.",
+            "es": "Si no estás intimidado, no estás aprendiendo."
+        },
+        "author": {
+            "pt-br": "Paul Graham",
+            "en": "Paul Graham",
+            "es": "Paul Graham"
+        },
+        "tags": [
+            "aprendizado",
+            "desafio",
+            "crescimento"
+        ]
+    },
+    {
+        "id": 191,
+        "text": {
+            "pt-br": "A felicidade é a sensação de que o poder aumenta – que a resistência está sendo superada.",
+            "en": "Happiness is the feeling that power increases — that resistance is being overcome.",
+            "es": "La felicidad es la sensación de que el poder aumenta – que la resistencia está siendo superada."
+        },
+        "author": {
+            "pt-br": "Friedrich Nietzsche",
+            "en": "Friedrich Nietzsche",
+            "es": "Friedrich Nietzsche"
+        },
+        "tags": [
+            "felicidade",
+            "poder",
+            "superação"
+        ]
+    },
+    {
+        "id": 192,
+        "text": {
+            "pt-br": "Uma jornada de mil milhas começa com um único passo.",
+            "en": "A journey of a thousand miles begins with a single step.",
+            "es": "Un viaje de mil millas comienza con un solo paso."
+        },
+        "author": {
+            "pt-br": "Lao Tzu",
+            "en": "Lao Tzu",
+            "es": "Lao Tzu"
+        },
+        "tags": [
+            "início",
+            "jornada",
+            "persistência"
+        ]
+    },
+    {
+        "id": 193,
+        "text": {
+            "pt-br": "A dúvida é a mãe da invenção.",
+            "en": "Doubt is the mother of invention.",
+            "es": "La duda es la madre de la invención."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "dúvida",
+            "invenção",
+            "criatividade"
+        ]
+    },
+    {
+        "id": 194,
+        "text": {
+            "pt-br": "As pessoas compram sentimentos. Elas compram identidade. Elas compram status.",
+            "en": "People buy feelings. They buy identity. They buy status.",
+            "es": "La gente compra sentimientos. Compran identidad. Compran estatus."
+        },
+        "author": {
+            "pt-br": "Seth Godin",
+            "en": "Seth Godin",
+            "es": "Seth Godin"
+        },
+        "tags": [
+            "marketing",
+            "negócios",
+            "comportamento"
+        ]
+    },
+    {
+        "id": 195,
+        "text": {
+            "pt-br": "O homem é a medida de todas as coisas.",
+            "en": "Man is the measure of all things.",
+            "es": "El hombre es la medida de todas las cosas."
+        },
+        "author": {
+            "pt-br": "Protágoras",
+            "en": "Protagoras",
+            "es": "Protágoras"
+        },
+        "tags": [
+            "filosofia",
+            "humanismo",
+            "existência"
+        ]
+    },
+    {
+        "id": 196,
+        "text": {
+            "pt-br": "Tudo o que você dá, volta.",
+            "en": "Everything you give comes back.",
+            "es": "Todo lo que das, regresa."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "karma",
+            "lei da atração",
+            "retorno"
+        ]
+    },
+    {
+        "id": 197,
+        "text": {
+            "pt-br": "Se você está disposto a fazer apenas o que é fácil, a vida será difícil. Mas se você estiver disposto a fazer o que é difícil, a vida será fácil.",
+            "en": "If you're willing to do only what's easy, life will be hard. But if you're willing to do what's hard, life will be easy.",
+            "es": "Si estás dispuesto a hacer solo lo fácil, la vida será difícil. Pero si estás dispuesto a hacer lo difícil, la vida será fácil."
+        },
+        "author": {
+            "pt-br": "T. Harv Eker",
+            "en": "T. Harv Eker",
+            "es": "T. Harv Eker"
+        },
+        "tags": [
+            "esforço",
+            "dificuldade",
+            "mentalidade"
+        ]
+    },
+    {
+        "id": 198,
+        "text": {
+            "pt-br": "O tempo é dinheiro.",
+            "en": "Time is money.",
+            "es": "El tiempo es dinero."
+        },
+        "author": {
+            "pt-br": "Benjamin Franklin",
+            "en": "Benjamin Franklin",
+            "es": "Benjamin Franklin"
+        },
+        "tags": [
+            "tempo",
+            "produtividade",
+            "finanças"
+        ]
+    },
+    {
+        "id": 199,
+        "text": {
+            "pt-br": "Você não pode mudar o que se recusa a confrontar.",
+            "en": "You can't change what you refuse to confront.",
+            "es": "No puedes cambiar lo que te niegas a confrontar."
+        },
+        "author": {
+            "pt-br": "James Baldwin",
+            "en": "James Baldwin",
+            "es": "James Baldwin"
+        },
+        "tags": [
+            "mudança",
+            "verdade",
+            "confronto"
+        ]
+    },
+    {
+        "id": 200,
+        "text": {
+            "pt-br": "O progresso é impossível sem mudança, e aqueles que não conseguem mudar as suas mentes não conseguem mudar nada.",
+            "en": "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
+            "es": "El progreso es imposible sin cambio, y aquellos que no pueden cambiar sus mentes no pueden cambiar nada."
+        },
+        "author": {
+            "pt-br": "George Bernard Shaw",
+            "en": "George Bernard Shaw",
+            "es": "George Bernard Shaw"
+        },
+        "tags": [
+            "progresso",
+            "mudança",
+            "mentalidade"
+        ]
+    },
+    {
+        "id": 201,
+        "text": {
+            "pt-br": "Somos o que repetidamente fazemos. A excelência, portanto, não é um ato, mas um hábito.",
+            "en": "We are what we repeatedly do. Excellence, therefore, is not an act, but a habit.",
+            "es": "Somos lo que hacemos repetidamente. La excelencia, por lo tanto, no es un acto, sino un hábito."
+        },
+        "author": {
+            "pt-br": "Aristóteles",
+            "en": "Aristotle",
+            "es": "Aristóteles"
+        },
+        "tags": [
+            "hábito",
+            "excelência",
+            "filosofia"
+        ]
+    },
+    {
+        "id": 202,
+        "text": {
+            "pt-br": "A vida é dez por cento o que acontece com você e noventa por cento como você reage a isso.",
+            "en": "Life is ten percent what happens to you and ninety percent how you react to it.",
+            "es": "La vida es diez por ciento lo que te sucede y noventa por ciento cómo reaccionas a eso."
+        },
+        "author": {
+            "pt-br": "Charles R. Swindoll",
+            "en": "Charles R. Swindoll",
+            "es": "Charles R. Swindoll"
+        },
+        "tags": [
+            "reação",
+            "atitude",
+            "vida"
+        ]
+    },
+    {
+        "id": 203,
+        "text": {
+            "pt-br": "A pessoa que move uma montanha começa carregando pequenas pedras.",
+            "en": "The man who moves a mountain begins by carrying away small stones.",
+            "es": "El hombre que mueve una montaña comienza cargando pequeñas piedras."
+        },
+        "author": {
+            "pt-br": "Confúcio",
+            "en": "Confucius",
+            "es": "Confucio"
+        },
+        "tags": [
+            "progresso",
+            "persistência",
+            "metas"
+        ]
+    },
+    {
+        "id": 204,
+        "text": {
+            "pt-br": "Nós não vemos as coisas como são, nós as vemos como nós somos.",
+            "en": "We don't see things as they are, we see them as we are.",
+            "es": "No vemos las cosas como son, las vemos como somos."
+        },
+        "author": {
+            "pt-br": "Anaïs Nin",
+            "en": "Anaïs Nin",
+            "es": "Anaïs Nin"
+        },
+        "tags": [
+            "percepção",
+            "subjetividade",
+            "autoconhecimento"
+        ]
+    },
+    {
+        "id": 205,
+        "text": {
+            "pt-br": "O grande objetivo da educação não é o conhecimento, mas a ação.",
+            "en": "The great aim of education is not knowledge but action.",
+            "es": "El gran objetivo de la educación no es el conocimiento, sino la acción."
+        },
+        "author": {
+            "pt-br": "Herbert Spencer",
+            "en": "Herbert Spencer",
+            "es": "Herbert Spencer"
+        },
+        "tags": [
+            "educação",
+            "ação",
+            "prática"
+        ]
+    },
+    {
+        "id": 206,
+        "text": {
+            "pt-br": "Onde há luz, deve haver sombra; onde há sombra, deve haver luz. Não há escuridão sem luz.",
+            "en": "Where there is light, there must be shadow; where there is shadow, there must be light. There is no darkness without light.",
+            "es": "Donde hay luz, debe haber sombra; donde hay sombra, debe haber luz. No hay oscuridad sin luz."
+        },
+        "author": {
+            "pt-br": "Haruki Murakami",
+            "en": "Haruki Murakami",
+            "es": "Haruki Murakami"
+        },
+        "tags": [
+            "dualidade",
+            "vida",
+            "literatura"
+        ]
+    },
+    {
+        "id": 207,
+        "text": {
+            "pt-br": "Uma invenção é uma combinação de ideias existentes.",
+            "en": "An invention is a combination of existing ideas.",
+            "es": "Una invención es una combinación de ideas existentes."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "invenção",
+            "inovação",
+            "criatividade"
+        ]
+    },
+    {
+        "id": 208,
+        "text": {
+            "pt-br": "Nunca confunda um único fracasso com um fracasso final.",
+            "en": "Never confuse a single defeat with a final defeat.",
+            "es": "Nunca confundas una sola derrota con una derrota final."
+        },
+        "author": {
+            "pt-br": "F. Scott Fitzgerald",
+            "en": "F. Scott Fitzgerald",
+            "es": "F. Scott Fitzgerald"
+        },
+        "tags": [
+            "fracasso",
+            "persistência",
+            "resiliência"
+        ]
+    },
+    {
+        "id": 209,
+        "text": {
+            "pt-br": "A bondade é a linguagem que o surdo pode ouvir e o cego pode ver.",
+            "en": "Kindness is the language which the deaf can hear and the blind can see.",
+            "es": "La bondad es el lenguaje que el sordo puede oír y el ciego puede ver."
+        },
+        "author": {
+            "pt-br": "Mark Twain",
+            "en": "Mark Twain",
+            "es": "Mark Twain"
+        },
+        "tags": [
+            "bondade",
+            "comunicação",
+            "humanidade"
+        ]
+    },
+    {
+        "id": 210,
+        "text": {
+            "pt-br": "Tudo tem beleza, mas nem todos a veem.",
+            "en": "Everything has beauty, but not everyone sees it.",
+            "es": "Todo tiene belleza, pero no todos la ven."
+        },
+        "author": {
+            "pt-br": "Confúcio",
+            "en": "Confucius",
+            "es": "Confucio"
+        },
+        "tags": [
+            "beleza",
+            "percepção",
+            "apreciação"
+        ]
+    },
+    {
+        "id": 211,
+        "text": {
+            "pt-br": "Se você quer ser feliz, seja.",
+            "en": "If you want to be happy, be.",
+            "es": "Si quieres ser feliz, sé."
+        },
+        "author": {
+            "pt-br": "Leon Tolstói",
+            "en": "Leo Tolstoy",
+            "es": "León Tolstói"
+        },
+        "tags": [
+            "felicidade",
+            "escolha",
+            "vida"
+        ]
+    },
+    {
+        "id": 212,
+        "text": {
+            "pt-br": "O maior espetáculo do mundo é o homem lutando por sua sobrevivência.",
+            "en": "The greatest spectacle in the world is a man struggling for his survival.",
+            "es": "El mayor espectáculo del mundo es el hombre luchando por su supervivencia."
+        },
+        "author": {
+            "pt-br": "Charles Chaplin",
+            "en": "Charles Chaplin",
+            "es": "Charles Chaplin"
+        },
+        "tags": [
+            "vida",
+            "luta",
+            "humanidade"
+        ]
+    },
+    {
+        "id": 213,
+        "text": {
+            "pt-br": "A melhor maneira de começar é parar de falar e começar a fazer.",
+            "en": "The best way to get started is to quit talking and begin doing.",
+            "es": "La mejor manera de empezar es dejar de hablar y empezar a hacer."
+        },
+        "author": {
+            "pt-br": "Walt Disney",
+            "en": "Walt Disney",
+            "es": "Walt Disney"
+        },
+        "tags": [
+            "ação",
+            "motivação",
+            "começo"
+        ]
+    },
+    {
+        "id": 214,
+        "text": {
+            "pt-br": "A diferença entre um sonho e um objetivo é uma data.",
+            "en": "The difference between a dream and a goal is a date.",
+            "es": "La diferencia entre un sueño y un objetivo es una fecha."
+        },
+        "author": {
+            "pt-br": "Walt Disney",
+            "en": "Walt Disney",
+            "es": "Walt Disney"
+        },
+        "tags": [
+            "metas",
+            "planejamento",
+            "objetivo"
+        ]
+    },
+    {
+        "id": 215,
+        "text": {
+            "pt-br": "A mudança não é algo que fazemos para nós. É algo que fazemos para o mundo.",
+            "en": "Change is not something we do to us. It's something we do for the world.",
+            "es": "El cambio no es algo que hacemos para nosotros. Es algo que hacemos para el mundo."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "mudança",
+            "impacto",
+            "sociedade"
+        ]
+    },
+    {
+        "id": 216,
+        "text": {
+            "pt-br": "Você deve estar disposto a ser um novato todos os dias.",
+            "en": "You have to be willing to be a beginner every single morning.",
+            "es": "Debes estar dispuesto a ser un novato todos los días."
+        },
+        "author": {
+            "pt-br": "Meister Eckhart",
+            "en": "Meister Eckhart",
+            "es": "Meister Eckhart"
+        },
+        "tags": [
+            "aprendizado",
+            "humildade",
+            "crescimento"
+        ]
+    },
+    {
+        "id": 217,
+        "text": {
+            "pt-br": "Quando tiver de escolher entre dois males, escolha aquele que nunca experimentou antes.",
+            "en": "When you have to choose between two evils, choose the one you have never experienced before.",
+            "es": "Cuando tengas que elegir entre dos males, elige el que nunca antes has experimentado."
+        },
+        "author": {
+            "pt-br": "Mae West",
+            "en": "Mae West",
+            "es": "Mae West"
+        },
+        "tags": [
+            "escolha",
+            "humor",
+            "risco"
+        ]
+    },
+    {
+        "id": 218,
+        "text": {
+            "pt-br": "Não há maior desperdício na vida do que lamentar o que você fez.",
+            "en": "There is no greater waste in life than regretting what you have done.",
+            "es": "No hay mayor desperdicio en la vida que lamentar lo que has hecho."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "arrependimento",
+            "vida",
+            "aceitação"
+        ]
+    },
+    {
+        "id": 219,
+        "text": {
+            "pt-br": "O destino não é uma questão de chance, é uma questão de escolha.",
+            "en": "Destiny is not a matter of chance; it is a matter of choice.",
+            "es": "El destino no es una cuestión de suerte, es una cuestión de elección."
+        },
+        "author": {
+            "pt-br": "William Jennings Bryan",
+            "en": "William Jennings Bryan",
+            "es": "William Jennings Bryan"
+        },
+        "tags": [
+            "destino",
+            "escolha",
+            "livre arbítrio"
+        ]
+    },
+    {
+        "id": 220,
+        "text": {
+            "pt-br": "A mente é como um paraquedas. Só funciona se estiver aberta.",
+            "en": "The mind is like a parachute. It only works when it is open.",
+            "es": "La mente es como un paracaídas. Solo funciona si está abierta."
+        },
+        "author": {
+            "pt-br": "Frank Zappa",
+            "en": "Frank Zappa",
+            "es": "Frank Zappa"
+        },
+        "tags": [
+            "mente",
+            "abertura",
+            "pensamento"
+        ]
+    },
+    {
+        "id": 221,
+        "text": {
+            "pt-br": "Onde há vontade, há um caminho.",
+            "en": "Where there is a will, there is a way.",
+            "es": "Donde hay voluntad, hay un camino."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "vontade",
+            "determinação",
+            "solução"
+        ]
+    },
+    {
+        "id": 222,
+        "text": {
+            "pt-br": "Não espere por heróis. Seja o herói.",
+            "en": "Don't wait for heroes. Be the hero.",
+            "es": "No esperes por héroes. Sé el héroe."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "heroísmo",
+            "ação",
+            "iniciativa"
+        ]
+    },
+    {
+        "id": 223,
+        "text": {
+            "pt-br": "A vida não examinada não vale a pena ser vivida.",
+            "en": "The unexamined life is not worth living.",
+            "es": "La vida no examinada no merece ser vivida."
+        },
+        "author": {
+            "pt-br": "Sócrates",
+            "en": "Socrates",
+            "es": "Sócrates"
+        },
+        "tags": [
+            "filosofia",
+            "reflexão",
+            "vida"
+        ]
+    },
+    {
+        "id": 224,
+        "text": {
+            "pt-br": "Todo progresso acontece fora da zona de conforto.",
+            "en": "All progress takes place outside the comfort zone.",
+            "es": "Todo progreso ocurre fuera de la zona de confort."
+        },
+        "author": {
+            "pt-br": "Michael John Bobak",
+            "en": "Michael John Bobak",
+            "es": "Michael John Bobak"
+        },
+        "tags": [
+            "crescimento",
+            "conforto",
+            "progresso"
+        ]
+    },
+    {
+        "id": 225,
+        "text": {
+            "pt-br": "A crítica é o preço que você paga pela fama.",
+            "en": "Criticism is the price you pay for popularity.",
+            "es": "La crítica es el precio que pagas por la fama."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "crítica",
+            "fama",
+            "sucesso"
+        ]
+    },
+    {
+        "id": 226,
+        "text": {
+            "pt-br": "Os problemas são apenas oportunidades em roupas de trabalho.",
+            "en": "Problems are just opportunities in work clothes.",
+            "es": "Los problemas son solo oportunidades con ropa de trabajo."
+        },
+        "author": {
+            "pt-br": "Henry J. Kaiser",
+            "en": "Henry J. Kaiser",
+            "es": "Henry J. Kaiser"
+        },
+        "tags": [
+            "problemas",
+            "oportunidade",
+            "trabalho"
+        ]
+    },
+    {
+        "id": 227,
+        "text": {
+            "pt-br": "A verdade é a filha do tempo, não da autoridade.",
+            "en": "Truth is the daughter of time, not of authority.",
+            "es": "La verdad es hija del tiempo, no de la autoridad."
+        },
+        "author": {
+            "pt-br": "Francis Bacon",
+            "en": "Francis Bacon",
+            "es": "Francis Bacon"
+        },
+        "tags": [
+            "verdade",
+            "tempo",
+            "autoridade"
+        ]
+    },
+    {
+        "id": 228,
+        "text": {
+            "pt-br": "O pessimista vê dificuldade em cada oportunidade. O otimista vê oportunidade em cada dificuldade.",
+            "en": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+            "es": "El pesimista ve dificultad en cada oportunidad. El optimista ve oportunidad en cada dificultad."
+        },
+        "author": {
+            "pt-br": "Winston Churchill",
+            "en": "Winston Churchill",
+            "es": "Winston Churchill"
+        },
+        "tags": [
+            "otimismo",
+            "pessimismo",
+            "perspectiva"
+        ]
+    },
+    {
+        "id": 229,
+        "text": {
+            "pt-br": "A arte é a mentira que nos permite realizar a verdade.",
+            "en": "Art is the lie that enables us to realize the truth.",
+            "es": "El arte es la mentira que nos permite realizar la verdad."
+        },
+        "author": {
+            "pt-br": "Pablo Picasso",
+            "en": "Pablo Picasso",
+            "es": "Pablo Picasso"
+        },
+        "tags": [
+            "arte",
+            "verdade",
+            "criatividade"
+        ]
+    },
+    {
+        "id": 230,
+        "text": {
+            "pt-br": "Você perde 100% dos chutes que não dá.",
+            "en": "You miss 100% of the shots you don't take.",
+            "es": "Pierdes el 100% de los tiros que no tomas."
+        },
+        "author": {
+            "pt-br": "Wayne Gretzky",
+            "en": "Wayne Gretzky",
+            "es": "Wayne Gretzky"
+        },
+        "tags": [
+            "ação",
+            "oportunidade",
+            "risco"
+        ]
+    },
+    {
+        "id": 231,
+        "text": {
+            "pt-br": "Não há nada de particularmente notável em mim. Sou apenas apaixonadamente curioso.",
+            "en": "I have no special talent. I am only passionately curious.",
+            "es": "No tengo ningún talento especial. Solo soy apasionadamente curioso."
+        },
+        "author": {
+            "pt-br": "Albert Einstein",
+            "en": "Albert Einstein",
+            "es": "Albert Einstein"
+        },
+        "tags": [
+            "curiosidade",
+            "aprendizado",
+            "ciência"
+        ]
+    },
+    {
+        "id": 232,
+        "text": {
+            "pt-br": "A vida não é medida pelo número de respirações que tomamos, mas pelos momentos que nos tiram o fôlego.",
+            "en": "The life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+            "es": "La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento."
+        },
+        "author": {
+            "pt-br": "Maya Angelou",
+            "en": "Maya Angelou",
+            "es": "Maya Angelou"
+        },
+        "tags": [
+            "vida",
+            "emoção",
+            "experiência"
+        ]
+    },
+    {
+        "id": 233,
+        "text": {
+            "pt-br": "Se você não tem concorrentes, é porque você não está no mercado.",
+            "en": "If you have no competitors, it's because you are not in the market.",
+            "es": "Si no tienes competidores, es porque no estás en el mercado."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "negócios",
+            "concorrência",
+            "mercado"
+        ]
+    },
+    {
+        "id": 234,
+        "text": {
+            "pt-br": "A dúvida é um desconforto terrível, mas a certeza é ridícula.",
+            "en": "Doubt is a terrible discomfort, but certainty is ridiculous.",
+            "es": "La duda es una terrible incomodidad, pero la certeza es ridícula."
+        },
+        "author": {
+            "pt-br": "Voltaire",
+            "en": "Voltaire",
+            "es": "Voltaire"
+        },
+        "tags": [
+            "dúvida",
+            "certeza",
+            "pensamento"
+        ]
+    },
+    {
+        "id": 235,
+        "text": {
+            "pt-br": "Não há sabedoria onde há medo.",
+            "en": "There is no wisdom where there is fear.",
+            "es": "No hay sabiduría donde hay miedo."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "medo",
+            "sabedoria",
+            "coragem"
+        ]
+    },
+    {
+        "id": 236,
+        "text": {
+            "pt-br": "Todo ser humano é um autor de sua própria saúde ou doença.",
+            "en": "Every human being is the author of his own health or disease.",
+            "es": "Todo ser humano es autor de su propia salud o enfermedad."
+        },
+        "author": {
+            "pt-br": "Buda",
+            "en": "Buddha",
+            "es": "Buda"
+        },
+        "tags": [
+            "saúde",
+            "responsabilidade",
+            "mente"
+        ]
+    },
+    {
+        "id": 237,
+        "text": {
+            "pt-br": "Se você não se levanta, o dia acaba sem que você tenha visto o que aconteceu.",
+            "en": "If you do not rise, the day ends without you having seen what happened.",
+            "es": "Si no te levantas, el día termina sin que hayas visto lo que pasó."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "ação",
+            "oportunidade",
+            "vida"
+        ]
+    },
+    {
+        "id": 238,
+        "text": {
+            "pt-br": "O amor é a resposta, e você sabe que sim. O amor é a chave para o portão, a fechadura e o cadeado.",
+            "en": "Love is the answer, and you know that for sure. Love is the key to the gate, the lock, and the bolt.",
+            "es": "El amor es la respuesta, y sabes que sí. El amor es la llave del portón, la cerradura y el candado."
+        },
+        "author": {
+            "pt-br": "Jimi Hendrix",
+            "en": "Jimi Hendrix",
+            "es": "Jimi Hendrix"
+        },
+        "tags": [
+            "amor",
+            "resposta",
+            "música"
+        ]
+    },
+    {
+        "id": 239,
+        "text": {
+            "pt-br": "A melhor maneira de se vingar é ser diferente da pessoa que causou o ferimento.",
+            "en": "The best way to avenge yourself is not to be like the person who caused the injury.",
+            "es": "La mejor manera de vengarte es no ser como la persona que causó la herida."
+        },
+        "author": {
+            "pt-br": "Marco Aurélio",
+            "en": "Marcus Aurelius",
+            "es": "Marco Aurelio"
+        },
+        "tags": [
+            "estoicismo",
+            "comportamento",
+            "vingança"
+        ]
+    },
+    {
+        "id": 240,
+        "text": {
+            "pt-br": "O otimismo é a fé que leva à realização.",
+            "en": "Optimism is the faith that leads to achievement.",
+            "es": "El optimismo es la fe que conduce al logro."
+        },
+        "author": {
+            "pt-br": "Helen Keller",
+            "en": "Helen Keller",
+            "es": "Helen Keller"
+        },
+        "tags": [
+            "otimismo",
+            "fé",
+            "realização"
+        ]
+    },
+    {
+        "id": 241,
+        "text": {
+            "pt-br": "A experiência é o nome que todos dão aos seus erros.",
+            "en": "Experience is the name everyone gives to their mistakes.",
+            "es": "La experiencia es el nombre que todos le dan a sus errores."
+        },
+        "author": {
+            "pt-br": "Oscar Wilde",
+            "en": "Oscar Wilde",
+            "es": "Oscar Wilde"
+        },
+        "tags": [
+            "experiência",
+            "erro",
+            "vida"
+        ]
+    },
+    {
+        "id": 242,
+        "text": {
+            "pt-br": "Não existe elevador para o sucesso. Você tem que usar as escadas.",
+            "en": "There is no elevator to success. You have to take the stairs.",
+            "es": "No hay ascensor para el éxito. Tienes que usar las escaleras."
+        },
+        "author": {
+            "pt-br": "Zig Ziglar",
+            "en": "Zig Ziglar",
+            "es": "Zig Ziglar"
+        },
+        "tags": [
+            "sucesso",
+            "esforço",
+            "motivação"
+        ]
+    },
+    {
+        "id": 243,
+        "text": {
+            "pt-br": "A primeira e melhor vitória é conquistar a si mesmo.",
+            "en": "The first and best victory is to conquer self.",
+            "es": "La primera y mejor victoria es conquistarse a uno mismo."
+        },
+        "author": {
+            "pt-br": "Platão",
+            "en": "Plato",
+            "es": "Platón"
+        },
+        "tags": [
+            "autocontrole",
+            "vitória",
+            "filosofia"
+        ]
+    },
+    {
+        "id": 244,
+        "text": {
+            "pt-br": "O que você pensa, você se torna. O que você sente, você atrai. O que você imagina, você cria.",
+            "en": "What you think, you become. What you feel, you attract. What you imagine, you create.",
+            "es": "Lo que piensas, te conviertes. Lo que sientes, atraes. Lo que imaginas, creas."
+        },
+        "author": {
+            "pt-br": "Buda",
+            "en": "Buddha",
+            "es": "Buda"
+        },
+        "tags": [
+            "lei da atração",
+            "pensamento",
+            "criação"
+        ]
+    },
+    {
+        "id": 245,
+        "text": {
+            "pt-br": "Não se trata de ter tempo, trata-se de fazer tempo.",
+            "en": "It's not about having time, it's about making time.",
+            "es": "No se trata de tener tiempo, se trata de hacer tiempo."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "tempo",
+            "prioridade",
+            "gestão"
+        ]
+    },
+    {
+        "id": 246,
+        "text": {
+            "pt-br": "O conhecimento é apenas um boato até entrar no músculo.",
+            "en": "Knowledge is just a rumor until it lives in the muscle.",
+            "es": "El conocimiento es solo un rumor hasta que entra en el músculo."
+        },
+        "author": {
+            "pt-br": "Ditado africano",
+            "en": "African proverb",
+            "es": "Proverbio africano"
+        },
+        "tags": [
+            "conhecimento",
+            "prática",
+            "ação"
+        ]
+    },
+    {
+        "id": 247,
+        "text": {
+            "pt-br": "A função da oração não é influenciar Deus, mas sim mudar a natureza daquele que ora.",
+            "en": "The function of prayer is not to influence God, but rather to change the nature of the one who prays.",
+            "es": "La función de la oración no es influir en Dios, sino cambiar la naturaleza de quien ora."
+        },
+        "author": {
+            "pt-br": "Søren Kierkegaard",
+            "en": "Søren Kierkegaard",
+            "es": "Søren Kierkegaard"
+        },
+        "tags": [
+            "espiritualidade",
+            "mudança",
+            "reflexão"
+        ]
+    },
+    {
+        "id": 248,
+        "text": {
+            "pt-br": "O mundo é um livro e aqueles que não viajam leem apenas uma página.",
+            "en": "The world is a book and those who do not travel read only one page.",
+            "es": "El mundo es un libro y aquellos que no viajan solo leen una página."
+        },
+        "author": {
+            "pt-br": "Santo Agostinho",
+            "en": "Saint Augustine",
+            "es": "San Agustín"
+        },
+        "tags": [
+            "viagem",
+            "conhecimento",
+            "mundo"
+        ]
+    },
+    {
+        "id": 249,
+        "text": {
+            "pt-br": "O único limite para a nossa realização de amanhã serão as nossas dúvidas de hoje.",
+            "en": "The only limit to our realization of tomorrow will be our doubts of today.",
+            "es": "El único límite para nuestra realización de mañana serán nuestras dudas de hoy."
+        },
+        "author": {
+            "pt-br": "Franklin D. Roosevelt",
+            "en": "Franklin D. Roosevelt",
+            "es": "Franklin D. Roosevelt"
+        },
+        "tags": [
+            "limite",
+            "dúvida",
+            "realização"
+        ]
+    },
+    {
+        "id": 250,
+        "text": {
+            "pt-br": "Não se trata de onde você começa, mas de onde você visa terminar.",
+            "en": "It's not about where you start, but where you aim to finish.",
+            "es": "No se trata de dónde empiezas, sino de dónde apuntas a terminar."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "objetivo",
+            "jornada",
+            "foco"
+        ]
+    },
+    {
+        "id": 251,
+        "text": {
+            "pt-br": "Uma palavra bondosa pode mudar o dia inteiro de alguém.",
+            "en": "A kind word can change someone's entire day.",
+            "es": "Una palabra amable puede cambiar el día entero de alguien."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "bondade",
+            "impacto",
+            "comportamento"
+        ]
+    },
+    {
+        "id": 252,
+        "text": {
+            "pt-br": "A persistência pode transformar um fracasso em um sucesso extraordinário.",
+            "en": "Persistence can transform a failure into an extraordinary achievement.",
+            "es": "La persistencia puede transformar un fracaso en un éxito extraordinario."
+        },
+        "author": {
+            "pt-br": "Marv Levy",
+            "en": "Marv Levy",
+            "es": "Marv Levy"
+        },
+        "tags": [
+            "persistência",
+            "sucesso",
+            "superação"
+        ]
+    },
+    {
+        "id": 253,
+        "text": {
+            "pt-br": "Se você não tem opinião, você provavelmente não tem cérebro.",
+            "en": "If you don't have an opinion, you probably don't have a brain.",
+            "es": "Si no tienes opinión, probablemente no tengas cerebro."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "opinião",
+            "pensamento",
+            "independência"
+        ]
+    },
+    {
+        "id": 254,
+        "text": {
+            "pt-br": "Eu não falhei. Apenas encontrei 10.000 maneiras que não funcionam.",
+            "en": "I have not failed. I've just found 10,000 ways that won't work.",
+            "es": "No he fracasado. Simplemente he encontrado 10.000 maneras que no funcionan."
+        },
+        "author": {
+            "pt-br": "Thomas Edison",
+            "en": "Thomas Edison",
+            "es": "Thomas Edison"
+        },
+        "tags": [
+            "fracasso",
+            "aprendizado",
+            "inovação"
+        ]
+    },
+    {
+        "id": 255,
+        "text": {
+            "pt-br": "A melhor maneira de começar a mudar o mundo é começar a mudar a si mesmo.",
+            "en": "The best way to begin to change the world is to begin to change yourself.",
+            "es": "La mejor manera de empezar a cambiar el mundo es empezar a cambiarte a ti mismo."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "mudança",
+            "autoconhecimento",
+            "ação"
+        ]
+    },
+    {
+        "id": 256,
+        "text": {
+            "pt-br": "Você não pode usar o oceano se tiver medo de perder de vista a costa.",
+            "en": "You can never cross the ocean unless you have the courage to lose sight of the shore.",
+            "es": "Nunca podrás cruzar el océano a menos que tengas el coraje de perder de vista la costa."
+        },
+        "author": {
+            "pt-br": "Cristóvão Colombo",
+            "en": "Christopher Columbus",
+            "es": "Cristóbal Colón"
+        },
+        "tags": [
+            "coragem",
+            "risco",
+            "aventura"
+        ]
+    },
+    {
+        "id": 257,
+        "text": {
+            "pt-br": "Não podemos ajudar a todos, mas todos podem ajudar alguém.",
+            "en": "We can't help everyone, but everyone can help someone.",
+            "es": "No podemos ayudar a todos, pero todos pueden ayudar a alguien."
+        },
+        "author": {
+            "pt-br": "Ronald Reagan",
+            "en": "Ronald Reagan",
+            "es": "Ronald Reagan"
+        },
+        "tags": [
+            "ajuda",
+            "solidariedade",
+            "ação"
+        ]
+    },
+    {
+        "id": 258,
+        "text": {
+            "pt-br": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+            "en": "The only way to do great work is to love what you do.",
+            "es": "La única forma de hacer un gran trabajo es amar lo que haces."
+        },
+        "author": {
+            "pt-br": "Steve Jobs",
+            "en": "Steve Jobs",
+            "es": "Steve Jobs"
+        },
+        "tags": [
+            "trabalho",
+            "paixão",
+            "excelência"
+        ]
+    },
+    {
+        "id": 259,
+        "text": {
+            "pt-br": "A sabedoria não é um produto da escolaridade, mas da tentativa de uma vida inteira de adquiri-la.",
+            "en": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
+            "es": "La sabiduría no es un producto de la escolarización sino del intento de toda una vida por adquirirla."
+        },
+        "author": {
+            "pt-br": "Albert Einstein",
+            "en": "Albert Einstein",
+            "es": "Albert Einstein"
+        },
+        "tags": [
+            "sabedoria",
+            "aprendizado",
+            "vida"
+        ]
+    },
+    {
+        "id": 260,
+        "text": {
+            "pt-br": "As pessoas se agarram ao sofrimento porque ele é familiar.",
+            "en": "People cling to their suffering because it is familiar.",
+            "es": "La gente se aferra al sufrimiento porque les resulta familiar."
+        },
+        "author": {
+            "pt-br": "Thich Nhat Hanh",
+            "en": "Thich Nhat Hanh",
+            "es": "Thich Nhat Hanh"
+        },
+        "tags": [
+            "sofrimento",
+            "comportamento",
+            "espiritualidade"
+        ]
+    },
+    {
+        "id": 261,
+        "text": {
+            "pt-br": "A melhor maneira de se livrar de uma tentação é ceder a ela.",
+            "en": "The best way to get rid of a temptation is to yield to it.",
+            "es": "La mejor manera de deshacerse de una tentación es ceder a ella."
+        },
+        "author": {
+            "pt-br": "Oscar Wilde",
+            "en": "Oscar Wilde",
+            "es": "Oscar Wilde"
+        },
+        "tags": [
+            "tentação",
+            "humor",
+            "literatura"
+        ]
+    },
+    {
+        "id": 262,
+        "text": {
+            "pt-br": "A ação mais corajosa é pensar por si mesmo. Em voz alta.",
+            "en": "The most courageous act is still to think for yourself. Aloud.",
+            "es": "El acto más valiente sigue siendo pensar por uno mismo. En voz alta."
+        },
+        "author": {
+            "pt-br": "Coco Chanel",
+            "en": "Coco Chanel",
+            "es": "Coco Chanel"
+        },
+        "tags": [
+            "coragem",
+            "pensamento",
+            "autonomia"
+        ]
+    },
+    {
+        "id": 263,
+        "text": {
+            "pt-br": "A única constante na vida é a mudança.",
+            "en": "The only constant in life is change.",
+            "es": "La única constante en la vida es el cambio."
+        },
+        "author": {
+            "pt-br": "Heráclito",
+            "en": "Heraclitus",
+            "es": "Heráclito"
+        },
+        "tags": [
+            "mudança",
+            "filosofia",
+            "vida"
+        ]
+    },
+    {
+        "id": 264,
+        "text": {
+            "pt-br": "A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente.",
+            "en": "Life is a play that does not allow rehearsals. So, sing, cry, dance, laugh, and live intensely.",
+            "es": "La vida es una obra de teatro que no permite ensayos. Por eso, canta, llora, baila, ríe y vive intensamente."
+        },
+        "author": {
+            "pt-br": "Charles Chaplin",
+            "en": "Charles Chaplin",
+            "es": "Charles Chaplin"
+        },
+        "tags": [
+            "vida",
+            "intensidade",
+            "emoção"
+        ]
+    },
+    {
+        "id": 265,
+        "text": {
+            "pt-br": "Não lamente o que passou, mas sim o que você não fez.",
+            "en": "Do not weep that the time is gone, rather what you did not do.",
+            "es": "No lamentes lo que pasó, sino lo que no hiciste."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "arrependimento",
+            "ação",
+            "oportunidade"
+        ]
+    },
+    {
+        "id": 266,
+        "text": {
+            "pt-br": "Nenhum homem é uma ilha, completo em si mesmo.",
+            "en": "No man is an island, entire of itself.",
+            "es": "Ningún hombre es una isla, completo en sí mismo."
+        },
+        "author": {
+            "pt-br": "John Donne",
+            "en": "John Donne",
+            "es": "John Donne"
+        },
+        "tags": [
+            "conexão",
+            "humanidade",
+            "relacionamento"
+        ]
+    },
+    {
+        "id": 267,
+        "text": {
+            "pt-br": "O valor de um homem reside na sua capacidade de sair da prisão da sua própria mente.",
+            "en": "The value of a man lies in his ability to break out of the prison of his own mind.",
+            "es": "El valor de un hombre reside en su capacidad para salir de la prisión de su propia mente."
+        },
+        "author": {
+            "pt-br": "Anônimo",
+            "en": "Anonymous",
+            "es": "Anónimo"
+        },
+        "tags": [
+            "mente",
+            "liberdade",
+            "autoconhecimento"
+        ]
+    },
+    {
+        "id": 268,
+        "text": {
+            "pt-br": "A simplicidade é o último degrau da experiência e o máximo esforço do gênio.",
+            "en": "Simplicity is the last step of experience and the final effort of genius.",
+            "es": "La simplicidad es el último paso de la experiencia y el máximo esfuerzo del genio."
+        },
+        "author": {
+            "pt-br": "Leonardo da Vinci",
+            "en": "Leonardo da Vinci",
+            "es": "Leonardo da Vinci"
+        },
+        "tags": [
+            "simplicidade",
+            "gênio",
+            "experiência"
+        ]
+    },
+    {
+        "id": 269,
+        "text": {
+            "pt-br": "A melhor vingança é não ser como o seu inimigo.",
+            "en": "The best revenge is not to be like your enemy.",
+            "es": "La mejor venganza es no ser como tu enemigo."
+        },
+        "author": {
+            "pt-br": "Marco Aurélio",
+            "en": "Marcus Aurelius",
+            "es": "Marco Aurelio"
+        },
+        "tags": [
+            "estoicismo",
+            "vingança",
+            "virtude"
+        ]
+    },
+    {
+        "id": 270,
+        "text": {
+            "pt-br": "A felicidade está mais em dar do que em receber.",
+            "en": "Happiness is more in giving than in receiving.",
+            "es": "La felicidad está más en dar que en recibir."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "felicidade",
+            "doação",
+            "altruísmo"
+        ]
+    },
+    {
+        "id": 271,
+        "text": {
+            "pt-br": "A maneira mais rápida de dobrar o seu dinheiro é dobrá-lo e colocá-lo de volta no seu bolso.",
+            "en": "The quickest way to double your money is to fold it over and put it back in your pocket.",
+            "es": "La forma más rápida de duplicar tu dinero es doblarlo y volver a meterlo en el bolsillo."
+        },
+        "author": {
+            "pt-br": "Will Rogers",
+            "en": "Will Rogers",
+            "es": "Will Rogers"
+        },
+        "tags": [
+            "dinheiro",
+            "finanças",
+            "humor"
+        ]
+    },
+    {
+        "id": 272,
+        "text": {
+            "pt-br": "Onde não há luta, não há força.",
+            "en": "Where there is no struggle, there is no strength.",
+            "es": "Donde no hay lucha, no hay fuerza."
+        },
+        "author": {
+            "pt-br": "Oprah Winfrey",
+            "en": "Oprah Winfrey",
+            "es": "Oprah Winfrey"
+        },
+        "tags": [
+            "luta",
+            "força",
+            "crescimento"
+        ]
+    },
+    {
+        "id": 273,
+        "text": {
+            "pt-br": "A persistência é para o caráter o que o carbono é para o aço.",
+            "en": "Persistence is to the character as carbon is to steel.",
+            "es": "La persistencia es para el carácter lo que el carbono es para el acero."
+        },
+        "author": {
+            "pt-br": "Napoleon Hill",
+            "en": "Napoleon Hill",
+            "es": "Napoleon Hill"
+        },
+        "tags": [
+            "persistência",
+            "caráter",
+            "motivação"
+        ]
+    },
+    {
+        "id": 274,
+        "text": {
+            "pt-br": "A única revolução possível é dentro de nós.",
+            "en": "The only possible revolution is inside us.",
+            "es": "La única revolución posible es dentro de nosotros."
+        },
+        "author": {
+            "pt-br": "Dalai Lama",
+            "en": "Dalai Lama",
+            "es": "Dalai Lama"
+        },
+        "tags": [
+            "revolução",
+            "interior",
+            "mudança"
+        ]
+    },
+    {
+        "id": 275,
+        "text": {
+            "pt-br": "A razão pela qual as pessoas desistem tão rapidamente é porque elas tendem a olhar para o quanto ainda têm que ir, ao invés do quão longe elas chegaram.",
+            "en": "The reason people give up so fast is because they look at how far they still have to go, instead of how far they have gotten.",
+            "es": "La razón por la que la gente se rinde tan rápido es porque tienden a mirar lo lejos que les queda por ir, en lugar de lo lejos que han llegado."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "persistência",
+            "motivação",
+            "progresso"
+        ]
+    },
+    {
+        "id": 276,
+        "text": {
+            "pt-br": "Nossos pensamentos criam o nosso mundo.",
+            "en": "Our thoughts create our world.",
+            "es": "Nuestros pensamientos crean nuestro mundo."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "pensamento",
+            "criação",
+            "realidade"
+        ]
+    },
+    {
+        "id": 277,
+        "text": {
+            "pt-br": "A verdade é dura, mas a ignorância é mais dura.",
+            "en": "The truth is hard, but ignorance is harder.",
+            "es": "La verdad es dura, pero la ignorancia es más dura."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "verdade",
+            "ignorância",
+            "conhecimento"
+        ]
+    },
+    {
+        "id": 278,
+        "text": {
+            "pt-br": "O medo é a principal causa do fracasso.",
+            "en": "Fear is the main cause of failure.",
+            "es": "El miedo es la principal causa del fracaso."
+        },
+        "author": {
+            "pt-br": "Napoleon Hill",
+            "en": "Napoleon Hill",
+            "es": "Napoleon Hill"
+        },
+        "tags": [
+            "medo",
+            "fracasso",
+            "motivação"
+        ]
+    },
+    {
+        "id": 279,
+        "text": {
+            "pt-br": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+            "en": "Education is the most powerful weapon which you can use to change the world.",
+            "es": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+        },
+        "author": {
+            "pt-br": "Nelson Mandela",
+            "en": "Nelson Mandela",
+            "es": "Nelson Mandela"
+        },
+        "tags": [
+            "educação",
+            "mudança",
+            "poder"
+        ]
+    },
+    {
+        "id": 280,
+        "text": {
+            "pt-br": "Se você não tem opinião, você não existe para mim.",
+            "en": "If you have no opinion, you do not exist to me.",
+            "es": "Si no tienes opinión, no existes para mí."
+        },
+        "author": {
+            "pt-br": "Ditado popular",
+            "en": "Popular saying",
+            "es": "Dicho popular"
+        },
+        "tags": [
+            "existência",
+            "opinião",
+            "personalidade"
+        ]
     }
 ]
 
