@@ -1,0 +1,89 @@
+{
+  "gifs": [
+    /* --- Categoria: Anime --- */
+    {
+      "id": 1,
+      "categoria": "Anime",
+      "titulo": "Disparo de Ki (Dragon Ball Z)",
+      "descricao": "Goku preparando e lançando um Kamehameha.",
+      "tags": ["ação", "dragon ball z", "goku", "poder"],
+      "url": "http://googleusercontent.com/image_collection/image_retrieval/10401900027462150389"
+    },
+    {
+      "id": 2,
+      "categoria": "Anime",
+      "titulo": "Reação Emocional (Ataque dos Titãs)",
+      "descricao": "Um personagem em estado de choque ou gritando (Exemplo: Eren Yeager).",
+      "tags": ["reação", "attack on titan", "drama", "choque"],
+      "url": "http://googleusercontent.com/image_collection/image_retrieval/1657235901851901948"
+    },
+    {
+      "id": 3,
+      "categoria": "Anime",
+      "titulo": "Choro de Personagem (Pokémon)",
+      "descricao": "Ash Ketchum ou outro personagem icónico chorando.",
+      "tags": ["pokemon", "tristeza", "choro", "nostalgia"],
+      "url": "http://googleusercontent.com/image_collection/image_retrieval/2495890477912871717"
+    },
+    /* --- Categoria: Filme --- */
+    {
+      "id": 4,
+      "categoria": "Filme",
+      "titulo": "Aplauso Lento (O Lobo de Wall Street)",
+      "descricao": "Matthew McConaughey fazendo um 'applause' lento e sarcástico.",
+      "tags": ["reação", "cinema", "sarcasmo", "comedy"],
+      "url": "https://media1.giphy.com/media/l4Kig0J7l3pE60s4o/giphy.gif"
+    },
+    {
+      "id": 5,
+      "categoria": "Filme",
+      "titulo": "Gesto de Mãos (Star Trek)",
+      "descricao": "O famoso gesto 'Vida Longa e Próspera' do Spock.",
+      "tags": ["sci-fi", "star trek", "spock", "saudação"],
+      "url": "https://media.giphy.com/media/eY0cQ1Jv2PAs3N2l0z/giphy.gif"
+    },
+    /* --- Categoria: Série de TV --- */
+    {
+      "id": 6,
+      "categoria": "Série de TV",
+      "titulo": "Mic Drop (The Office)",
+      "descricao": "Michael Scott fazendo o 'mic drop' (largar o microfone).",
+      "tags": ["comédia", "the office", "reação", "finale"],
+      "url": "https://media.tenor.com/Fw54d8S6-fQAAAAC/mic-drop.gif"
+    },
+    {
+      "id": 7,
+      "categoria": "Série de TV",
+      "titulo": "Aceno Desconfiado (Game of Thrones)",
+      "descricao": "Tyrion Lannister a beber vinho e a acenar com ceticismo.",
+      "tags": ["drama", "game of thrones", "tyrion", "bebida"],
+      "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VscWRiZ2R6b3YyOW9qMmVkdDk1cm95dWl4Z2ZwaW5pdDFkbDdwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26hirEPeSuuMhLwpq/giphy.gif"
+    },
+    /* --- Categoria: Desenho Animado (Cartoon) --- */
+    {
+      "id": 8,
+      "categoria": "Desenho Animado (Cartoon)",
+      "titulo": "Olhar para o Nada (Bob Esponja)",
+      "descricao": "O Bob Esponja parado a olhar fixamente para a tela (olhar fixo).",
+      "tags": ["spongebob", "humor", "reação", "confusão"],
+      "url": "https://media.tenor.com/f7Vw3q0zB9sAAAAC/spongebob-squarepants-staring.gif"
+    },
+    /* --- Categoria: Jogos (Games) --- */
+    {
+      "id": 9,
+      "categoria": "Jogo",
+      "titulo": "Vitória Perfeita (Fighting Game)",
+      "descricao": "Tela de 'Perfect' e pose de vitória num jogo de luta.",
+      "tags": ["fighting game", "vitória", "celebração", "arcade"],
+      "url": "https://media.tenor.com/pt/view/gaming-victory-games-competition-gamer-gif-17284670642144574763"
+    },
+    {
+      "id": 10,
+      "categoria": "Jogo",
+      "titulo": "Fatality (Mortal Kombat)",
+      "descricao": "A palavra 'Fatality' a aparecer na tela após um golpe final.",
+      "tags": ["mortal kombat", "fatality", "luta", "violência"],
+      "url": "https://media.tenor.com/view/fatality-mortal-kombat-kombat-mortal-scorpion-gif-15181418235053402886"
+    }
+  ]
+}
