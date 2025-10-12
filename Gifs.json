@@ -25,7 +25,6 @@
       "tags": ["pokemon", "tristeza", "choro", "nostalgia"],
       "url": "http://googleusercontent.com/image_collection/image_retrieval/2495890477912871717"
     },
-    /* --- Categoria: Filme --- */
     {
       "id": 4,
       "categoria": "Filme",
@@ -42,7 +41,6 @@
       "tags": ["sci-fi", "star trek", "spock", "saudação"],
       "url": "https://media.giphy.com/media/eY0cQ1Jv2PAs3N2l0z/giphy.gif"
     },
-    /* --- Categoria: Série de TV --- */
     {
       "id": 6,
       "categoria": "Série de TV",
@@ -59,7 +57,6 @@
       "tags": ["drama", "game of thrones", "tyrion", "bebida"],
       "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VscWRiZ2R6b3YyOW9qMmVkdDk1cm95dWl4Z2ZwaW5pdDFkbDdwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26hirEPeSuuMhLwpq/giphy.gif"
     },
-    /* --- Categoria: Desenho Animado (Cartoon) --- */
     {
       "id": 8,
       "categoria": "Desenho Animado (Cartoon)",
@@ -68,7 +65,6 @@
       "tags": ["spongebob", "humor", "reação", "confusão"],
       "url": "https://media.tenor.com/f7Vw3q0zB9sAAAAC/spongebob-squarepants-staring.gif"
     },
-    /* --- Categoria: Jogos (Games) --- */
     {
       "id": 9,
       "categoria": "Jogo",
