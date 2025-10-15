@@ -1,9 +1,5 @@
          [
-    // =================================================================
-    // Categoria: SÉRIES (series)
-    // Subtema: Fantasia Épica
-    // =================================================================
-    { 
+        { 
         id: 1, title: "The Witcher", category: "series", subtheme: "Fantasia Épica", 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuzV8PWciRxU7qG_KnrNM8WawO-Dzz9HzVg&usqp=CAU", 
         description: "Geralt de Rívia, um mutante caçador de monstros, luta para encontrar seu lugar em um mundo onde as pessoas muitas vezes se mostram mais perversas que as criaturas que ele caça.", 
@@ -360,4 +356,4 @@
     { id: 51, title: "Gosta de Rua (Ao Vivo)", category: "musicas", subtheme: "Sertanejo Universitário", image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Felipe+Rodrigo", description: "Um dos maiores hits sertanejos de 2024, na voz da dupla Felipe & Rodrigo.", trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/cM3j6eB2h5I" }], spotifyEmbedUrl: "https://open.spotify.com/embed/track/303S3oWn86u9Uv6MhW4N5c?utm_source=generator", rating: "4.3/5.0", year: 2024, platform: "Ao Vivo", director: "Vários", cast: [{ name: "Felipe & Rodrigo", img: "https://via.placeholder.com/60/a052f5/ffffff?text=F&R" }], relatedSites: [{ name: "Sertanejo.com", url: "#", type: "Notícias" }] },
     { id: 52, title: "Erro Gostoso (Ao Vivo)", category: "musicas", subtheme: "Sertanejo Universitário", image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Simone+Mendes", description: "O sucesso solo de Simone Mendes após o fim da dupla com sua irmã.", trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/t9Z_h2t_d0M" }], spotifyEmbedUrl: "https://open.spotify.com/embed/track/25S197e3sH7B1tT846fM7a?utm_source=generator", rating: "4.5/5.0", year: 2023, platform: "Cintilante", director: "Vários", cast: [{ name: "Simone Mendes", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=SM" }], relatedSites: [{ name: "FM Hits", url: "#", type: "Rádio" }] },
     { id: 53, title: "Barulhotegory: "musil image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Ze+Neto+Cristiano", description: "Música animada da dupla Zé Neto & Cristiano que se tornou um fenômeno em rodeios.", trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/J72wMh5kP6Y" }], spotifyEmbedUrl: "https://open.spotify.com/embed/track/6pYd8D1Tj10Y6y3mO1l08p?utm_source=generator", rating: "4.4/5.0", year: 2024, platform: "Ao Vivo", director: "Vários", cast: [{ name: "Zé Neto & Cristiano", img: "https://via.placeholder.com/60/a052f5/ffffff?text=Z&C" }], relatedSites: [{ name: "Agenda de Shows", url: "#", type: "Eventos" }] },
-];
+]
