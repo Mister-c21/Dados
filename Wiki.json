@@ -27,6 +27,183 @@
         ]
     },
     { 
+        "id": 2, 
+        "title": "Cyberpunk 2077", 
+        "category": "jogos", 
+        "subtheme": "RPGs de Ação em Destaque", 
+        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Cyberpunk+2077", 
+        "description": "Um RPG de ação e aventura em mundo aberto ambientado em Night City. Escolha seu caminho e lute.", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DX3n38K9l44yZ?utm_source=generator", 
+        "rating": "4.0/5.0", 
+        "year": 2020, 
+        "platform": "PC, PS5, Xbox Series X/S", 
+        "director": "CD Projekt RED", 
+        "cast": [
+            { "name": "Keanu Reeves", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=KR" }
+        ], 
+        "relatedSites": [
+            { "name": "Site Oficial do Jogo", "url": "#", "type": "Desenvolvedor" }
+        ],
+        "trailers": [
+            { "title": "Lançamento", "url": "https://www.youtube.com/embed/P99Yj3e6-bE" }
+        ]
+    },
+    { 
+        "id": 3, 
+        "title": "Duna: Parte 2", 
+        "category": "filmes", 
+        "subtheme": "Ficção Científica", 
+        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Duna+2", 
+        "description": "Paul Atreides se une a Chani e aos Fremen em busca de vingança contra os conspiradores que destruíram sua família.", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3g5qH78Ehkifm9eJd1vVuz?utm_source=generator", 
+        "rating": "4.8/5.0", 
+        "year": 2024, 
+        "platform": "Cinema, HBO Max", 
+        "director": "Denis Villeneuve", 
+        "cast": [
+            { "name": "Timothée Chalamet", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=TC" }
+        ], 
+        "relatedSites": [
+            { "name": "IMDb", "url": "#", "type": "Info" }
+        ],
+        "trailers": [
+            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/w00l_k_S5_E" }
+        ]
+    },
+    { 
+        "id": 4, 
+        "title": "Bohemian Rhapsody", 
+        "category": "musicas", 
+        "subtheme": "Rock Clássico e Grunge", 
+        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Queen+Bohemian", 
+        "description": "Uma das canções mais icônicas da banda britânica Queen, lançada no álbum A Night at the Opera.", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7tFiyTwDdpGmxVlEHDQ02L?utm_source=generator", 
+        "rating": "5.0/5.0", 
+        "year": 1975, 
+        "platform": "A Night at the Opera", 
+        "director": "Bruce Gowers (Clipe)", 
+        "cast": [
+            { "name": "Freddie Mercury", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=FM" }
+        ], 
+        "relatedSites": [
+            { "name": "Site Oficial Queen", "url": "#", "type": "Música" }
+        ], 
+        "trailers": [
+            { "title": "Vídeo Oficial", "url": "https://www.youtube.com/embed/fJ9rUzIMcZQ" }
+        ]
+    },
+    { 
+        "id": 5, 
+        "title": "Stranger Things", 
+        "category": "series", 
+        "subtheme": "Terror & Suspense", 
+        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Stranger+Things", 
+        "description": "Um grupo de crianças enfrenta forças sobrenaturais e conspirações governamentais nos anos 80.", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DXcK4sLwI8jR9?utm_source=generator", 
+        "rating": "4.7/5.0", 
+        "year": 2016, 
+        "platform": "Netflix", 
+        "director": "The Duffer Brothers", 
+        "cast": [
+            { "name": "Millie Bobby Brown", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=MBB" }
+        ],
+        "relatedSites": [
+            { "name": "Página Oficial Netflix", "url": "#", "type": "Streaming" }
+        ], 
+        "trailers": [
+            { "title": "Trailer S4", "url": "https://www.youtube.com/embed/fN_YjY5R3c0" }
+        ]
+    },
+    { 
+        "id": 8, 
+        "title": "Breaking Bad", 
+        "category": "series", 
+        "subtheme": "Dramas Policiais Premiados", 
+        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Breaking+Bad", 
+        "description": "Um professor de química do ensino médio diagnosticado com câncer passa a fabricar e vender metanfetamina.", 
+        "trailers": [
+            { "title": "Trailer Clássico", "url": "https://www.youtube.com/embed/HhF_1-6O1bA" }
+        ], 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/0C8o4R6Q7zU8cR70g2f9kG?utm_source=generator", 
+        "rating": "5.0/5.0", 
+        "year": 2008, 
+        "platform": "AMC, Netflix", 
+        "director": "Vince Gilligan", 
+        "cast": [
+            { "name": "Bryan Cranston", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=BC" }, 
+            { "name": "Aaron Paul", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=AP" }
+        ], 
+        "relatedSites": [
+            { "name": "AMC TV", "url": "#", "type": "Estúdio" }
+        ] 
+    },
+    { 
+        "id": 10, 
+        "title": "The Office (série de televisão americana)", 
+        "category": "series", 
+        "subtheme": "Comédias Sitcom Clássicas", 
+        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=The+Office", 
+        "description": "Um olhar satírico sobre a vida de escritório através das lentes de um documentário.", 
+        "trailers": [
+            { "title": "Teaser", "url": "https://www.youtube.com/embed/a9n9gW7FmXU" }
+        ], 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/2yI1D9mR85s7k21kG3qK2o?utm_source=generator", 
+        "rating": "4.9/5.0", 
+        "year": 2005, 
+        "platform": "NBC", 
+        "director": "Vários", 
+        "cast": [
+            { "name": "Steve Carell", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=SC" }
+        ], 
+        "relatedSites": [
+            { "name": "NBC Store", "url": "#", "type": "Merch" }
+        ] 
+    },
+    { 
+        "id": 11, 
+        "title": "Attack on Titan", 
+        "category": "anime", 
+        "subtheme": "Animes Shonen Populares", 
+        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=AoT", 
+        "description": "A humanidade luta pela sobrevivência contra gigantes humanoides devoradores de homens.", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/19U2N5YmN5wJ8Q8K23Z0hI?utm_source=generator", 
+        "rating": "4.9/5.0", 
+        "year": 2013, 
+        "platform": "Crunchyroll", 
+        "director": "Tetsurō Araki", 
+        "cast": [
+            { "name": "Eren Yeager", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=EY" }
+        ],
+        "relatedSites": [
+            { "name": "Site Oficial Anime", "url": "#", "type": "Oficial" }
+        ], 
+        "trailers": [
+            { "title": "Trailer Final", "url": "https://www.youtube.com/embed/NFv8MlJ8j9k" }
+        ]
+    },
+    { 
+        "id": 12, 
+        "title": "Rick and Morty (S7)", 
+        "category": "cartoon", 
+        "subtheme": "Animação para Adultos", 
+        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=R&M+S7", 
+        "description": "As aventuras de um cientista genial e sociopata e seu neto mais influenciável, viajando pelo multiverso.", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/37i9dQZF1DXcK4sLwI8jR9?utm_source=generator", 
+        "rating": "4.7/5.0", 
+        "year": 2023, 
+        "platform": "Adult Swim, HBO Max", 
+        "director": "Justin Roiland, Dan Harmon", 
+        "cast": [
+            { "name": "Rick Sanchez", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=RS" }
+        ],
+        "relatedSites": [
+            { "name": "Adult Swim", "url": "#", "type": "Streaming" }
+        ], 
+        "trailers": [
+            { "title": "Trailer S7", "url": "https://www.youtube.com/embed/RIL-uK7v32s" }
+        ]
+    },
+    { 
         "id": 13, 
         "title": "A Casa do Dragão (S2)", 
         "category": "series", 
@@ -71,28 +248,6 @@
         ]
     },
     { 
-        "id": 5, 
-        "title": "Stranger Things", 
-        "category": "series", 
-        "subtheme": "Terror & Suspense", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Stranger+Things", 
-        "description": "Um grupo de crianças enfrenta forças sobrenaturais e conspirações governamentais nos anos 80.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DXcK4sLwI8jR9?utm_source=generator", 
-        "rating": "4.7/5.0", 
-        "year": 2016, 
-        "platform": "Netflix", 
-        "director": "The Duffer Brothers", 
-        "cast": [
-            { "name": "Millie Bobby Brown", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=MBB" }
-        ],
-        "relatedSites": [
-            { "name": "Página Oficial Netflix", "url": "#", "type": "Streaming" }
-        ], 
-        "trailers": [
-            { "title": "Trailer S4", "url": "https://www.youtube.com/embed/fN_YjY5R3c0" }
-        ]
-    },
-    { 
         "id": 15, 
         "title": "True Detective: Terra Noturna", 
         "category": "series", 
@@ -134,28 +289,6 @@
         ], 
         "trailers": [
             { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/k9T9zS_bE_A" }
-        ]
-    },
-    { 
-        "id": 3, 
-        "title": "Duna: Parte 2", 
-        "category": "filmes", 
-        "subtheme": "Ficção Científica", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Duna+2", 
-        "description": "Paul Atreides se une a Chani e aos Fremen em busca de vingança contra os conspiradores que destruíram sua família.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3g5qH78Ehkifm9eJd1vVuz?utm_source=generator", 
-        "rating": "4.8/5.0", 
-        "year": 2024, 
-        "platform": "Cinema, HBO Max", 
-        "director": "Denis Villeneuve", 
-        "cast": [
-            { "name": "Timothée Chalamet", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=TC" }
-        ], 
-        "relatedSites": [
-            { "name": "IMDb", "url": "#", "type": "Info" }
-        ],
-        "trailers": [
-            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/w00l_k_S5_E" }
         ]
     },
     { 
@@ -270,28 +403,6 @@
         ]
     },
     { 
-        "id": 3, 
-        "title": "Duna: Parte 2", 
-        "category": "filmes", 
-        "subtheme": "Ficção Científica", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Duna+2", 
-        "description": "Paul Atreides se une a Chani e aos Fremen em busca de vingança contra os conspiradores que destruíram sua família.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3g5qH78Ehkifm9eJd1vVuz?utm_source=generator", 
-        "rating": "4.8/5.0", 
-        "year": 2024, 
-        "platform": "Cinema, HBO Max", 
-        "director": "Denis Villeneuve", 
-        "cast": [
-            { "name": "Timothée Chalamet", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=TC" }
-        ], 
-        "relatedSites": [
-            { "name": "IMDb", "url": "#", "type": "Info" }
-        ],
-        "trailers": [
-            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/w00l_k_S5_E" }
-        ]
-    },
-    { 
         "id": 22, 
         "title": "Final Fantasy VII Rebirth", 
         "category": "jogos", 
@@ -399,28 +510,6 @@
         ], 
         "trailers": [
             { "title": "Trailer", "url": "https://www.youtube.com/embed/jE4_LwYy4tM" }
-        ]
-    },
-    { 
-        "id": 4, 
-        "title": "Bohemian Rhapsody", 
-        "category": "musicas", 
-        "subtheme": "Rock Clássico e Grunge", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Queen+Bohemian", 
-        "description": "Uma das canções mais icônicas da banda britânica Queen, lançada no álbum A Night at the Opera.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7tFiyTwDdpGmxVlEHDQ02L?utm_source=generator", 
-        "rating": "5.0/5.0", 
-        "year": 1975, 
-        "platform": "A Night at the Opera", 
-        "director": "Bruce Gowers (Clipe)", 
-        "cast": [
-            { "name": "Freddie Mercury", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=FM" }
-        ], 
-        "relatedSites": [
-            { "name": "Site Oficial Queen", "url": "#", "type": "Música" }
-        ], 
-        "trailers": [
-            { "title": "Vídeo Oficial", "url": "https://www.youtube.com/embed/fJ9rUzIMcZQ" }
         ]
     },
     { 
@@ -535,28 +624,6 @@
         ]
     },
     { 
-        "id": 11, 
-        "title": "Attack on Titan", 
-        "category": "anime", 
-        "subtheme": "Animes Shonen Populares", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=AoT", 
-        "description": "A humanidade luta pela sobrevivência contra gigantes humanoides devoradores de homens.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/19U2N5YmN5wJ8Q8K23Z0hI?utm_source=generator", 
-        "rating": "4.9/5.0", 
-        "year": 2013, 
-        "platform": "Crunchyroll", 
-        "director": "Tetsurō Araki", 
-        "cast": [
-            { "name": "Eren Yeager", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=EY" }
-        ],
-        "relatedSites": [
-            { "name": "Site Oficial Anime", "url": "#", "type": "Oficial" }
-        ], 
-        "trailers": [
-            { "title": "Trailer Final", "url": "https://www.youtube.com/embed/NFv8MlJ8j9k" }
-        ]
-    },
-    { 
         "id": 32, 
         "title": "Solo Leveling", 
         "category": "anime", 
@@ -664,28 +731,6 @@
         ], 
         "trailers": [
             { "title": "Trailer S2", "url": "https://www.youtube.com/embed/l3h6T2Q6yD0" }
-        ]
-    },
-    { 
-        "id": 12, 
-        "title": "Rick and Morty (S7)", 
-        "category": "cartoon", 
-        "subtheme": "Animação para Adultos", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=R&M+S7", 
-        "description": "As aventuras de um cientista genial e sociopata e seu neto mais influenciável, viajando pelo multiverso.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/37i9dQZF1DXcK4sLwI8jR9?utm_source=generator", 
-        "rating": "4.7/5.0", 
-        "year": 2023, 
-        "platform": "Adult Swim, HBO Max", 
-        "director": "Justin Roiland, Dan Harmon", 
-        "cast": [
-            { "name": "Rick Sanchez", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=RS" }
-        ],
-        "relatedSites": [
-            { "name": "Adult Swim", "url": "#", "type": "Streaming" }
-        ], 
-        "trailers": [
-            { "title": "Trailer S7", "url": "https://www.youtube.com/embed/RIL-uK7v32s" }
         ]
     },
     { 
@@ -799,51 +844,6 @@
         "trailers": [
             { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/0_J-m470rM4" }
         ]
-    },
-    { 
-        "id": 8, 
-        "title": "Breaking Bad", 
-        "category": "series", 
-        "subtheme": "Dramas Policiais Premiados", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Breaking+Bad", 
-        "description": "Um professor de química do ensino médio diagnosticado com câncer passa a fabricar e vender metanfetamina.", 
-        "trailers": [
-            { "title": "Trailer Clássico", "url": "https://www.youtube.com/embed/HhF_1-6O1bA" }
-        ], 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/0C8o4R6Q7zU8cR70g2f9kG?utm_source=generator", 
-        "rating": "5.0/5.0", 
-        "year": 2008, 
-        "platform": "AMC, Netflix", 
-        "director": "Vince Gilligan", 
-        "cast": [
-            { "name": "Bryan Cranston", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=BC" }, 
-            { "name": "Aaron Paul", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=AP" }
-        ], 
-        "relatedSites": [
-            { "name": "AMC TV", "url": "#", "type": "Estúdio" }
-        ] 
-    },
-    { 
-        "id": 10, 
-        "title": "The Office (série de televisão americana)", 
-        "category": "series", 
-        "subtheme": "Comédias Sitcom Clássicas", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=The+Office", 
-        "description": "Um olhar satírico sobre a vida de escritório através das lentes de um documentário.", 
-        "trailers": [
-            { "title": "Teaser", "url": "https://www.youtube.com/embed/a9n9gW7FmXU" }
-        ], 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/2yI1D9mR85s7k21kG3qK2o?utm_source=generator", 
-        "rating": "4.9/5.0", 
-        "year": 2005, 
-        "platform": "NBC", 
-        "director": "Vários", 
-        "cast": [
-            { "name": "Steve Carell", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=SC" }
-        ], 
-        "relatedSites": [
-            { "name": "NBC Store", "url": "#", "type": "Merch" }
-        ] 
     },
     { 
         "id": 42, 
