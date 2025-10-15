@@ -1,0 +1,363 @@
+         [
+    // =================================================================
+    // Categoria: SÉRIES (series)
+    // Subtema: Fantasia Épica
+    // =================================================================
+    { 
+        id: 1, title: "The Witcher", category: "series", subtheme: "Fantasia Épica", 
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuzV8PWciRxU7qG_KnrNM8WawO-Dzz9HzVg&usqp=CAU", 
+        description: "Geralt de Rívia, um mutante caçador de monstros, luta para encontrar seu lugar em um mundo onde as pessoas muitas vezes se mostram mais perversas que as criaturas que ele caça.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/playlist/2Hs1llVpLnMR3QEETRxDVb?utm_source=generator", 
+        rating: "4.5/5.0", year: 2019, platform: "Netflix", 
+        director: "Lauren Schmidt Hissrich", 
+        cast: [{ name: "Henry Cavill", img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsZ4WwvLl4kKl8ETPClry8gmZ4ai8RMrdn_B5Ks5mGj6c9aHzaJQSVi5-g-nd-Oxw3oJJa94JV2nCON2QmMqycqrMnX1dsQDxiiFy7Cbo" }, { name: "Anya Chalotra", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=AC" }],
+        relatedSites: [
+            { name: "The Witcher Wiki", url: "https://witcher.fandom.com/wiki/Witcher_Wiki", type: "Fandom" },
+            { name: "CD Projekt Red", url: "https://www.cdprojektred.com/", type: "Desenvolvedor" },
+            { name: "IGN Análise", url: "https://br.ign.com/the-witcher-3-wild-hunt/87247/review/the-witcher-3-wild-hunt-analise", type: "Análise" }
+        ],
+        trailers: [
+            { title: "Trailer Oficial (S1)", url: "https://www.youtube.com/embed/ndl1W4ltcmg" },
+            { title: "Teaser S2", url: "https://www.youtube.com/embed/2aMVzFlApa0" },
+            { title: "Trailer Final S3", url: "https://www.youtube.com/embed/SzS8Ao0H6Co" }
+        ]},
+    { 
+        id: 13, title: "A Casa do Dragão (S2)", category: "series", subtheme: "Fantasia Épica", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Casa+Dragao", 
+        description: "A história da Casa Targaryen e os eventos que levaram à guerra civil conhecida como a Dança dos Dragões.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/0", rating: "4.8/5.0", year: 2024, platform: "HBO Max", 
+        director: "Ryan Condal", cast: [{ name: "Emma D'Arcy", img: "https://via.placeholder.com/60/a052f5/ffffff?text=ED" }],
+        relatedSites: [{ name: "Game of Thrones Wiki", url: "#", type: "Fandom" }],
+        trailers: [{ title: "Trailer S2", url: "https://www.youtube.com/embed/S_T1-95uW-Q" }]
+    },
+    { 
+        id: 14, title: "O Senhor dos Anéis: Os Anéis de Poder (S2)", category: "series", subtheme: "Fantasia Épica", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Aneis+Poder", 
+        description: "A Segunda Era da Terra Média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/1", rating: "4.2/5.0", year: 2022, platform: "Prime Video", 
+        director: "J.D. Payne & Patrick McKay", cast: [{ name: "Morfydd Clark", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=MC" }],
+        relatedSites: [{ name: "Tolkien Gateway", url: "#", type: "Fandom" }],
+        trailers: [{ title: "Trailer S1", url: "https://www.youtube.com/embed/fGf29wdqiHQ" }]
+    },
+    
+    // Subtema: Terror & Suspense
+    { 
+        id: 5, title: "Stranger Things", category: "series", subtheme: "Terror & Suspense", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Stranger+Things", 
+        description: "Um grupo de crianças enfrenta forças sobrenaturais e conspirações governamentais nos anos 80.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/playlist/37i9dQZF1DXcK4sLwI8jR9?utm_source=generator", rating: "4.7/5.0", year: 2016, platform: "Netflix", 
+        director: "The Duffer Brothers", cast: [{ name: "Millie Bobby Brown", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=MBB" }],
+        relatedSites: [{ name: "Página Oficial Netflix", url: "#", type: "Streaming" }], trailers: [{ title: "Trailer S4", url: "https://www.youtube.com/embed/fN_YjY5R3c0" }]
+    },
+    { 
+        id: 15, title: "True Detective: Terra Noturna", category: "series", subtheme: "Terror & Suspense", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=True+Detective", 
+        description: "Enquanto a longa noite de inverno cai sobre Ennis, Alasca, seis homens desaparecem da estação de pesquisa.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/2", rating: "4.5/5.0", year: 2024, platform: "HBO Max", 
+        director: "Issa López", cast: [{ name: "Jodie Foster", img: "https://via.placeholder.com/60/a052f5/ffffff?text=JF" }],
+        relatedSites: [{ name: "HBO True Detective", url: "#", type: "Oficial" }], trailers: [{ title: "Trailer S4", url: "https://www.youtube.com/embed/fLpXmE15O5I" }]
+    },
+    { 
+        id: 16, title: "Bebê Rena", category: "series", subtheme: "Terror & Suspense", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Bebe+Rena", 
+        description: "Um comediante em dificuldades é gentil com uma mulher vulnerável, o que desencadeia uma obsessão sufocante.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/3", rating: "4.6/5.0", year: 2024, platform: "Netflix", 
+        director: "Weronika Tofilska", cast: [{ name: "Richard Gadd", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=RG" }],
+        relatedSites: [{ name: "The Guardian Crítica", url: "#", type: "Críticas" }], trailers: [{ title: "Trailer Oficial", url: "https://www.youtube.com/embed/k9T9zS_bE_A" }]
+    },
+
+    // =================================================================
+    // Categoria: FILMES (filmes)
+    // Subtema: Ficção Científica
+    // =================================================================
+    { 
+        id: 3, title: "Duna: Parte 2", category: "filmes", subtheme: "Ficção Científica", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Duna+2", 
+        description: "Paul Atreides se une a Chani e aos Fremen em busca de vingança contra os conspiradores que destruíram sua família.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/album/3g5qH78Ehkifm9eJd1vVuz?utm_source=generator", rating: "4.8/5.0", year: 2024, platform: "Cinema, HBO Max", 
+        director: "Denis Villeneuve", cast: [{ name: "Timothée Chalamet", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=TC" }], 
+        relatedSites: [{ name: "IMDb", url: "#", type: "Info" }],
+        trailers: [{ title: "Trailer Oficial", url: "https://www.youtube.com/embed/w00l_k_S5_E" }]
+    },
+    { 
+        id: 17, title: "Planeta dos Macacos: O Reinado", category: "filmes", subtheme: "Ficção Científica", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Planeta+Macacos", 
+        description: "Muitas gerações após o reinado de César, um jovem macaco se questiona sobre o passado e faz escolhas que definirão o futuro.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/4", rating: "4.3/5.0", year: 2024, platform: "Cinema, Disney+", 
+        director: "Wes Ball", cast: [{ name: "Owen Teague", img: "https://via.placeholder.com/60/a052f5/ffffff?text=OT" }],
+        relatedSites: [{ name: "20th Century Fox", url: "#", type: "Estúdio" }],
+        trailers: [{ title: "Trailer Oficial", url: "https://www.youtube.com/embed/fD1D2r9sO1A" }]
+    },
+    { 
+        id: 18, title: "Interestelar", category: "filmes", subtheme: "Ficção Científica", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Interestelar", 
+        description: "Uma equipe de exploradores viaja através de um buraco de minhoca para garantir a sobrevivência da humanidade.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/5", rating: "4.9/5.0", year: 2014, platform: "HBO Max", 
+        director: "Christopher Nolan", cast: [{ name: "Matthew McConaughey", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=MM" }],
+        relatedSites: [{ name: "Crítica AdoroCinema", url: "#", type: "Críticas" }],
+        trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/zSWdZVtXT7E" }]
+    },
+
+    // Subtema: Comédias Irreverentes
+    { 
+        id: 19, title: "Deadpool & Wolverine", category: "filmes", subtheme: "Comédias Irreverentes", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Deadpool+Wolverine", 
+        description: "Deadpool e Wolverine se unem em uma missão multiversal pela TVA.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/6", rating: "4.5/5.0", year: 2024, platform: "Cinema", 
+        director: "Shawn Levy", cast: [{ name: "Ryan Reynolds", img: "https://via.placeholder.com/60/a052f5/ffffff?text=RR" }, { name: "Hugh Jackman", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=HJ" }],
+        relatedSites: [{ name: "Marvel Studios", url: "#", type: "Estúdio" }], trailers: [{ title: "Trailer Oficial", url: "https://www.youtube.com/embed/Q0eBw1YJ0_c" }]
+    },
+    { 
+        id: 20, title: "Vizinhos", category: "filmes", subtheme: "Comédias Irreverentes", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Vizinhos+Filme", 
+        description: "Um casal recém-pais tem que lidar com os barulhentos vizinhos: uma fraternidade de universitários.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/7", rating: "3.9/5.0", year: 2014, platform: "Globoplay", 
+        director: "Nicholas Stoller", cast: [{ name: "Seth Rogen", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=SR" }],
+        relatedSites: [{ name: "Universal Pictures", url: "#", type: "Estúdio" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/gW9-l9p6YgI" }]
+    },
+    { 
+        id: 21, title: "Os Caça-Fantasmas: Apocalipse de Gelo", category: "filmes", subtheme: "Comédias Irreverentes", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Caca+Fantasmas", 
+        description: "A família Spengler se une aos caça-fantasmas originais para salvar o mundo de uma segunda Era do Gelo.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/8", rating: "4.0/5.0", year: 2024, platform: "Cinema", 
+        director: "Gil Kenan", cast: [{ name: "Paul Rudd", img: "https://via.placeholder.com/60/a052f5/ffffff?text=PR" }],
+        relatedSites: [{ name: "Página Oficial", url: "#", type: "Oficial" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/X7xN3g27K2s" }]
+    },
+
+    // =================================================================
+    // Categoria: JOGOS (jogos)
+    // Subtema: RPGs de Ação em Destaque
+    // =================================================================
+    { 
+        id: 2, title: "Cyberpunk 2077", category: "jogos", subtheme: "RPGs de Ação em Destaque", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Cyberpunk+2077", 
+        description: "Um RPG de ação e aventura em mundo aberto ambientado em Night City. Escolha seu caminho e lute.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/playlist/37i9dQZF1DX3n38K9l44yZ?utm_source=generator", rating: "4.0/5.0", year: 2020, platform: "PC, PS5, Xbox Series X/S", 
+        director: "CD Projekt RED", cast: [{ name: "Keanu Reeves", img: "https://via.placeholder.com/60/a052f5/ffffff?text=KR" }], 
+        relatedSites: [{ name: "Site Oficial do Jogo", url: "#", type: "Desenvolvedor" }],
+        trailers: [{ title: "Lançamento", url: "https://www.youtube.com/embed/P99Yj3e6-bE" }]
+    },
+    { 
+        id: 22, title: "Final Fantasy VII Rebirth", category: "jogos", subtheme: "RPGs de Ação em Destaque", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=FF7+Rebirth", 
+        description: "A continuação da reimaginação épica do clássico RPG, com Cloud e seus amigos explorando o vasto mundo.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/9", rating: "4.9/5.0", year: 2024, platform: "PS5", 
+        director: "Naoki Hamaguchi", cast: [{ name: "Cloud Strife", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=CS" }],
+        relatedSites: [{ name: "Square Enix", url: "#", type: "Desenvolvedor" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/5D2rD-s_S1A" }]
+    },
+    { 
+        id: 23, title: "Dragon's Dogma 2", category: "jogos", subtheme: "RPGs de Ação em Destaque", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Dragons+Dogma+2", 
+        description: "Um RPG de ação single-player guiado pela narrativa, que permite ao jogador moldar sua própria experiência.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/0", rating: "4.2/5.0", year: 2024, platform: "PC, PS5, Xbox Series X/S", 
+        director: "Hideaki Itsuno", cast: [{ name: "Arisen", img: "https://via.placeholder.com/60/a052f5/ffffff?text=A" }],
+        relatedSites: [{ name: "Capcom", url: "#", type: "Desenvolvedor" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/o050c55N9s4" }]
+    },
+    
+    // Subtema: Aventura Narrativa
+    { 
+        id: 24, title: "Star Wars Outlaws", category: "jogos", subtheme: "Aventura Narrativa", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Star+Wars+Outlaws", 
+        description: "Jogue como Kay Vess, uma fora da lei em busca de liberdade e de iniciar uma nova vida.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/1", rating: "4.7/5.0", year: 2024, platform: "PC, PS5, Xbox Series X/S", 
+        director: "Julian Gerighty", cast: [{ name: "Kay Vess", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=KV" }],
+        relatedSites: [{ name: "Ubisoft", url: "#", type: "Desenvolvedor" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/Xy3r8_h1T84" }]
+    },
+    { 
+        id: 25, title: "The Legend of Zelda: Tears of the Kingdom", category: "jogos", subtheme: "Aventura Narrativa", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Zelda+ToTK", 
+        description: "Link embarca em uma nova jornada pelos céus e pela terra de Hyrule.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/2", rating: "5.0/5.0", year: 2023, platform: "Switch", 
+        director: "Hidemaro Fujibayashi", cast: [{ name: "Link", img: "https://via.placeholder.com/60/a052f5/ffffff?text=L" }],
+        relatedSites: [{ name: "Nintendo", url: "#", type: "Desenvolvedor" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/PfJ7Jk17O2I" }]
+    },
+    { 
+        id: 26, title: "Life Is Strange: Double Exposure", category: "jogos", subtheme: "Aventura Narrativa", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=LIS+DE", 
+        description: "Max Caulfield retorna com um novo mistério sobrenatural, desta vez envolvendo universos paralelos.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/3", rating: "4.5/5.0", year: 2024, platform: "PC, PS5, Xbox Series X/S", 
+        director: "Deck Nine", cast: [{ name: "Max Caulfield", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=MC" }],
+        relatedSites: [{ name: "Square Enix", url: "#", type: "Desenvolvedor" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/jE4_LwYy4tM" }]
+    },
+
+    // =================================================================
+    // Categoria: MÚSICAS (musicas)
+    // Subtema: Rock Clássico e Grunge
+    // =================================================================
+    { 
+        id: 4, title: "Bohemian Rhapsody", category: "musicas", subtheme: "Rock Clássico e Grunge", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Queen+Bohemian", 
+        description: "Uma das canções mais icônicas da banda britânica Queen, lançada no álbum A Night at the Opera.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/track/7tFiyTwDdpGmxVlEHDQ02L?utm_source=generator", 
+        rating: "5.0/5.0", year: 1975, platform: "A Night at the Opera", director: "Bruce Gowers (Clipe)", cast: [{ name: "Freddie Mercury", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=FM" }], 
+        relatedSites: [{ name: "Site Oficial Queen", url: "#", type: "Música" }], trailers: [{ title: "Vídeo Oficial", url: "https://www.youtube.com/embed/fJ9rUzIMcZQ" }]
+    },
+    { 
+        id: 27, title: "Smells Like Teen Spirit", category: "musicas", subtheme: "Rock Clássico e Grunge", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Nirvana+Spirit", 
+        description: "O hino do movimento grunge, lançado pela banda Nirvana em 1991.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/track/5ghIEMlqJ7QW1j04S9hS7L?utm_source=generator", 
+        rating: "4.9/5.0", year: 1991, platform: "Nevermind", director: "Samuel Bayer", cast: [{ name: "Kurt Cobain", img: "https://via.placeholder.com/60/a052f5/ffffff?text=KC" }],
+        relatedSites: [{ name: "Nirvana Oficial", url: "#", type: "Música" }], trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/hTWKbfoikeg" }]
+    },
+    { 
+        id: 28, title: "Sweet Child o' Mine", category: "musicas", subtheme: "Rock Clássico e Grunge", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Guns+Sweet+Child", 
+        description: "Um dos maiores sucessos do Guns N' Roses, conhecido pelo icônico riff de Slash.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/track/7snQQkoxF9GfF5b0iA7K6x?utm_source=generator", 
+        rating: "4.8/5.0", year: 1987, platform: "Appetite for Destruction", director: "Nigel Dick", cast: [{ name: "Axl Rose", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=AR" }],
+        relatedSites: [{ name: "Guns N' Roses Site", url: "#", type: "Música" }], trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/1w7OgIMMRc4" }]
+    },
+    
+    // Subtema: Pop Internacional
+    { 
+        id: 29, title: "Die With A Smile", category: "musicas", subtheme: "Pop Internacional", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Lady+Gaga+Bruno", 
+        description: "Parceria de Lady Gaga e Bruno Mars que dominou as paradas pop em 2024.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/track/7eQv8yA1q4YvUuK50jY2gG?utm_source=generator", 
+        rating: "4.7/5.0", year: 2024, platform: "Single", director: "Vários", cast: [{ name: "Lady Gaga", img: "https://via.placeholder.com/60/a052f5/ffffff?text=LG" }, { name: "Bruno Mars", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=BM" }],
+        relatedSites: [{ name: "Billboard Hot 100", url: "#", type: "Ranking" }], trailers: [{ title: "Áudio Oficial", url: "https://www.youtube.com/embed/0pQjL3-j0vU" }]
+    },
+    { 
+        id: 30, title: "Beautiful Things", category: "musicas", subtheme: "Pop Internacional", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Beautiful+Things", 
+        description: "O sucesso viral de Benson Boone, uma balada pop emotiva e poderosa.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/track/1P6Kz7Mdj1XjL1mQJtD4iL?utm_source=generator", 
+        rating: "4.5/5.0", year: 2024, platform: "Single", director: "Sophia Lazzati", cast: [{ name: "Benson Boone", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=BB" }],
+        relatedSites: [{ name: "Clipe Oficial", url: "#", type: "YouTube" }], trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/D3cR6I-zPqI" }]
+    },
+    { 
+        id: 31, title: "Guts", category: "musicas", subtheme: "Pop Internacional", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Olivia+Guts", 
+        description: "Segundo álbum de estúdio de Olivia Rodrigo, com influências pop-punk e letras introspectivas.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/album/15tT99yv8u11dIqM6Fj10g?utm_source=generator", 
+        rating: "4.8/5.0", year: 2023, platform: "Álbum", director: "Vários", cast: [{ name: "Olivia Rodrigo", img: "https://via.placeholder.com/60/a052f5/ffffff?text=OR" }],
+        relatedSites: [{ name: "Página Oficial", url: "#", type: "Oficial" }], trailers: [{ title: "Vampire (Clipe)", url: "https://www.youtube.com/embed/RlpnjI39G_o" }]
+    },
+
+    // =================================================================
+    // Categoria: ANIME (anime)
+    // Subtema: Animes Shonen Populares
+    // =================================================================
+    { 
+        id: 11, title: "Attack on Titan", category: "anime", subtheme: "Animes Shonen Populares", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=AoT", 
+        description: "A humanidade luta pela sobrevivência contra gigantes humanoides devoradores de homens.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/album/19U2N5YmN5wJ8Q8K23Z0hI?utm_source=generator", rating: "4.9/5.0", year: 2013, platform: "Crunchyroll", 
+        director: "Tetsurō Araki", cast: [{ name: "Eren Yeager", img: "https://via.placeholder.com/60/a052f5/ffffff?text=EY" }],
+        relatedSites: [{ name: "Site Oficial Anime", url: "#", type: "Oficial" }], trailers: [{ title: "Trailer Final", url: "https://www.youtube.com/embed/NFv8MlJ8j9k" }]
+    },
+    { 
+        id: 32, title: "Solo Leveling", category: "anime", subtheme: "Animes Shonen Populares", 
+        image: "https://www.lesaventuresludiques.com/wp-content/uploads/2025/06/solo-leveling-season-3.jpg", 
+        description: "Sung Jin-Woo, o caçador mais fraco, ganha um misterioso sistema que lhe permite subir de nível indefinidamente.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/album/1RiSRSE9wGtGUxPaH9LZ5X?utm_source=generator", rating: "4.8/5.0", year: 2024, platform: "Crunchyroll", 
+        director: "Shunsuke Nakashige", cast: [{ name: "Sung Jin-Woo", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=SJW" }],
+        relatedSites: [{ name: "Crunchyroll", url: "https://www.crunchyroll.com/pt-br/watch/G14U415QM/im-used-to-it", type: "Streaming" }], trailers: [{ title: "Trailer Oficial", url: "https://www.youtube.com/embed/MWrsQmBIkhM" }]
+    },
+    { 
+        id: 33, title: "Kaiju No. 8", category: "anime", subtheme: "Animes Shonen Populares", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Kaiju+8", 
+        description: "Kafka Hibino ganha a habilidade de se transformar em um monstro (Kaiju) e sonha em se juntar às Forças de Defesa.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/5", rating: "4.6/5.0", year: 2024, platform: "Crunchyroll", 
+        director: "Shigeyuki Miya", cast: [{ name: "Kafka Hibino", img: "https://via.placeholder.com/60/a052f5/ffffff?text=KH" }],
+        relatedSites: [{ name: "Anime News Network", url: "#", type: "Notícias" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/l5_p8v-zK6I" }]
+    },
+
+    // Subtema: Animes de Fantasia e Magia
+    { 
+        id: 34, title: "Frieren e a Jornada Para o Além", category: "anime", subtheme: "Animes de Fantasia e Magia", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Frieren", 
+        description: "Uma elfa maga se dedica a entender o conceito de vida e morte após a derrota do Rei Demônio.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/6", rating: "5.0/5.0", year: 2023, platform: "Crunchyroll", 
+        director: "Keiichirō Saitō", cast: [{ name: "Frieren", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=F" }],
+        relatedSites: [{ name: "MyAnimeList", url: "#", type: "Comunidade" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/d2Wq-uKqLgo" }]
+    },
+    { 
+        id: 35, title: "Delicious in Dungeon", category: "anime", subtheme: "Animes de Fantasia e Magia", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Delicious+Dungeon", 
+        description: "Um grupo de aventureiros decide cozinhar e comer os monstros para sobreviver em uma masmorra.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/7", rating: "4.7/5.0", year: 2024, platform: "Netflix", 
+        director: "Yoshihiro Miyajima", cast: [{ name: "Laios", img: "https://via.placeholder.com/60/a052f5/ffffff?text=L" }],
+        relatedSites: [{ name: "Netflix Oficial", url: "#", type: "Streaming" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/0m9H3u_J94k" }]
+    },
+    { 
+        id: 36, title: "Mushoku Tensei: Jobless Reincarnation (S2)", category: "anime", subtheme: "Animes de Fantasia e Magia", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Mushoku+Tensei", 
+        description: "Um homem desempregado e sem esperança reencarna em um mundo de fantasia como um bebê com talentos mágicos.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/8", rating: "4.9/5.0", year: 2023, platform: "Crunchyroll", 
+        director: "Manabu Okamoto", cast: [{ name: "Rudy Greyrat", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=RG" }],
+        relatedSites: [{ name: "P. Oficial Mushoku", url: "#", type: "Oficial" }], trailers: [{ title: "Trailer S2", url: "https://www.youtube.com/embed/l3h6T2Q6yD0" }]
+    },
+
+    // =================================================================
+    // Categoria: CARTOON (cartoon)
+    // Subtema: Animação para Adultos
+    // =================================================================
+    { 
+        id: 12, title: "Rick and Morty (S7)", category: "cartoon", subtheme: "Animação para Adultos", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=R&M+S7", 
+        description: "As aventuras de um cientista genial e sociopata e seu neto mais influenciável, viajando pelo multiverso.", 
+        spotifyEmbedUrl: "https://open.spotify.com/embed/album/37i9dQZF1DXcK4sLwI8jR9?utm_source=generator", rating: "4.7/5.0", year: 2023, platform: "Adult Swim, HBO Max", 
+        director: "Justin Roiland, Dan Harmon", cast: [{ name: "Rick Sanchez", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=RS" }],
+        relatedSites: [{ name: "Adult Swim", url: "#", type: "Streaming" }], trailers: [{ title: "Trailer S7", url: "https://www.youtube.com/embed/RIL-uK7v32s" }]
+    },
+    { 
+        id: 37, title: "Arcane (S2)", category: "cartoon", subtheme: "Animação para Adultos", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Arcane+S2", 
+        description: "A história de origem das campeãs Vi e Jinx do universo de League of Legends, em um cenário steampunk.", 
+        spotifyEmbedUrl: "https://developer.spotify.com/technologies/web-api/lookup/9", rating: "4.9/5.0", year: 2024, platform: "Netflix", 
+        director: "Pascal Charrue, Arnaud Delord", cast: [{ name: "Vi", img: "https://via.placeholder.com/60/a052f5/ffffff?text=V" }, { name: "Jinx", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=J" }],
+        relatedSites: [{ name: "League of Legends", url: "#", type: "Jogo" }], trailers: [{ title: "Trailer Teaser S2", url: "https://www.youtube.com/embed/fm-Qp6oWp0A" }]
+    },
+    { 
+        id: 38, title: "Hazbin Hotel", category: "cartoon", subtheme: "Animação para Adultos", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Hazbin+Hotel", 
+        description: "A Princesa do Inferno tenta abrir um hotel de reabilitação para demônios, a fim de reduzir a superpopulação de seu reino.", 
+        spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/0", rating: "4.5/5.0", year: 2024, platform: "Prime Video", 
+        director: "Vivienne Medrano", cast: [{ name: "Charlie Morningstar", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=CM" }],
+        relatedSites: [{ name: "Prime Video", url: "#", type: "Streaming" }], trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/nF_I2Q0qJ6E" }]
+    },
+
+    // Subtema: Desenhos Clássicos da Manhã
+    { 
+        id: 39, title: "X-Men '97", category: "cartoon", subtheme: "Desenhos Clássicos da Manhã", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=X-Men+97", 
+        description: "Continuação direta da série animada clássica, com os X-Men enfrentando novos desafios após a perda de seu líder.", 
+        spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/1", rating: "4.8/5.0", year: 2024, platform: "Disney+", 
+        director: "Beau DeMayo", cast: [{ name: "Ciclope", img: "https://via.placeholder.com/60/a052f5/ffffff?text=C" }],
+        relatedSites: [{ name: "Marvel", url: "#", type: "Estúdio" }], trailers: [{ title: "Trailer Oficial", url: "https://www.youtube.com/embed/fT-n6r1uX7M" }]
+    },
+    { 
+        id: 40, title: "Avatar: O Último Mestre do Ar", category: "cartoon", subtheme: "Desenhos Clássicos da Manhã", 
+        image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Avatar+Aang", 
+        description: "O jovem Aang, o Avatar, deve dominar os quatro elementos para salvar o mundo da Nação do Fogo.", 
+        spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/2", rating: "4.9/5.0", year: 2005, platform: "Netflix", 
+        director: "Michael Dante DiMartino, Bryan Konietzko", cast: [{ name: "Aang", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=A" }],
+        relatedSites: [{ name: "Nick. Oficial", url: "#", type: "Oficial" }], trailers: [{ title: "Trailer Livro 1", url: "https://www.youtube.com/embed/hJzC_8-G2nI" }]
+    },
+    { 
+        id: 41, title: "Hora de Aventura: Fionna e Cake", category: "cartoon", subtheme: "Desenhos Clássicos da Manhã", 
+        image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Fionna+Cake", 
+        description: "As versões de gênero trocado de Finn e Jake embarcam em uma jornada pelo multiverso.", 
+        spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/3", rating: "4.5/5.0", year: 2023, platform: "HBO Max", 
+        director: "Adam Muto", cast: [{ name: "Fionna", img: "https://via.placeholder.com/60/a052f5/ffffff?text=F" }, { name: "Cake", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=C" }],
+        relatedSites: [{ name: "Cartoon Network", url: "#", type: "Estúdio" }], trailers: [{ title: "Trailer Oficial", url: "https://www.youtube.com/embed/0_J-m470rM4" }]
+    },
+    
+    // --- Itens extras para preencher as outras categorias na Home ---
+    { id: 8, title: "Breaking Bad", category: "series", subtheme: "Dramas Policiais Premiados", image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Breaking+Bad", description: "Um professor de química do ensino médio diagnosticado com câncer passa a fabricar e vender metanfetamina.", trailers: [{ title: "Trailer Clássico", url: "https://www.youtube.com/embed/HhF_1-6O1bA" }], spotifyEmbedUrl: "https://open.spotify.com/embed/album/0C8o4R6Q7zU8cR70g2f9kG?utm_source=generator", rating: "5.0/5.0", year: 2008, platform: "AMC, Netflix", director: "Vince Gilligan", cast: [{ name: "Bryan Cranston", img: "https://via.placeholder.com/60/a052f5/ffffff?text=BC" }, { name: "Aaron Paul", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=AP" }], relatedSites: [{ name: "AMC TV", url: "#", type: "Estúdio" }] },
+    { id: 10, title: "The Office (série de televisão americana)", category: "series", subtheme: "Comédias Sitcom Clássicas", image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=The+Office", description: "Um olhar satírico sobre a vida de escritório através das lentes de um documentário.", trailers: [{ title: "Teaser", url: "https://www.youtube.com/embed/a9n9gW7FmXU" }], spotifyEmbedUrl: "https://open.spotify.com/embed/track/2yI1D9mR85s7k21kG3qK2o?utm_source=generator", rating: "4.9/5.0", year: 2005, platform: "NBC", director: "Vários", cast: [{ name: "Steve Carell", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=SC" }], relatedSites: [{ name: "NBC Store", url: "#", type: "Merch" }] },
+    { id: 42, title: "Fallout (S1)", category: "series", subtheme: "Ficção Científica Distópica", image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Fallout+TV", description: "Duzentos anos após o apocalipse, uma moradora de um cofre é forçada a voltar para a superfície.", trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/ASy-hTqY22U" }], spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/4", rating: "4.8/5.0", year: 2024, platform: "Prime Video", director: "Jonathan Nolan", cast: [{ name: "Ella Purnell", img: "https://via.placeholder.com/60/a052f5/ffffff?text=EP" }], relatedSites: [{ name: "Bethesda Game", url: "#", type: "Jogo" }] },
+    { id: 43, title: "O Problema dos 3 Corpos", category: "series", subtheme: "Ficção Científica Distópica", image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=3+Corpos", description: "As leis da natureza se desfazem, forçando cientistas a enfrentar a maior ameaça da humanidade.", trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/jB3nU928GjQ" }], spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/5", rating: "4.3/5.0", year: 2024, platform: "Netflix", director: "David Benioff, D.B. Weiss", cast: [{ name: "Jess Hong", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=JH" }], relatedSites: [{ name: "Livro Original", url: "#", type: "Literatura" }] },
+    { id: 44, title: "Arcanjo Renegado (S4)", category: "series", subtheme: "Dramas Policiais Premiados", image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Arcanjo", description: "Um ex-sargento do BOPE se torna matador de aluguel para fazer justiça com as próprias mãos.", trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/fW7E0Z7I7pE" }], spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/6", rating: "4.4/5.0", year: 2024, platform: "Globoplay", director: "Heitor Dhalia", cast: [{ name: "Marcello Melo Jr.", img: "https://via.placeholder.com/60/a052f5/ffffff?text=MMJ" }], relatedSites: [{ name: "Globoplay", url: "#", type: "Streaming" }] },
+    { id: 45, title: "Meu Malvado Favorito 4", category: "filmes", subtheme: "Aventura e Família", image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Malvado+4", description: "Gru, agora com um novo filho, se junta aos Minions para enfrentar um novo vilão e sua namorada.", trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/F4SgWk8f47o" }], spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/7", rating: "4.1/5.0", year: 2024, platform: "Cinema", director: "Chris Renaud", cast: [{ name: "Steve Carell", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=SC" }], relatedSites: [{ name: "Illumination", url: "#", type: "Estúdio" }] },
+    { id: 46, title: "Divertida Mente 2", category: "filmes", subtheme: "Aventura e Família", image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Divertida+Mente+2", description: "Riley chega à adolescência, e a sede da mente é demolida para dar espaço a novas Emoções, como Ansiedade e Tédio.", trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/z4p0E_u_y5U" }], spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/8", rating: "4.7/5.0", year: 2024, platform: "Cinema, Disney+", director: "Kelsey Mann", cast: [{ name: "Amy Poehler", img: "https://via.placeholder.com/60/a052f5/ffffff?text=AP" }], relatedSites: [{ name: "Pixar", url: "#", type: "Estúdio" }] },
+    { id: 47, title: "O Auto da Compadecida 2", category: "filmes", subtheme: "Comédias Irreverentes", image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Auto+2", description: "O retorno da dupla Chicó e João Grilo, 25 anos depois, em uma nova aventura épica e hilária no sertão.", trailers: [{ title: "Trailer Teaser", url: "https://www.youtube.com/embed/1J6xY5bQ7E8" }], spotifyEmbedUrl: "https://support.spotify.com/br-pt/artists/article/embedded-players/9", rating: "4.5/5.0", year: 2024, platform: "Cinema", director: "Guel Arraes, Flávia Lacerda", cast: [{ name: "Selton Mello", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=SM" }, { name: "Matheus Nachtergaele", img: "https://via.placeholder.com/60/a052f5/ffffff?text=MN" }], relatedSites: [{ name: "Guel Arraes", url: "#", type: "Diretor" }] },
+    { id: 48, title: "Helldivers 2", category: "jogos", subtheme: "E-Sports e FPS Competitivos", image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Helldivers+2", description: "Um shooter cooperativo em terceira pessoa, onde você se junta a esquadrões de elite para espalhar a democracia controlada.", trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/Q5K3j-6X34w" }], spotifyEmbedUrl: "https://developer.spotify.com/documentation/embeds/references/iframe-api0", rating: "4.6/5.0", year: 2024, platform: "PC, PS5", director: "Arrowhead Game Studios", cast: [{ name: "Super Cidadão", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=SC" }], relatedSites: [{ name: "PlayStation Store", url: "#", type: "Loja" }] },
+    { id: 49, title: "Palworld", category: "jogos", subtheme: "E-Sports e FPS Competitivos", image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Palworld", description: "Um jogo de sobrevivência de mundo aberto onde você coleta criaturas misteriosas (Pals) e as usa em combate e produção.", trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/8U605G_NfEw" }], spotifyEmbedUrl: "https://developer.spotify.com/documentation/embeds/references/iframe-api1", rating: "4.2/5.0", year: 2024, platform: "PC, Xbox Series X/S", director: "Pocketpair", cast: [{ name: "Jogador", img: "https://via.placeholder.com/60/a052f5/ffffff?text=J" }], relatedSites: [{ name: "Steam", url: "#", type: "Loja" }] },
+    { id: 50, title: "Counter Strike 2", category: "jogos", subtheme: "E-Sports e FPS Competitivos", image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=CS2", description: "A mais nova iteração do popular jogo de tiro em primeira pessoa tático.", trailers: [{ title: "Trailer", url: "https://www.youtube.com/embed/5F_S1LpE2p8" }], spotifyEmbedUrl: "https://developer.spotify.com/documentation/embeds/references/iframe-api2", rating: "4.4/5.0", year: 2023, platform: "PC", director: "Valve", cast: [{ name: "Agente", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=A" }], relatedSites: [{ name: "Steam", url: "#", type: "Loja" }] },
+    { id: 51, title: "Gosta de Rua (Ao Vivo)", category: "musicas", subtheme: "Sertanejo Universitário", image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Felipe+Rodrigo", description: "Um dos maiores hits sertanejos de 2024, na voz da dupla Felipe & Rodrigo.", trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/cM3j6eB2h5I" }], spotifyEmbedUrl: "https://open.spotify.com/embed/track/303S3oWn86u9Uv6MhW4N5c?utm_source=generator", rating: "4.3/5.0", year: 2024, platform: "Ao Vivo", director: "Vários", cast: [{ name: "Felipe & Rodrigo", img: "https://via.placeholder.com/60/a052f5/ffffff?text=F&R" }], relatedSites: [{ name: "Sertanejo.com", url: "#", type: "Notícias" }] },
+    { id: 52, title: "Erro Gostoso (Ao Vivo)", category: "musicas", subtheme: "Sertanejo Universitário", image: "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Simone+Mendes", description: "O sucesso solo de Simone Mendes após o fim da dupla com sua irmã.", trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/t9Z_h2t_d0M" }], spotifyEmbedUrl: "https://open.spotify.com/embed/track/25S197e3sH7B1tT846fM7a?utm_source=generator", rating: "4.5/5.0", year: 2023, platform: "Cintilante", director: "Vários", cast: [{ name: "Simone Mendes", img: "https://via.placeholder.com/60/8a2be2/ffffff?text=SM" }], relatedSites: [{ name: "FM Hits", url: "#", type: "Rádio" }] },
+    { id: 53, title: "Barulhotegory: "musil image: "https://via.placeholder.com/200x300/a052f5/ffffff?text=Ze+Neto+Cristiano", description: "Música animada da dupla Zé Neto & Cristiano que se tornou um fenômeno em rodeios.", trailers: [{ title: "Clipe Oficial", url: "https://www.youtube.com/embed/J72wMh5kP6Y" }], spotifyEmbedUrl: "https://open.spotify.com/embed/track/6pYd8D1Tj10Y6y3mO1l08p?utm_source=generator", rating: "4.4/5.0", year: 2024, platform: "Ao Vivo", director: "Vários", cast: [{ name: "Zé Neto & Cristiano", img: "https://via.placeholder.com/60/a052f5/ffffff?text=Z&C" }], relatedSites: [{ name: "Agenda de Shows", url: "#", type: "Eventos" }] },
+];
