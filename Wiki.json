@@ -55,21 +55,23 @@
         "title": "Duna: Parte 2", 
         "category": "filmes", 
         "subtheme": "Ficção Científica", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Duna+2", 
+        "image": "https://m.media-amazon.com/images/M/MV5BNzk5MTE4YTUtNGU2My00MTYxLWE5NGItODk4YWFkOWYyMjA5XkEyXkFqcGc@._V1_.jpg", 
         "description": "Paul Atreides se une a Chani e aos Fremen em busca de vingança contra os conspiradores que destruíram sua família.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3g5qH78Ehkifm9eJd1vVuz?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/1PeYjDmxcRNvxLd5mGHuCC?utm_source=generator", 
         "rating": "4.8/5.0", 
         "year": 2024, 
         "platform": "Cinema, HBO Max", 
         "director": "Denis Villeneuve", 
         "cast": [
-            { "name": "Timothée Chalamet", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=TC" }
+            { "name": "Timothée Chalamet", "img": "https://i.scdn.co/image/ab6761610000e5eb321b596ce48c2b5acc49f5d4" }
         ], 
         "relatedSites": [
-            { "name": "IMDb", "url": "#", "type": "Info" }
+            { "name": "IMDb", "url": "https://m.imdb.com/pt/title/tt15239678/", "type": "Info" }
         ],
         "trailers": [
-            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/w00l_k_S5_E" }
+            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/ncwsW3qxQlo" },
+            { "title": "Lançamento", "url": "https://www.youtube.com/embed/RK1xTZi9wb4" },
+            { "title": "Lançamento", "url": "https://www.youtube.com/embed/nMAjAiyIAvw" }
         ]
     },
     { 
