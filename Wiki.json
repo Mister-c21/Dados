@@ -127,22 +127,22 @@
         "title": "Breaking Bad", 
         "category": "series", 
         "subtheme": "Dramas Policiais Premiados", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Breaking+Bad", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48DbZSXkajp98TFO6Tn_yGy1DAoqpHu1OgInOqzOA0A&s=10", 
         "description": "Um professor de química do ensino médio diagnosticado com câncer passa a fabricar e vender metanfetamina.", 
         "trailers": [
-            { "title": "Trailer Clássico", "url": "https://www.youtube.com/embed/HhF_1-6O1bA" }
+            { "title": "Trailer Clássico", "url": "https://www.youtube.com/embed/_-Nv0JOcGxg" }
         ], 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/0C8o4R6Q7zU8cR70g2f9kG?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/3rgv4QLUyFar8btPKG7jQu?utm_source=generator", 
         "rating": "5.0/5.0", 
         "year": 2008, 
         "platform": "AMC, Netflix", 
         "director": "Vince Gilligan", 
         "cast": [
-            { "name": "Bryan Cranston", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=BC" }, 
-            { "name": "Aaron Paul", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=AP" }
+            { "name": "Bryan Cranston", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk7N8zBQRrb3Ytw4GEBauOb4qRdfHG6xc6UZS0Cz8ibYq3-Y78g8TRYnQ&s=10" }, 
+            { "name": "Aaron Paul", "img": "https://m.media-amazon.com/images/M/MV5BMTY1OTY5NjI5NV5BMl5BanBnXkFtZTcwODA4MjM0OA@@._V1_.jpg" }
         ], 
         "relatedSites": [
-            { "name": "AMC TV", "url": "#", "type": "Estúdio" }
+            { "name": "AMC TV", "url": "https://www.amctv.com.br/", "type": "Estúdio" }
         ] 
     },
     { 
@@ -150,21 +150,21 @@
         "title": "The Office (série de televisão americana)", 
         "category": "series", 
         "subtheme": "Comédias Sitcom Clássicas", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=The+Office", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWvb6Q6rqdvep0Q7bkZRoCDaP-7gtstF2AH_OutDdaB2LMq8FzAjweCJK&s=10", 
         "description": "Um olhar satírico sobre a vida de escritório através das lentes de um documentário.", 
         "trailers": [
-            { "title": "Teaser", "url": "https://www.youtube.com/embed/a9n9gW7FmXU" }
+            { "title": "Teaser", "url": "https://www.youtube.com/embed/ZyqXtLL5Q6I" }
         ], 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/2yI1D9mR85s7k21kG3qK2o?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/6y3o2FhLWYxIp6NlJLm4nQ?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 2005, 
         "platform": "NBC", 
         "director": "Vários", 
         "cast": [
-            { "name": "Steve Carell", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=SC" }
+            { "name": "Steve Carell", "img": "https://m.media-amazon.com/images/M/MV5BMjMyOTM2OTk1Ml5BMl5BanBnXkFtZTgwMTI3MzkyNjM@._V1_.jpg" }
         ], 
         "relatedSites": [
-            { "name": "NBC Store", "url": "#", "type": "Merch" }
+            { "name": "NBC Store", "url": "https://www.nbcstore.com/?srsltid=AfmBOoqmTU-s_M0Kb040JfKS_IkMWdvoOgXob9TClThldX0RZNr4MDRK", "type": "Merch" }
         ] 
     },
     { 
