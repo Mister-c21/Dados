@@ -45,7 +45,9 @@
             { "name": "Site Oficial do Jogo", "url": "https://www.cyberpunk.net/us/pt-br/", "type": "Desenvolvedor" }
         ],
         "trailers": [
-            { "title": "Lançamento", "url": "https://www.youtube.com/embed/liuFhVXAlZw" }
+            { "title": "Lançamento", "url": "https://www.youtube.com/embed/liuFhVXAlZw" },
+            { "title": "Lançamento 2", "url": "https://www.youtube.com/embed/qIcTM8WXFjk" },
+            { "title": "Lançamento 3", "url": "https://www.youtube.com/embed/8X2kIfS6fb8" }
         ]
     },
     { 
