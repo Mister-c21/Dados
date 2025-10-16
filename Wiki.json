@@ -79,19 +79,19 @@
         "title": "Bohemian Rhapsody", 
         "category": "musicas", 
         "subtheme": "Rock Clássico e Grunge", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Queen+Bohemian", 
+        "image": "https://rollingstone.com.br/wp-content/uploads/2025/09/Bohemian_Rhapsody_50_01.webp", 
         "description": "Uma das canções mais icônicas da banda britânica Queen, lançada no álbum A Night at the Opera.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7tFiyTwDdpGmxVlEHDQ02L?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed//track/3z8h0TU7ReDPLIbEnYhWZb?utm_source=generator", 
         "rating": "5.0/5.0", 
         "year": 1975, 
         "platform": "A Night at the Opera", 
         "director": "Bruce Gowers (Clipe)", 
         "cast": [
-            { "name": "Freddie Mercury", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=FM" }
+            { "name": "Freddie Mercury", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6l3xSFzlFTLhQOVgxh_qVaFOv8TSfo0nGoXhdG5PEWFpdEnsl_D0hYQhC&s=10" }
         ], 
         "relatedSites": [
-            { "name": "Site Oficial Queen", "url": "#", "type": "Música" }
-        ], 
+            { "name": "Site Oficial Queen", "url": "https://www.queenonline.com/", "type": "Música" }
+        ],
         "trailers": [
             { "title": "Vídeo Oficial", "url": "https://www.youtube.com/embed/fJ9rUzIMcZQ" }
         ]
