@@ -964,26 +964,5 @@
             { "name": "PlayStation Store", "url": "#", "type": "Loja" }
         ] 
     },
-    { 
-        "id": 49, 
-        "title": "Palworld", 
-        "category": "jogos", 
-        "subtheme": "E-Sports e FPS Competitivos", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Palworld", 
-        "description": "Um jogo de sobrevivência de mundo aberto onde você coleta criaturas misteriosas (Pals) e as usa em combate e produção.", 
-        "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/8U605G_NfEw" }
-        ], 
-        "spotifyEmbedUrl": "https://developer.spotify.com/documentation/embeds/references/iframe-api1", 
-        "rating": "4.2/5.0", 
-        "year": 2024, 
-        "platform": "PC, Xbox Series X/S", 
-        "director": "Pocketpair", 
-        "cast": [
-            { "name": "Jogador", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=J" }
-        ], 
-        "relatedSites": [
-            { "name": "Steam", "url": "#", "type": "Loja" }
-        ] 
-    },
+    
 ]
