@@ -172,22 +172,21 @@
         "title": "Attack on Titan", 
         "category": "anime", 
         "subtheme": "Animes Shonen Populares", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=AoT", 
+        "image": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest/scale-to-width-down/1200?cb=20211005182832", 
         "description": "A humanidade luta pela sobrevivência contra gigantes humanoides devoradores de homens.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/19U2N5YmN5wJ8Q8K23Z0hI?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/5MbuJ0WoYnY9YAYgXPBSRX?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 2013, 
         "platform": "Crunchyroll", 
         "director": "Tetsurō Araki", 
         "cast": [
-            { "name": "Eren Yeager", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=EY" }
+            { "name": "Eren Yeager", "img": "https://m.media-amazon.com/images/I/61RpGqzG2NL._AC_UF894,1000_QL80_.jpg" }
         ],
         "relatedSites": [
-            { "name": "Site Oficial Anime", "url": "#", "type": "Oficial" }
+            { "name": "Site Oficial Anime", "url": "https://aot-portal.com/en/", "type": "Oficial" }
         ], 
         "trailers": [
-            { "title": "Trailer Final", "url": "https://www.youtube.com/embed/NFv8MlJ8j9k" }
-        ]
+            { "title": "Trailer s1", "url": "https://www.youtube.com/embed/LV-nazLVmgo" }
     },
     { 
         "id": 12, 
