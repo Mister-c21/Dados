@@ -260,21 +260,21 @@
         "title": "Bebê Rena", 
         "category": "series", 
         "subtheme": "Terror & Suspense", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Bebe+Rena", 
+        "image": "https://media.fstatic.com/JcqY0xhPjrQ9d2IWmLYrlm0LOfU=/322x478/smart/filters:format(webp)/media/movies/covers/2024/04/babyreindeer.jpg", 
         "description": "Um comediante em dificuldades é gentil com uma mulher vulnerável, o que desencadeia uma obsessão sufocante.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/3", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/4cHX3y9gwT7QTYGgoxL6Zv?utm_source=generator", 
         "rating": "4.6/5.0", 
         "year": 2024, 
         "platform": "Netflix", 
         "director": "Weronika Tofilska", 
         "cast": [
-            { "name": "Richard Gadd", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=RG" }
+            { "name": "Richard Gadd", "img": "https://m.media-amazon.com/images/M/MV5BNmJmMTJlNGUtOGNkOS00Mzc3LTk0YmEtMGU2YTY3ZTViMzdlXkEyXkFqcGc@._V1_.jpg" }
         ],
         "relatedSites": [
-            { "name": "The Guardian Crítica", "url": "#", "type": "Críticas" }
+            { "name": "The Guardian Crítica", "url": "https://www.theguardian.com/tv-and-radio/2024/apr/11/netflix-baby-reindeer-review-features-the-most-chilling-tv-episode-of-the-entire-year", "type": "Críticas" }
         ], 
         "trailers": [
-            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/k9T9zS_bE_A" }
+            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/RXxkJiLqCLE" }
         ]
     },
     { 
