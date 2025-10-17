@@ -194,21 +194,21 @@
         "title": "A Casa do Dragão (S2)", 
         "category": "series", 
         "subtheme": "Fantasia Épica", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Casa+Dragao", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0-pknQHHraSEfjs17wcdp02Qn88PDq4RAHGJWEWx3jILD59vH6hgsKM&s=10", 
         "description": "A história da Casa Targaryen e os eventos que levaram à guerra civil conhecida como a Dança dos Dragões.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/0", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/5gD5rf2UnvG1TYUHVv4vjv?utm_source=generator", 
         "rating": "4.8/5.0", 
         "year": 2024, 
         "platform": "HBO Max", 
         "director": "Ryan Condal", 
         "cast": [
-            { "name": "Emma D'Arcy", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=ED" }
+            { "name": "Emma D'Arcy", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3akkgsUqDmUSaLOvDpxlNDYbRvM8UO_Ovr_HeKTTu_6x6S8DrigvygM8&s=10" }
         ],
         "relatedSites": [
-            { "name": "Game of Thrones Wiki", "url": "#", "type": "Fandom" }
+            { "name": "Game of Thrones Wiki", "url": "https://gameofthrones.fandom.com/wiki/Wiki_of_Westeros", "type": "Fandom" }
         ],
         "trailers": [
-            { "title": "Trailer S2", "url": "https://www.youtube.com/embed/S_T1-95uW-Q" }
+            { "title": "Trailer S2", "url": "https://www.youtube.com/embed/97YXokOdZgU" }
         ]
     },
     { 
@@ -216,21 +216,21 @@
         "title": "O Senhor dos Anéis: Os Anéis de Poder (S2)", 
         "category": "series", 
         "subtheme": "Fantasia Épica", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Aneis+Poder", 
+        "image": "https://files.tecnoblog.net/wp-content/uploads/2022/01/senhor-dos-aneis-ordem-e1612211670420.jpg", 
         "description": "A Segunda Era da Terra Média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/1", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/6DMB4jdaruQ5YidGKun3cQ?utm_source=generator", 
         "rating": "4.2/5.0", 
         "year": 2022, 
         "platform": "Prime Video", 
         "director": "J.D. Payne & Patrick McKay", 
         "cast": [
-            { "name": "Morfydd Clark", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=MC" }
+            { "name": "Morfydd Clark", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKrPXi8va4LyLhYcwwE37zFa3DSZ74b9Xvc8oxp92xxoHuFUPiIEVPgY_3&s=10" }
         ],
         "relatedSites": [
-            { "name": "Tolkien Gateway", "url": "#", "type": "Fandom" }
+            { "name": "Tolkien Gateway", "url": "https://tolkiengateway.net/wiki/Main_Page", "type": "Fandom" }
         ],
         "trailers": [
-            { "title": "Trailer S1", "url": "https://www.youtube.com/embed/fGf29wdqiHQ" }
+            { "title": "Trailer S1", "url": "https://www.youtube.com/embed/0i86oM1nHjM" }
         ]
     },
     { 
@@ -238,21 +238,21 @@
         "title": "True Detective: Terra Noturna", 
         "category": "series", 
         "subtheme": "Terror & Suspense", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=True+Detective", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RcOvuqmjg2pf9zbwZP_uCo71a1rgcVozfPeMmH_23uMXg2Xk3gYEx8g&s=10", 
         "description": "Enquanto a longa noite de inverno cai sobre Ennis, Alasca, seis homens desaparecem da estação de pesquisa.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/2", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/1ujsyngc5ZG9MG2MbaxkcQ?utm_source=generator", 
         "rating": "4.5/5.0", 
         "year": 2024, 
         "platform": "HBO Max", 
         "director": "Issa López", 
         "cast": [
-            { "name": "Jodie Foster", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=JF" }
+            { "name": "Jodie Foster", "img": "https://www.blogdehollywood.com.br/wp-content/uploads/2024/01/jodie-foster-blog-de-hollywood-scaled.jpeg" }
         ],
         "relatedSites": [
-            { "name": "HBO True Detective", "url": "#", "type": "Oficial" }
+            { "name": "HBO True Detective", "url": "https://www.hbomax.com/br/pt/shows/true-detective/9a4a3645-74e0-4e4d-9f35-31464b402357", "type": "Oficial" }
         ], 
         "trailers": [
-            { "title": "Trailer S4", "url": "https://www.youtube.com/embed/fLpXmE15O5I" }
+            { "title": "Trailer S4", "url": "https://www.youtube.com/embed/hmJHKF2bYVc" }
         ]
     },
     { 
