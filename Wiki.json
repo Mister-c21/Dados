@@ -986,26 +986,4 @@
             { "name": "Steam", "url": "#", "type": "Loja" }
         ] 
     },
-    { 
-        "id": 50, 
-        "title": "Counter Strike 2", 
-        "category": "jogos", 
-        "subtheme": "E-Sports e FPS Competitivos", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=CS2", 
-        "description": "A mais nova iteração do popular jogo de tiro em primeira pessoa tático.", 
-        "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/5F_S1LpE2p8" }
-        ], 
-        "spotifyEmbedUrl": "https://developer.spotify.com/documentation/embeds/references/iframe-api2", 
-        "rating": "4.4/5.0", 
-        "year": 2023, 
-        "platform": "PC", 
-        "director": "Valve", 
-        "cast": [
-            { "name": "Agente", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=A" }
-        ], 
-        "relatedSites": [
-            { "name": "Steam", "url": "#", "type": "Loja" }
-        ] 
-    },
 ]
