@@ -172,21 +172,21 @@
         "title": "Rick and Morty (S7)", 
         "category": "cartoon", 
         "subtheme": "Animação para Adultos", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=R&M+S7", 
+        "image": "https://images.justwatch.com/poster/308654947/s718/temporada-1.jpg", 
         "description": "As aventuras de um cientista genial e sociopata e seu neto mais influenciável, viajando pelo multiverso.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/37i9dQZF1DXcK4sLwI8jR9?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/49YTYyBoRVoUTl6GaVJRar?utm_source=generator", 
         "rating": "4.7/5.0", 
         "year": 2023, 
         "platform": "Adult Swim, HBO Max", 
         "director": "Justin Roiland, Dan Harmon", 
         "cast": [
-            { "name": "Rick Sanchez", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=RS" }
+            { "name": "Rick Sanchez", "img": "https://uploads.jovemnerd.com.br/wp-content/uploads/2023/11/rick_and_morty_guia_episodios__f89025526.jpg" }
         ],
         "relatedSites": [
-            { "name": "Adult Swim", "url": "#", "type": "Streaming" }
+            { "name": "Adult Swim", "url": "https://www.adultswim.com/where-to-watch", "type": "Streaming" }
         ], 
         "trailers": [
-            { "title": "Trailer S7", "url": "https://www.youtube.com/embed/RIL-uK7v32s" }
+            { "title": "Trailer S7", "url": "https://www.youtube.com/embed/PkZtVBNkmso" }
         ]
     },
     { 
