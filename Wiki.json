@@ -481,21 +481,21 @@
         "title": "Life Is Strange: Double Exposure", 
         "category": "jogos", 
         "subtheme": "Aventura Narrativa", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=LIS+DE", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Life_Is_Strange_Double_Exposure.jpg/250px-Life_Is_Strange_Double_Exposure.jpg", 
         "description": "Max Caulfield retorna com um novo mistério sobrenatural, desta vez envolvendo universos paralelos.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/3", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/2CNn1mB8gjYkAQeNHFiAAC?utm_source=generator", 
         "rating": "4.5/5.0", 
         "year": 2024, 
         "platform": "PC, PS5, Xbox Series X/S", 
         "director": "Deck Nine", 
         "cast": [
-            { "name": "Max Caulfield", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=MC" }
+            { "name": "Max Caulfield", "img": "https://static.wikia.nocookie.net/p__/images/d/d1/MaxLifeIsStrange.png/revision/latest/scale-to-width/360?cb=20250403025546&path-prefix=protagonist" }
         ],
         "relatedSites": [
-            { "name": "Square Enix", "url": "#", "type": "Desenvolvedor" }
+            { "name": "Square Enix", "url": "https://lifeisstrange.square-enix-games.com/en-us/games/life-is-strange-double-exposure", "type": "Desenvolvedor" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/jE4_LwYy4tM" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/TOYz4NCFIXg" }
         ]
     },
     { 
@@ -947,21 +947,21 @@
         "title": "Helldivers 2", 
         "category": "jogos", 
         "subtheme": "E-Sports e FPS Competitivos", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Helldivers+2", 
+        "image": "https://jolstatic.fr/www/captures/7127/2/170682.jpg", 
         "description": "Um shooter cooperativo em terceira pessoa, onde você se junta a esquadrões de elite para espalhar a democracia controlada.", 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/Q5K3j-6X34w" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/C8nIeV2gtB4" }
         ], 
-        "spotifyEmbedUrl": "https://developer.spotify.com/documentation/embeds/references/iframe-api0", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/6gIyUevMF5HU5N8R9cDD8a?utm_source=generator", 
         "rating": "4.6/5.0", 
         "year": 2024, 
         "platform": "PC, PS5", 
         "director": "Arrowhead Game Studios", 
         "cast": [
-            { "name": "Super Cidadão", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=SC" }
+            { "name": "Super Cidadão", "img": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/02/helldivers-2-tops-steam-charts-valve-counterstrike-cs2-palworld-call-of-duty-550x309.jpg" }
         ], 
         "relatedSites": [
-            { "name": "PlayStation Store", "url": "#", "type": "Loja" }
+            { "name": "PlayStation Store", "url": "https://store.playstation.com/pt-br/product/UP9000-PPSA01413_00-HELLDIVERS200000", "type": "Loja" }
         ] 
     }
 ]
