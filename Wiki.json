@@ -282,21 +282,21 @@
         "title": "Planeta dos Macacos: O Reinado", 
         "category": "filmes", 
         "subtheme": "Ficção Científica", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Planeta+Macacos", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP22qZEe9P-zc8LMuSr2yYmT1MEnmLSf5feKJbS8YGEA&s=10", 
         "description": "Muitas gerações após o reinado de César, um jovem macaco se questiona sobre o passado e faz escolhas que definirão o futuro.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/4", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/1KAKt2vuIsfZWknOosKNjx?utm_source=generator", 
         "rating": "4.3/5.0", 
         "year": 2024, 
         "platform": "Cinema, Disney+", 
         "director": "Wes Ball", 
         "cast": [
-            { "name": "Owen Teague", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=OT" }
+            { "name": "Owen Teague", "img": "https://m.media-amazon.com/images/M/MV5BNmQyYzI0YzgtNTY2Yy00ZWQ3LTkwMmItZGJjMGJhMTk2NTI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" }
         ],
         "relatedSites": [
-            { "name": "20th Century Fox", "url": "#", "type": "Estúdio" }
+            { "name": "20th Century Fox", "url": "https://www.20thcenturystudios.com/", "type": "Estúdio" }
         ],
         "trailers": [
-            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/fD1D2r9sO1A" }
+            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/NmTPDA15lPA" }
         ]
     },
     { 
@@ -304,21 +304,21 @@
         "title": "Interestelar", 
         "category": "filmes", 
         "subtheme": "Ficção Científica", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Interestelar", 
+        "image": "https://images.justwatch.com/poster/312160153/s718/interestelar.jpg", 
         "description": "Uma equipe de exploradores viaja através de um buraco de minhoca para garantir a sobrevivência da humanidade.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/5", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3B61kSKTxlY36cYgzvf3cP?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 2014, 
         "platform": "HBO Max", 
         "director": "Christopher Nolan", 
         "cast": [
-            { "name": "Matthew McConaughey", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=MM" }
+            { "name": "Matthew McConaughey", "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Matthew_McConaughey_2011_AA.jpg" }
         ],
         "relatedSites": [
-            { "name": "Crítica AdoroCinema", "url": "#", "type": "Críticas" }
+            { "name": "Crítica AdoroCinema", "url": "https://www.adorocinema.com/filmes/filme-114782/", "type": "Críticas" }
         ],
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/zSWdZVtXT7E" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/UpGFBQOrZmQ" }
         ]
     },
     { 
