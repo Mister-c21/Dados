@@ -393,21 +393,21 @@
         "title": "Final Fantasy VII Rebirth", 
         "category": "jogos", 
         "subtheme": "RPGs de Ação em Destaque", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=FF7+Rebirth", 
+        "image": "https://cdn1.epicgames.com/offer/e9a679451d094c1ba3d008b6a01adec5/EGS_FINALFANTASYVIIREBIRTH_SquareEnix_S2_1200x1600-7708f856b86bea9ac254780e78deb3cf", 
         "description": "A continuação da reimaginação épica do clássico RPG, com Cloud e seus amigos explorando o vasto mundo.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/9", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/1RCbZKPFgZHGbyKsz5KYt9?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 2024, 
         "platform": "PS5", 
         "director": "Naoki Hamaguchi", 
         "cast": [
-            { "name": "Cloud Strife", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=CS" }
+            { "name": "Cloud Strife", "img": "https://static.wikia.nocookie.net/deathbattle/images/b/b4/Portrait.cloud.png/revision/latest?cb=20230923010647" }
         ],
         "relatedSites": [
-            { "name": "Square Enix", "url": "#", "type": "Desenvolvedor" }
+            { "name": "Square Enix", "url": "https://ffvii.square-enix-games.com/en-us/games/rebirth", "type": "Desenvolvedor" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/5D2rD-s_S1A" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/BkQR9p4Jzok" }
         ]
     },
     { 
@@ -415,21 +415,21 @@
         "title": "Dragon's Dogma 2", 
         "category": "jogos", 
         "subtheme": "RPGs de Ação em Destaque", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Dragons+Dogma+2", 
+        "image": "https://imgproxy.eneba.games/-n1UiZ3G27eNkPLOtEoJd8Q6iPG14n22sR0mB8C3TFY/rs:fit:350/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9h/UmFTLXkyc3RlTFY3/Wk9IaG9fQ0pEMnl0/YjZ6blhuZy15ODhJ/M2k4aVRrLmpwZw", 
         "description": "Um RPG de ação single-player guiado pela narrativa, que permite ao jogador moldar sua própria experiência.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/0", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/6XLrb4v672hJNV3YO4LPUo?utm_source=generator", 
         "rating": "4.2/5.0", 
         "year": 2024, 
         "platform": "PC, PS5, Xbox Series X/S", 
         "director": "Hideaki Itsuno", 
         "cast": [
-            { "name": "Arisen", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=A" }
+            { "name": "Arisen", "img": "https://i.pinimg.com/736x/d3/b9/be/d3b9befadcca13ef94eb99febcba1aa6.jpg" }
         ],
         "relatedSites": [
-            { "name": "Capcom", "url": "#", "type": "Desenvolvedor" }
+            { "name": "Capcom", "url": "https://news.capcomusa.com/dragons-dogma", "type": "Desenvolvedor" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/o050c55N9s4" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/Td4Kek2gtYM" }
         ]
     },
     { 
