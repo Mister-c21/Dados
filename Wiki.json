@@ -769,21 +769,21 @@
         "title": "X-Men '97", 
         "category": "cartoon", 
         "subtheme": "Desenhos Clássicos da Manhã", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=X-Men+97", 
+        "image": "https://i.scdn.co/image/ab67616d0000b2739812ffa0fc05f3aac6e7e775", 
         "description": "Continuação direta da série animada clássica, com os X-Men enfrentando novos desafios após a perda de seu líder.", 
-        "spotifyEmbedUrl": "https://support.spotify.com/br-pt/artists/article/embedded-players/1", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/6SObXUtk4XLVTkmoitJjZO?utm_source=generator", 
         "rating": "4.8/5.0", 
         "year": 2024, 
         "platform": "Disney+", 
         "director": "Beau DeMayo", 
         "cast": [
-            { "name": "Ciclope", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=C" }
+            { "name": "Ciclope", "img": "https://sm.ign.com/ign_br/feature/x/x-men-97-i/x-men-97-introduces-a-secret-villain-with-major-ramification_mq9d.png" }
         ],
         "relatedSites": [
-            { "name": "Marvel", "url": "#", "type": "Estúdio" }
+            { "name": "Marvel", "url": "https://www.marvel.com/tv-shows/x-men-97/1", "type": "Estúdio" }
         ], 
         "trailers": [
-            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/fT-n6r1uX7M" }
+            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/fw9Fs2R_7b4" }
         ]
     },
     { 
@@ -791,21 +791,21 @@
         "title": "Avatar: O Último Mestre do Ar", 
         "category": "cartoon", 
         "subtheme": "Desenhos Clássicos da Manhã", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Avatar+Aang", 
+        "image": "https://br.web.img3.acsta.net/pictures/14/04/16/17/54/526761.jpg", 
         "description": "O jovem Aang, o Avatar, deve dominar os quatro elementos para salvar o mundo da Nação do Fogo.", 
-        "spotifyEmbedUrl": "https://support.spotify.com/br-pt/artists/article/embedded-players/2", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/3bDOB6WgVzAmFDhjKHtVq7?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 2005, 
         "platform": "Netflix", 
         "director": "Michael Dante DiMartino, Bryan Konietzko", 
         "cast": [
-            { "name": "Aang", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=A" }
+            { "name": "Aang", "img": "https://yt3.googleusercontent.com/qGrcViAdsmfdL8NhR03s6jZVi2AP4A03XeBFShu2M4Jd88k1fNXDnpMEmHU6CvNJuMyA2z1maA0=s900-c-k-c0x00ffffff-no-rj" }
         ],
         "relatedSites": [
-            { "name": "Nick. Oficial", "url": "#", "type": "Oficial" }
+            { "name": "Nick. Oficial", "url": "https://www.nickanimation.com/", "type": "Oficial" }
         ], 
         "trailers": [
-            { "title": "Trailer Livro 1", "url": "https://www.youtube.com/embed/hJzC_8-G2nI" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/ooVvH2IYz0w" }
         ]
     },
     { 
@@ -813,22 +813,22 @@
         "title": "Hora de Aventura: Fionna e Cake", 
         "category": "cartoon", 
         "subtheme": "Desenhos Clássicos da Manhã", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Fionna+Cake", 
+        "image": "https://m.media-amazon.com/images/M/MV5BMzE2MTA5YjQtMzU5Ni00MWY5LWJiMTktOWRjZjZkMDVjYjlkXkEyXkFqcGc@._V1_.jpg", 
         "description": "As versões de gênero trocado de Finn e Jake embarcam em uma jornada pelo multiverso.", 
-        "spotifyEmbedUrl": "https://support.spotify.com/br-pt/artists/article/embedded-players/3", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/2fZMP21OWl0gqKXYEseoEb?utm_source=generator", 
         "rating": "4.5/5.0", 
         "year": 2023, 
         "platform": "HBO Max", 
         "director": "Adam Muto", 
         "cast": [
-            { "name": "Fionna", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=F" }, 
-            { "name": "Cake", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=C" }
+            { "name": "Fionna", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv70SYhjVKa9DNyNsFbzImgVdaB9J8bSEYGz_PR5vWMtiJXZRezj00Qsyl&s=10" }, 
+            { "name": "Cake", "img": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/7/79/Cake_001.png/revision/latest?cb=20121023165252" }
         ],
         "relatedSites": [
-            { "name": "Cartoon Network", "url": "#", "type": "Estúdio" }
+            { "name": "Cartoon Network", "url": "https://www.cartoonnetwork.ca/", "type": "Estúdio" }
         ], 
         "trailers": [
-            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/0_J-m470rM4" }
+            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/8XhtYN7cHI8" }
         ]
     },
     { 
