@@ -326,22 +326,22 @@
         "title": "Deadpool & Wolverine", 
         "category": "filmes", 
         "subtheme": "Comédias Irreverentes", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Deadpool+Wolverine", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGL14wHH-a808IiShYs-5cmX1UYjkiY6QqckjbDtKbQ4DP8ByVuEEfUR0&s=10", 
         "description": "Deadpool e Wolverine se unem em uma missão multiversal pela TVA.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/6", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/7tTd4gjNDz51x9jXHdP73D?utm_source=generator", 
         "rating": "4.5/5.0", 
         "year": 2024, 
         "platform": "Cinema", 
         "director": "Shawn Levy", 
         "cast": [
-            { "name": "Ryan Reynolds", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=RR" }, 
-            { "name": "Hugh Jackman", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=HJ" }
+            { "name": "Ryan Reynolds", "img": "https://cdn.britannica.com/85/205685-050-24677990/Ryan-Reynolds-2011.jpg" }, 
+            { "name": "Hugh Jackman", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PTl_NRBgZUM8veuw9W7EiqLVvcBz0ixmXCv7_VYpGnSp6WnLJEw05Qg&s=10" }
         ],
         "relatedSites": [
-            { "name": "Marvel Studios", "url": "#", "type": "Estúdio" }
+            { "name": "Marvel Studios", "url": "https://www.marvel.com/movies/deadpool-and-wolverine", "type": "Estúdio" }
         ], 
         "trailers": [
-            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/Q0eBw1YJ0_c" }
+            { "title": "Trailer Oficial", "url": "https://www.youtube.com/embed/JjnzxHdZtYY" }
         ]
     },
     { 
