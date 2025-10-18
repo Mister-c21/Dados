@@ -371,21 +371,21 @@
         "title": "Os Caça-Fantasmas: Apocalipse de Gelo", 
         "category": "filmes", 
         "subtheme": "Comédias Irreverentes", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Caca+Fantasmas", 
+        "image": "https://m.media-amazon.com/images/M/MV5BNzIyNGZhM2ItZmYxNy00MTkyLTllY2UtMWVjZWUzYmUxZGIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
         "description": "A família Spengler se une aos caça-fantasmas originais para salvar o mundo de uma segunda Era do Gelo.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/8", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/5T66FE2cOhkUBdtEd69s0R?utm_source=generator", 
         "rating": "4.0/5.0", 
         "year": 2024, 
         "platform": "Cinema", 
         "director": "Gil Kenan", 
         "cast": [
-            { "name": "Paul Rudd", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=PR" }
+            { "name": "Paul Rudd", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwyuJfxEAqce7Fe-h786b5r_Os7YCQK9JYp18LyCyfw&s=10" }
         ],
         "relatedSites": [
-            { "name": "Página Oficial", "url": "#", "type": "Oficial" }
+            { "name": "Página Oficial", "url": "https://www.ghostbusters.com/", "type": "Oficial" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/X7xN3g27K2s" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/awfAGQByYdE" }
         ]
     },
     { 
