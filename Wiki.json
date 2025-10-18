@@ -349,21 +349,21 @@
         "title": "Vizinhos", 
         "category": "filmes", 
         "subtheme": "Comédias Irreverentes", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Vizinhos+Filme", 
+        "image": "https://br.web.img3.acsta.net/pictures/14/01/23/21/22/505517.jpg", 
         "description": "Um casal recém-pais tem que lidar com os barulhentos vizinhos: uma fraternidade de universitários.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/7", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/5GJnqu1N3PNTKas3KZgwNa?utm_source=generator", 
         "rating": "3.9/5.0", 
         "year": 2014, 
         "platform": "Globoplay", 
         "director": "Nicholas Stoller", 
         "cast": [
-            { "name": "Seth Rogen", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=SR" }
+            { "name": "Seth Rogen", "img": "https://m.media-amazon.com/images/M/MV5BOGY5NTNiMmUtMjdiYi00ZmZkLTg3OTgtNDQ1OTVlZWUzY2IzXkEyXkFqcGc@._V1_.jpg" }
         ],
         "relatedSites": [
-            { "name": "Universal Pictures", "url": "#", "type": "Estúdio" }
+            { "name": "Universal Pictures", "url": "https://www.universalpics.com.br/", "type": "Estúdio" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/gW9-l9p6YgI" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/r5ZIRVz734Y" }
         ]
     },
     { 
