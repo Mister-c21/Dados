@@ -437,21 +437,21 @@
         "title": "Star Wars Outlaws", 
         "category": "jogos", 
         "subtheme": "Aventura Narrativa", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Star+Wars+Outlaws", 
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/5d272976398422e4228709c8ac02f56f816c687079af5222.jpg", 
         "description": "Jogue como Kay Vess, uma fora da lei em busca de liberdade e de iniciar uma nova vida.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/1", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3vrLHRoYfHplyA4VU0G2Ap?utm_source=generator", 
         "rating": "4.7/5.0", 
         "year": 2024, 
         "platform": "PC, PS5, Xbox Series X/S", 
         "director": "Julian Gerighty", 
         "cast": [
-            { "name": "Kay Vess", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=KV" }
+            { "name": "Kay Vess", "img": "https://lumiere-a.akamaihd.net/v1/images/kay-vess-main_20a3ac57.jpeg?region=643%2C0%2C790%2C790" }
         ],
         "relatedSites": [
-            { "name": "Ubisoft", "url": "#", "type": "Desenvolvedor" }
+            { "name": "Ubisoft", "url": "https://www.ubisoft.com/pt-br/game/star-wars/outlaws", "type": "Desenvolvedor" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/Xy3r8_h1T84" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/HlfuN4yj3yg" }
         ]
     },
     { 
