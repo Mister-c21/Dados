@@ -658,21 +658,21 @@
         "title": "Frieren e a Jornada Para o Além", 
         "category": "anime", 
         "subtheme": "Animes de Fantasia e Magia", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Frieren", 
+        "image": "https://m.media-amazon.com/images/M/MV5BZTI4ZGMxN2UtODlkYS00MTBjLWE1YzctYzc3NDViMGI0ZmJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
         "description": "Uma elfa maga se dedica a entender o conceito de vida e morte após a derrota do Rei Demônio.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/6", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/1uHhpd4ep36y3qtaIcL1sW?utm_source=generator", 
         "rating": "5.0/5.0", 
         "year": 2023, 
         "platform": "Crunchyroll", 
         "director": "Keiichirō Saitō", 
         "cast": [
-            { "name": "Frieren", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=F" }
+            { "name": "Frieren", "img": "https://images.mein-mmo.de/medien/2025/03/Frieren-Titel-title-780x438.jpg" }
         ],
         "relatedSites": [
-            { "name": "MyAnimeList", "url": "#", "type": "Comunidade" }
+            { "name": "MyAnimeList", "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren?quot=", "type": "Comunidade" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/d2Wq-uKqLgo" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/eXjbk-4ljgc" }
         ]
     },
     { 
@@ -680,29 +680,29 @@
         "title": "Delicious in Dungeon", 
         "category": "anime", 
         "subtheme": "Animes de Fantasia e Magia", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Delicious+Dungeon", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTK33HMuTbfCtsbrw4ehvGozfg1vdlCLimnSuHdHIosVpUuN5ZKYRXIMg&s=10", 
         "description": "Um grupo de aventureiros decide cozinhar e comer os monstros para sobreviver em uma masmorra.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/7", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/7xPa4sjtb5hR9gW3mdzJ3o?utm_source=generator", 
         "rating": "4.7/5.0", 
         "year": 2024, 
         "platform": "Netflix", 
         "director": "Yoshihiro Miyajima", 
         "cast": [
-            { "name": "Laios", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=L" }
+            { "name": "Laios", "img": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/11/laios-delicious-dungeons.jpg" }
         ],
         "relatedSites": [
-            { "name": "Netflix Oficial", "url": "#", "type": "Streaming" }
+            { "name": "Site oficial", "url": "https://delicious-in-dungeon.com/en/", "type": "Site oficial" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/0m9H3u_J94k" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/n5JEoD7keVo" }
         ]
     },
     { 
         "id": 36, 
-        "title": "Mushoku Tensei: Jobless Reincarnation (S2)", 
+        "title": "Mushoku Tensei: Jobless Reincarnation", 
         "category": "anime", 
         "subtheme": "Animes de Fantasia e Magia", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Mushoku+Tensei", 
+        "image": "https://m.media-amazon.com/images/M/MV5BYWQwNjk3MDItNDAxMS00YTQ2LWEyNDctMGYyZTE5OGQxNGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
         "description": "Um homem desempregado e sem esperança reencarna em um mundo de fantasia como um bebê com talentos mágicos.", 
         "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/8", 
         "rating": "4.9/5.0", 
