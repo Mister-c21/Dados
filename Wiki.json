@@ -704,19 +704,19 @@
         "subtheme": "Animes de Fantasia e Magia", 
         "image": "https://m.media-amazon.com/images/M/MV5BYWQwNjk3MDItNDAxMS00YTQ2LWEyNDctMGYyZTE5OGQxNGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
         "description": "Um homem desempregado e sem esperança reencarna em um mundo de fantasia como um bebê com talentos mágicos.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/8", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/27PZp5NRmDoFYmPRdaiCLD?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 2023, 
         "platform": "Crunchyroll", 
         "director": "Manabu Okamoto", 
         "cast": [
-            { "name": "Rudy Greyrat", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=RG" }
+            { "name": "Rudy Greyrat", "img": "https://ella.janitorai.com/bot-avatars/pszCkW9PeN9uwT5_REUkA.webp?width=1200" }
         ],
         "relatedSites": [
-            { "name": "P. Oficial Mushoku", "url": "#", "type": "Oficial" }
+            { "name": "Crunchyroll Mushoku", "url": "https://www.crunchyroll.com/pt-br/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation?srsltid=AfmBOoqusJhKAqboOwHu-wDe4tgH-yntUiIPA8tBTuGBGyQ-LJfHA1oJ", "type": "Streaming" }
         ], 
         "trailers": [
-            { "title": "Trailer S2", "url": "https://www.youtube.com/embed/l3h6T2Q6yD0" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/k5VxfJpzy1Q" }
         ]
     },
     { 
