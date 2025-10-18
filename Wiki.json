@@ -622,7 +622,7 @@
         "platform": "Crunchyroll", 
         "director": "Shunsuke Nakashige", 
         "cast": [
-            { "name": "Sung Jin-Woo", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=SJW" }
+            { "name": "Sung Jin-Woo", "img": "https://criticalhits.com.br/wp-content/uploads/2025/04/image_2025-03-31_122416918.jpg" }
         ],
         "relatedSites": [
             { "name": "Crunchyroll", "url": "https://www.crunchyroll.com/pt-br/watch/G14U415QM/im-used-to-it", "type": "Streaming" }
@@ -636,21 +636,21 @@
         "title": "Kaiju No. 8", 
         "category": "anime", 
         "subtheme": "Animes Shonen Populares", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Kaiju+8", 
+        "image": "https://m.media-amazon.com/images/M/MV5BM2VmNTc3OWQtOTVmMy00MGZlLTk3N2QtM2YwZDE5MWVjZmM5XkEyXkFqcGc@._V1_.jpg", 
         "description": "Kafka Hibino ganha a habilidade de se transformar em um monstro (Kaiju) e sonha em se juntar às Forças de Defesa.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/5", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/1QP6i64bWYHMCPR1sfTO0Z?utm_source=generator", 
         "rating": "4.6/5.0", 
         "year": 2024, 
         "platform": "Crunchyroll", 
         "director": "Shigeyuki Miya", 
         "cast": [
-            { "name": "Kafka Hibino", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=KH" }
+            { "name": "Kafka Hibino", "img": "https://cdn.oneesports.gg/cdn-data/2024/06/Anime_Kaijuno8_KafkaHibino_Episode12.jpg" }
         ],
         "relatedSites": [
-            { "name": "Anime News Network", "url": "#", "type": "Notícias" }
+            { "name": "Site oficial", "url": "https://kaiju-no8.net/", "type": "Site oficial" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/l5_p8v-zK6I" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/4LMhnFrjQAk" }
         ]
     },
     { 
