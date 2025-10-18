@@ -459,21 +459,21 @@
         "title": "The Legend of Zelda: Tears of the Kingdom", 
         "category": "jogos", 
         "subtheme": "Aventura Narrativa", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Zelda+ToTK", 
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/zelda-tears-of-the-kingdom-free-items.jpg?w=1600&h=900&fit=crop", 
         "description": "Link embarca em uma nova jornada pelos céus e pela terra de Hyrule.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/2", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/2RNr3YaFk8kgvIaL2L78l0?utm_source=generator", 
         "rating": "5.0/5.0", 
         "year": 2023, 
         "platform": "Switch", 
         "director": "Hidemaro Fujibayashi", 
         "cast": [
-            { "name": "Link", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=L" }
+            { "name": "Link", "img": "https://www.videogamer.com/wp-content/uploads/tears-of-the-kingdom-link.jpg" }
         ],
         "relatedSites": [
-            { "name": "Nintendo", "url": "#", "type": "Desenvolvedor" }
+            { "name": "Nintendo", "url": "https://zelda.nintendo.com/", "type": "Desenvolvedor" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/PfJ7Jk17O2I" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/SSVYVgm4tH4" }
         ]
     },
     { 
