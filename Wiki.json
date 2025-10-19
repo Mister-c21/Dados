@@ -525,18 +525,18 @@
         "title": "Sweet Child o' Mine", 
         "category": "musicas", 
         "subtheme": "Rock Clássico e Grunge", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Guns+Sweet+Child", 
+        "image": "https://m.media-amazon.com/images/I/91CP-y48LPL.jpg", 
         "description": "Um dos maiores sucessos do Guns N' Roses, conhecido pelo icônico riff de Slash.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7snQQkoxF9GfF5b0iA7K6x?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7o2CTH4ctstm8TNelqjb51?utm_source=generator", 
         "rating": "4.8/5.0", 
         "year": 1987, 
         "platform": "Appetite for Destruction", 
         "director": "Nigel Dick", 
         "cast": [
-            { "name": "Axl Rose", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=AR" }
+            { "name": "Axl Rose", "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Axl_Rose_2018_%28cropped%29.jpg" }
         ],
         "relatedSites": [
-            { "name": "Guns N' Roses Site", "url": "#", "type": "Música" }
+            { "name": "Guns N' Roses Site", "url": "https://www.gunsnroses.com/", "type": "Música" }
         ], 
         "trailers": [
             { "title": "Clipe Oficial", "url": "https://www.youtube.com/embed/1w7OgIMMRc4" }
@@ -547,22 +547,22 @@
         "title": "Die With A Smile", 
         "category": "musicas", 
         "subtheme": "Pop Internacional", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Lady+Gaga+Bruno", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB3vX992-QJxKNjsGilmZmqBF6b5BIczVXiUwgOEZwaYhy7_esZsKKT8&s=10", 
         "description": "Parceria de Lady Gaga e Bruno Mars que dominou as paradas pop em 2024.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/7eQv8yA1q4YvUuK50jY2gG?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/2plbrEY59IikOBgBGLjaoe?utm_source=generator", 
         "rating": "4.7/5.0", 
         "year": 2024, 
         "platform": "Single", 
         "director": "Vários", 
         "cast": [
-            { "name": "Lady Gaga", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=LG" }, 
-            { "name": "Bruno Mars", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=BM" }
+            { "name": "Lady Gaga", "img": "https://stories.cnnbrasil.com.br/wp-content/uploads/sites/9/2024/09/Quirinale.it_-58.png" }, 
+            { "name": "Bruno Mars", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHyKHbB1BVLTbTEUZnW7Dn7yf9IBDuXwv8WH7vC_oZC6RkdZehKw3vb0&s=10" }
         ],
         "relatedSites": [
-            { "name": "Billboard Hot 100", "url": "#", "type": "Ranking" }
+            { "name": "Billboard Hot 100", "url": "https://www.billboard.com/lists/lady-gaga-bruno-mars-die-with-a-smile-number-one-hot-100/", "type": "Ranking" }
         ], 
         "trailers": [
-            { "title": "Áudio Oficial", "url": "https://www.youtube.com/embed/0pQjL3-j0vU" }
+            { "title": "Áudio Oficial", "url": "https://www.youtube.com/embed/kPa7bsKwL-c" }
         ]
     },
     { 
@@ -570,21 +570,21 @@
         "title": "Beautiful Things", 
         "category": "musicas", 
         "subtheme": "Pop Internacional", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Beautiful+Things", 
+        "image": "https://i.ytimg.com/vi/HU08BcK5SUY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrclqNG7l0cd1MgtGhBqCLYggWgA", 
         "description": "O sucesso viral de Benson Boone, uma balada pop emotiva e poderosa.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/1P6Kz7Mdj1XjL1mQJtD4iL?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/29aSKB1qPEbN0Qf9OPSQpw?utm_source=generator", 
         "rating": "4.5/5.0", 
         "year": 2024, 
         "platform": "Single", 
         "director": "Sophia Lazzati", 
         "cast": [
-            { "name": "Benson Boone", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=BB" }
+            { "name": "Benson Boone", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjQF9roMttaMUUSXNAqAXYNjOIWfT1ERnzYh2vwNWyVvuxpq4XjZmtk8&s=10" }
         ],
         "relatedSites": [
-            { "name": "Clipe Oficial", "url": "#", "type": "YouTube" }
+            { "name": "Clipe Oficial", "url": "https://www.dailymotion.com/video/x8tpckm", "type": "dailymotion" }
         ], 
         "trailers": [
-            { "title": "Clipe Oficial", "url": "https://www.youtube.com/embed/D3cR6I-zPqI" }
+            { "title": "Clipe Oficial", "url": "https://www.youtube.com/embed/Oyf5NzI5Ohc" }
         ]
     },
     { 
@@ -592,21 +592,21 @@
         "title": "Guts", 
         "category": "musicas", 
         "subtheme": "Pop Internacional", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Olivia+Guts", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwu-8XE7LhQU4CG-LMGEIkI8_b4x4sVOhvK_byucclFQ&s=10", 
         "description": "Segundo álbum de estúdio de Olivia Rodrigo, com influências pop-punk e letras introspectivas.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/15tT99yv8u11dIqM6Fj10g?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/1xJHno7SmdVtZAtXbdbDZp?utm_source=generator", 
         "rating": "4.8/5.0", 
         "year": 2023, 
         "platform": "Álbum", 
         "director": "Vários", 
         "cast": [
-            { "name": "Olivia Rodrigo", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=OR" }
+            { "name": "Olivia Rodrigo", "img": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" }
         ],
         "relatedSites": [
-            { "name": "Página Oficial", "url": "#", "type": "Oficial" }
+            { "name": "Página Oficial", "url": "https://store.oliviarodrigo.com/collections/guts?srsltid=AfmBOoqWC2Y8QQcKfUTeQFyW5GDeNjcd1FnKGjc2PNRIS9259g4utyZ1", "type": "Oficial" }
         ], 
         "trailers": [
-            { "title": "Vampire (Clipe)", "url": "https://www.youtube.com/embed/RlpnjI39G_o" }
+            { "title": "Vampire (Clipe)", "url": "https://www.youtube.com/embed/pDQU0_BhQEQ" }
         ]
     },
     { 
