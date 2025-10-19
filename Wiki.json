@@ -833,24 +833,24 @@
     },
     { 
         "id": 42, 
-        "title": "Fallout (S1)", 
+        "title": "Fallout", 
         "category": "series", 
         "subtheme": "Ficção Científica Distópica", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Fallout+TV", 
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyMGNlNWEtYzc1NS00NzNkLWE1NTUtOTc2MTY3NWNhOTVhXkEyXkFqcGc@._V1_.jpg", 
         "description": "Duzentos anos após o apocalipse, uma moradora de um cofre é forçada a voltar para a superfície.", 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/ASy-hTqY22U" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/0kQ8i2FpRDk" }
         ], 
-        "spotifyEmbedUrl": "https://support.spotify.com/br-pt/artists/article/embedded-players/4", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/0o12gQfAjCZmnChTHcSMrr?utm_source=generator", 
         "rating": "4.8/5.0", 
         "year": 2024, 
         "platform": "Prime Video", 
         "director": "Jonathan Nolan", 
         "cast": [
-            { "name": "Ella Purnell", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=EP" }
+            { "name": "Ella Purnell", "img": "https://m.media-amazon.com/images/M/MV5BZGNkMWI4ZmItN2Y2Mi00Mzc1LWExYTctMjMzMjhmMDE0NWVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" }
         ], 
         "relatedSites": [
-            { "name": "Bethesda Game", "url": "#", "type": "Jogo" }
+            { "name": "Bethesda Game", "url": "https://fallout.bethesda.net/pt", "type": "Jogo" }
         ] 
     },
     { 
@@ -858,21 +858,21 @@
         "title": "O Problema dos 3 Corpos", 
         "category": "series", 
         "subtheme": "Ficção Científica Distópica", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=3+Corpos", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvueR2EOhd4pOM-7Kv-Ng8JyegYPFxw7t81Q0Z-n52HWc8I-JdKRY-eO8&s=10", 
         "description": "As leis da natureza se desfazem, forçando cientistas a enfrentar a maior ameaça da humanidade.", 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/jB3nU928GjQ" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/FjEAflR7JJM" }
         ], 
-        "spotifyEmbedUrl": "https://support.spotify.com/br-pt/artists/article/embedded-players/5", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/6VhG7xEPrBO3YjmQj9OcUn?utm_source=generator", 
         "rating": "4.3/5.0", 
         "year": 2024, 
         "platform": "Netflix", 
         "director": "David Benioff, D.B. Weiss", 
         "cast": [
-            { "name": "Jess Hong", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=JH" }
+            { "name": "Jess Hong", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2-Ftu9WV59iXCmsuov9l3G-aMyshqz5iyF0BhyIJImgO0UCMd2pwN6V4&s=10" }
         ], 
         "relatedSites": [
-            { "name": "Livro Original", "url": "#", "type": "Literatura" }
+            { "name": "Livro Original", "url": "https://www.mercadolivre.com.br/colecao-o-problema-dos-tres-corpos--3-livros/up/MLBU2337024467", "type": "Literatura" }
         ] 
     },
     { 
