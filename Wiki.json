@@ -721,25 +721,25 @@
     },
     { 
         "id": 37, 
-        "title": "Arcane (S2)", 
+        "title": "Arcane", 
         "category": "cartoon", 
         "subtheme": "Animação para Adultos", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Arcane+S2", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBcKypT69dxToyEO1ybzv9mq2JXT7gsHATGoCwK9VCKFx5-ACO2RcaHn_&s=10", 
         "description": "A história de origem das campeãs Vi e Jinx do universo de League of Legends, em um cenário steampunk.", 
-        "spotifyEmbedUrl": "https://developer.spotify.com/technologies/web-api/lookup/9", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DX3KVUsNUmJc2?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 2024, 
         "platform": "Netflix", 
         "director": "Pascal Charrue, Arnaud Delord", 
         "cast": [
-            { "name": "Vi", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=V" }, 
-            { "name": "Jinx", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=J" }
+            { "name": "Vi", "img": "https://img.redbull.com/images/c_crop,x_506,y_0,h_1080,w_810/c_fill,w_450,h_600/q_auto,f_auto/redbullcom/2024/9/19/q0trtgwv8eztkxgjquqw/vi-league-of-legends-arcane" }, 
+            { "name": "Jinx", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi093B1BrddwrhhxbbKiEC8tkChoU3Lc-GZnGw2Zpy_w&s=10" }
         ],
         "relatedSites": [
-            { "name": "League of Legends", "url": "#", "type": "Jogo" }
+            { "name": "League of Legends", "url": "https://www.leagueoflegends.com/pt-br/", "type": "Jogo" }
         ], 
         "trailers": [
-            { "title": "Trailer Teaser S2", "url": "https://www.youtube.com/embed/fm-Qp6oWp0A" }
+            { "title": "Trailer", "url": "https://www.youtube.com/embed/3MB3OK3Xnvs" }
         ]
     },
     { 
@@ -747,21 +747,21 @@
         "title": "Hazbin Hotel", 
         "category": "cartoon", 
         "subtheme": "Animação para Adultos", 
-        "image": "https://via.placeholder.com/200x300/8a2be2/ffffff?text=Hazbin+Hotel", 
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/25cecb7a0b99ad3cfcafcce91941ef616a94393f98937b2c2c2409023e86b885._SX1080_FMjpg_.jpg", 
         "description": "A Princesa do Inferno tenta abrir um hotel de reabilitação para demônios, a fim de reduzir a superpopulação de seu reino.", 
-        "spotifyEmbedUrl": "https://support.spotify.com/br-pt/artists/article/embedded-players/0", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWTj8mmxDwyIM?utm_source=generator", 
         "rating": "4.5/5.0", 
         "year": 2024, 
         "platform": "Prime Video", 
         "director": "Vivienne Medrano", 
         "cast": [
-            { "name": "Charlie Morningstar", "img": "https://via.placeholder.com/60/8a2be2/ffffff?text=CM" }
+            { "name": "Charlie Morningstar", "img": "https://pm1.aminoapps.com/8928/3c0ab450aec41d8e7fd6d984467bf2e41b4316afr1-736-736v2_hq.jpg" }
         ],
         "relatedSites": [
-            { "name": "Prime Video", "url": "#", "type": "Streaming" }
+            { "name": "Prime Video", "url": "https://www.primevideo.com/-/pt/detail/Hotel-Hazbin/0HZWTBZYQQXYW48YBANMDM2MZE", "type": "Streaming" }
         ], 
         "trailers": [
-            { "title": "Trailer", "url": "https://www.youtube.com/embed/nF_I2Q0qJ6E" }
+            { "title": "Trailer s1", "url": "https://www.youtube.com/embed/OLSWVCwy88g" }
         ]
     },
     { 
