@@ -503,18 +503,18 @@
         "title": "Smells Like Teen Spirit", 
         "category": "musicas", 
         "subtheme": "Rock Clássico e Grunge", 
-        "image": "https://via.placeholder.com/200x300/a052f5/ffffff?text=Nirvana+Spirit", 
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIwNmJkYTktYmM3MC00YmVkLTk3OWItYjRhMzkxN2NlODM3XkEyXkFqcGc@._V1_.jpg", 
         "description": "O hino do movimento grunge, lançado pela banda Nirvana em 1991.", 
-        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5ghIEMlqJ7QW1j04S9hS7L?utm_source=generator", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/track/5ghIJDpPoe3CfHMGu71E6T?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 1991, 
         "platform": "Nevermind", 
         "director": "Samuel Bayer", 
         "cast": [
-            { "name": "Kurt Cobain", "img": "https://via.placeholder.com/60/a052f5/ffffff?text=KC" }
+            { "name": "Kurt Cobain", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCWlG5cCH3oULEduqXF9gBhMotl2ET3MzCoV_Id4VfStNlzqzONglDsY&s=10" }
         ],
         "relatedSites": [
-            { "name": "Nirvana Oficial", "url": "#", "type": "Música" }
+            { "name": "Nirvana Oficial", "url": "https://www.nirvana.com/#/", "type": "Música" }
         ], 
         "trailers": [
             { "title": "Clipe Oficial", "url": "https://www.youtube.com/embed/hTWKbfoikeg" }
