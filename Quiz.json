@@ -1,0 +1,287 @@
+{
+    "solo-leveling": {
+        "card_title": "Solo Leveling",
+        "card_category": "animes",
+        "card_level": 2,
+        "card_image": "https://static.wikia.nocookie.net/solo-leveling-arise/images/5/50/Solo_Leveling-Arise_Video_Game_Visual.png/revision/latest/thumbnail/width/360/height/360?cb=20240324151327",
+        "gif_urls": {
+            "correct": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk3YzUwOGV2OGI2dGVvY3ByMG9mdmE5N2FtcHhvZWRicGlzaXZjMCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/26AHM4kQ9T5k7d67m/giphy.gif",
+            "incorrect": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hveTBoYnZhb3BsdmJndXo3azQwbW5sOTQzZ2JpYXF2bjA5ejk4ZSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/l0MYIuL4pT26QpI9a/giphy.gif",
+            "timeout": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF2cWR5M3p5ZTN2dmQ3a24xYWZ0NHo3cTVsZjl6anZ1eGlvazk2eSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/2Yd12k8m4QWf5VlO2a/giphy.gif",
+            "default": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJwMHNhZmN0NW10ZTFmNmxrOHR5d3NqMnByZ29vdGNpaG9uM2k5bSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3o7qDD0lqgHhXgT8yI/giphy.gif",
+            "finish": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l2c3c4bjdra3k4MWU2ZmV4aTdmNWJsbXN5ZGNwbDdzbmVlNW11bCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/qgkrE4yF7s7cQ/giphy.gif"
+        },
+        "questions": [
+            {
+                "question": "Qual o nome do protagonista de Solo Leveling?",
+                "options": [
+                    "Jin-Woo",
+                    "Sung Jinwoo",
+                    "Cha Hae-in",
+                    "Gojo Satoru"
+                ],
+                "answer": "Sung Jinwoo",
+                "difficulty": 1
+            },
+            {
+                "question": "Qual o rank inicial de Sung Jinwoo como caçador?",
+                "options": [
+                    "Rank S",
+                    "Rank B",
+                    "Rank E",
+                    "Rank D"
+                ],
+                "answer": "Rank E",
+                "difficulty": 1
+            },
+            {
+                "question": "Qual o sistema que Jinwoo adquire?",
+                "options": [
+                    "Sistema de Missões",
+                    "Sistema de Nível",
+                    "Sistema do Monarca das Sombras",
+                    "Sistema de Caçador"
+                ],
+                "answer": "Sistema do Monarca das Sombras",
+                "difficulty": 2
+            },
+            {
+                "question": "Qual o nome da Dungeon que transformou Jinwoo em Despertado?",
+                "options": [
+                    "Portão Vermelho",
+                    "Dungeon Tripla",
+                    "Dungeon de C-Rank",
+                    "Dungeon do Castelo Demoníaco"
+                ],
+                "answer": "Dungeon Tripla",
+                "difficulty": 3
+            }
+        ]
+    },
+    "marvel": {
+        "card_title": "Universo Marvel",
+        "card_category": "filmes",
+        "card_level": 3,
+        "card_image": "https://via.placeholder.com/300x168/007bff/FFFFFF?text=Marvel+Studios",
+        "gif_urls": {
+            "correct": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t6M2R5bXl2c2Z4eG55cDQzdjFsa3A4MjV0b2g3cG1yYXJqM2FvZyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/l3E6uhL4U07dKjO9O/giphy.gif",
+            "incorrect": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Fvb2x1d2JpZ29iMTFzNm44YWt0OTVzYjhqMDZsdG9pcDJ3azJ0dCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/l4FGuhL4U07dKjO9O/giphy.gif",
+            "timeout": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ2YzVscDk1eTZ2Zm1tMDRpcnczcm9vMmQ2cTUzYzlsZzN6Z2Z1biZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/4T0F64FhMhG8g/giphy.gif",
+            "default": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N1N2p0amU0NmdsZTBjY211ODZtMnduM3c1Z3NxdjVwb3V4bGlxMiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3osxYjK567zN42d3QA/giphy.gif",
+            "finish": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl2b2V1OGdrcmJ6a3B2MmJ2bW9jZ296bHh2ZzFjbjV1czkwZ3B3OCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/10Wk8xQfL1tPq0/giphy.gif"
+        },
+        "questions": [
+            {
+                "question": "Qual é o nome verdadeiro do Homem de Ferro?",
+                "options": [
+                    "Steve Rogers",
+                    "Bruce Banner",
+                    "Tony Stark",
+                    "Peter Parker"
+                ],
+                "answer": "Tony Stark",
+                "difficulty": 1
+            },
+            {
+                "question": "Qual é a joia do infinito que está na testa do Visão?",
+                "options": [
+                    "Joia da Mente",
+                    "Joia do Espaço",
+                    "Joia do Tempo",
+                    "Joia da Alma"
+                ],
+                "answer": "Joia da Mente",
+                "difficulty": 2
+            },
+            {
+                "question": "Qual o nome do pai de Thor?",
+                "options": [
+                    "Loki",
+                    "Odin",
+                    "Hela",
+                    "Thanos"
+                ],
+                "answer": "Odin",
+                "difficulty": 1
+            },
+            {
+                "question": "Quem foi o primeiro a usar o título de Capitã Marvel nos quadrinhos?",
+                "options": [
+                    "Carol Danvers",
+                    "Monica Rambeau",
+                    "Mar-Vell",
+                    "Kamala Khan"
+                ],
+                "answer": "Mar-Vell",
+                "difficulty": 3
+            }
+        ]
+    },
+    "apenas-um-show": {
+        "card_title": "Apenas Um Show",
+        "card_category": "series",
+        "card_level": 1,
+        "card_image": "https://via.placeholder.com/300x168/4CAF50/FFFFFF?text=Apenas+Um+Show",
+        "gif_urls": {
+            "correct": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFsM2t1NjN3ZnF1b2E4aG9jY3Jna2lmdW44dzNxNHh2b2RtcGZ3ZSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3o85xr1nJkKkO2l5c4/giphy.gif",
+            "incorrect": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF3cXZlajF0eXJ0amcxcG5zZ3VqNTE4cHUza3o0c201aWV6N3R1ZSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3o7TKr3nzBHl5tgZug/giphy.gif",
+            "timeout": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW11aGwwZ3Z3bmJ0bWJ0NHA4NW55enE3d3A1cnZ2N2EzN2c1ZnZteCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/l3E689C8oK6d997ws/giphy.gif",
+            "default": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm13dW10ZTF5aG55ZzlzNmJieG02eHlsaGdvcG05YXNpaXdwb3RzNCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/l46Cn8wH780U1yNnG/giphy.gif",
+            "finish": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p1cG11NW55cDNrY3h0ZXRwZ2p0cm91aG5oN2E4OHZ4Z24xYWZ0aSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3o7TKSxQyO1E2xH7cI/giphy.gif"
+        },
+        "questions": [
+            {
+                "question": "Quais são os nomes dos dois protagonistas?",
+                "options": [
+                    "Mordecai e Rigby",
+                    "Finn e Jake",
+                    "Gumball e Darwin",
+                    "Steven e Connie"
+                ],
+                "answer": "Mordecai e Rigby",
+                "difficulty": 1
+            },
+            {
+                "question": "Qual o nome do parque onde eles trabalham?",
+                "options": [
+                    "Parque dos Elmos",
+                    "Parque Municipal",
+                    "Parque Urbano",
+                    "Parque da Alegria"
+                ],
+                "answer": "Parque Municipal",
+                "difficulty": 1
+            }
+        ]
+    },
+    "os-10-mandamentos": {
+        "card_title": "Os 10 Mandamentos",
+        "card_category": "novelas",
+        "card_level": 3,
+        "card_image": "https://via.placeholder.com/300x168/8A2BE2/FFFFFF?text=Os+10+Mandamentos",
+        "gif_urls": {
+            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=NOVELA+CORRETO",
+            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=NOVELA+ERRO",
+            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=NOVELA+TEMPO",
+            "default": "https://via.placeholder.com/1920x1080/8A2BE2/FFFFFF?text=NOVELA+NEUTRO",
+            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=NOVELA+FIM"
+        },
+        "questions": [
+            {
+                "question": "Qual é o nome do protagonista da novela Os Dez Mandamentos?",
+                "options": [
+                    "Arão",
+                    "Moisés",
+                    "Ramsés",
+                    "Josué"
+                ],
+                "answer": "Moisés",
+                "difficulty": 1
+            }
+        ]
+    },
+    "kpop": {
+        "card_title": "K-Pop Hits",
+        "card_category": "musica",
+        "card_level": 2,
+        "card_image": "https://via.placeholder.com/300x168/FFC107/333333?text=K-Pop+Hits",
+        "gif_urls": {
+            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=KPOP+CORRETO",
+            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=KPOP+ERRO",
+            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=KPOP+TEMPO",
+            "default": "https://via.placeholder.com/1920x1080/FFC107/333333?text=KPOP+NEUTRO",
+            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=KPOP+FIM"
+        },
+        "questions": [
+            {
+                "question": "Qual grupo é famoso pela música 'Dynamite'?",
+                "options": [
+                    "BLACKPINK",
+                    "EXO",
+                    "BTS",
+                    "TWICE"
+                ],
+                "answer": "BTS",
+                "difficulty": 1
+            }
+        ]
+    },
+    "ia": {
+        "card_title": "Inteligência Artificial",
+        "card_category": "tecnologia",
+        "card_level": 2,
+        "card_image": "https://via.placeholder.com/300x168/17A2B8/FFFFFF?text=Inteligência+Artificial",
+        "gif_urls": {
+            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=IA+CORRETO",
+            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=IA+ERRO",
+            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=IA+TEMPO",
+            "default": "https://via.placeholder.com/1920x1080/17A2B8/FFFFFF?text=IA+NEUTRO",
+            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=IA+FIM"
+        },
+        "questions": [
+            {
+                "question": "Qual o nome do campo da IA focado em permitir que computadores aprendam com dados?",
+                "options": [
+                    "Processamento de Linguagem Natural",
+                    "Visão Computacional",
+                    "Aprendizado de Máquina",
+                    "Robótica"
+                ],
+                "answer": "Aprendizado de Máquina",
+                "difficulty": 2
+            }
+        ]
+    },
+    "jujutsu-kaisen": {
+        "card_title": "Jujutsu Kaisen",
+        "card_category": "animes",
+        "card_level": 3,
+        "card_image": "https://via.placeholder.com/300x168/DAA520/FFFFFF?text=Jujutsu+Kaisen",
+        "gif_urls": {
+            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=JJK+CORRETO",
+            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=JJK+ERRO",
+            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=JJK+TEMPO",
+            "default": "https://via.placeholder.com/1920x1080/DAA520/FFFFFF?text=JJK+NEUTRO",
+            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=JJK+FIM"
+        },
+        "questions": [
+            {
+                "question": "Quem é o feiticeiro mais forte de Jujutsu Kaisen?",
+                "options": [
+                    "Yuji Itadori",
+                    "Megumi Fushiguro",
+                    "Satoru Gojo",
+                    "Sukuna"
+                ],
+                "answer": "Satoru Gojo",
+                "difficulty": 1
+            }
+        ]
+    },
+    "star-wars": {
+        "card_title": "Star Wars",
+        "card_category": "filmes",
+        "card_level": 4,
+        "card_image": "https://via.placeholder.com/300x168/333333/FFD700?text=Star+Wars",
+        "gif_urls": {
+            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=SW+CORRETO",
+            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=SW+ERRO",
+            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=SW+TEMPO",
+            "default": "https://via.placeholder.com/1920x1080/333333/FFD700?text=SW+NEUTRO",
+            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=SW+FIM"
+        },
+        "questions": [
+            {
+                "question": "Qual é a nave de Han Solo?",
+                "options": [
+                    "Star Destroyer",
+                    "Millennium Falcon",
+                    "X-Wing",
+                    "TIE Fighter"
+                ],
+                "answer": "Millennium Falcon",
+                "difficulty": 1
+            }
+        ]
+    }
+}
