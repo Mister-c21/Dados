@@ -7,7 +7,7 @@
         "gif_urls": {
             "correct": "https://images.steamusercontent.com/ugc/62594512887480687/09366E8E9E9461AB84ED80D6A1095840B6FB2AB9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
             "incorrect": "https://media.tenor.com/yuuYrhZj0dQAAAAM/solo-leveling-statue-of-god.gif",
-            "timeout": "https://media.tenor.com/K-KRb8SDjhoAAAAM/solo-leveling.gif",
+            "timeout": "https://giffiles.alphacoders.com/222/222887.gif",
             "default": "https://i.pinimg.com/originals/0e/b0/51/0eb051ba6b5cfe9cbfdc3ca92f20c87c.gif",
             "finish": "https://media.tenor.com/O16gHVZ1j9AAAAAM/solo-leveling-gourajgs.gif"
         },
