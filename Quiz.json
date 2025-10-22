@@ -236,13 +236,13 @@
         "card_title": "Jujutsu Kaisen",
         "card_category": "animes",
         "card_level": 3,
-        "card_image": "https://via.placeholder.com/300x168/DAA520/FFFFFF?text=Jujutsu+Kaisen",
+        "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE30wSxwbCMADE_s_rTFFf_HM7yVy--3g_wrZhBASWltNz9z7uhFpE1lc&s=10",
         "gif_urls": {
-            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=JJK+CORRETO",
-            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=JJK+ERRO",
-            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=JJK+TEMPO",
-            "default": "https://via.placeholder.com/1920x1080/DAA520/FFFFFF?text=JJK+NEUTRO",
-            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=JJK+FIM"
+            "correct": "https://www.icegif.com/wp-content/uploads/icegif-4778.gif",
+            "incorrect": "https://media.tenor.com/yDFMgw_vDqoAAAAM/toji-fushiguro-toji.gif",
+            "timeout": "https://i.makeagif.com/media/9-17-2023/n1jh0q.gif",
+            "default": "https://i.makeagif.com/media/9-18-2023/8COxM-.gif",
+            "finish": "https://giffiles.alphacoders.com/211/211804.gif"
         },
         "questions": [
             {
