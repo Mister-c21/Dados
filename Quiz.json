@@ -262,13 +262,13 @@
         "card_title": "Star Wars",
         "card_category": "filmes",
         "card_level": 4,
-        "card_image": "https://via.placeholder.com/300x168/333333/FFD700?text=Star+Wars",
+        "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuNNpr7VScWalqj8r2CloeODobtLaRCVfP35z_eIfUw&s=10",
         "gif_urls": {
-            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=SW+CORRETO",
-            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=SW+ERRO",
-            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=SW+TEMPO",
-            "default": "https://via.placeholder.com/1920x1080/333333/FFD700?text=SW+NEUTRO",
-            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=SW+FIM"
+            "correct": "https://i.chzbgr.com/full/9031977472/hD9728A7A/reaction-gif-of-sand-people-celebrating-trimumph-in-star-wars-movie",
+            "incorrect": "https://www.reactiongifs.us/wp-content/uploads/2017/08/what.gif",
+            "timeout": "https://i.pinimg.com/originals/bc/c5/7f/bcc57fab127d1b52b6607cc0f191d10e.gif",
+            "default": "https://i.pinimg.com/originals/2b/46/19/2b4619e9f8d058d9eaffc0e7fd430f9a.gif",
+            "finish": "https://i.pinimg.com/originals/b3/2e/ee/b32eee0279f94c49df457edd574fb1ee.gif"
         },
         "questions": [
             {
