@@ -158,8 +158,8 @@
     "platform": "PC (Windows, macOS, Linux), Nintendo Switch, PS4, Xbox One",
     "director": "Ari Gibson, William Pellen (Designers/Co-diretores)",
     "cast": [
-        { "name": "The Knight (O Cavaleiro)", "img": "https://via.placeholder.com/60/000000/ffffff?text=TK" }, 
-        { "name": "Hornet", "img": "https://via.placeholder.com/60/990000/ffffff?text=H" }
+        { "name": "The Knight (O Cavaleiro)", "img": "https://cdn.wikimg.net/en/hkwiki/images/thumb/b/b1/HK_Welcome_Image.png/1200px-HK_Welcome_Image.png" }, 
+        { "name": "Hornet", "img": "https://www.einerd.com/wp-content/uploads/2025/09/Captura-de-tela-2025-09-08-113332.jpg" }
     ],
     "relatedSites": [
         { "name": "Team Cherry (Desenvolvedor)", "url": "http://teamcherry.com.au/", "type": "Desenvolvedor" },
