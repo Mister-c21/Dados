@@ -210,13 +210,13 @@
         "card_title": "Inteligência Artificial",
         "card_category": "tecnologia",
         "card_level": 2,
-        "card_image": "https://via.placeholder.com/300x168/17A2B8/FFFFFF?text=Inteligência+Artificial",
+        "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLT3HxAkeLX4EmpRSQTV1SsZZBb3VaazlxLRNUFKsXDcDlY_psbDkP7bhf&s=10",
         "gif_urls": {
-            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=IA+CORRETO",
-            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=IA+ERRO",
-            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=IA+TEMPO",
-            "default": "https://via.placeholder.com/1920x1080/17A2B8/FFFFFF?text=IA+NEUTRO",
-            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=IA+FIM"
+            "correct": "https://media.tenor.com/Tx4BoGApn1oAAAAM/robot-dance.gif",
+            "incorrect": "https://media.tenor.com/EgKe6Vx-o4oAAAAM/robot-reaction-eww.gif",
+            "timeout": "https://media.tenor.com/rqqJq2Qa9RoAAAAM/no-sonny.gif",
+            "default": "https://webcompleta.com/wp-content/uploads/2023/08/ia.gif",
+            "finish": "https://www.roboticgizmos.com/wp-content/uploads/2025/05/08/VideoMimic.gif"
         },
         "questions": [
             {
