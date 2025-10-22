@@ -121,13 +121,13 @@
         "card_title": "Apenas Um Show",
         "card_category": "series",
         "card_level": 1,
-        "card_image": "https://via.placeholder.com/300x168/4CAF50/FFFFFF?text=Apenas+Um+Show",
+        "card_image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/rsposterart.png",
         "gif_urls": {
-            "correct": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFsM2t1NjN3ZnF1b2E4aG9jY3Jna2lmdW44dzNxNHh2b2RtcGZ3ZSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3o85xr1nJkKkO2l5c4/giphy.gif",
-            "incorrect": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF3cXZlajF0eXJ0amcxcG5zZ3VqNTE4cHUza3o0c201aWV6N3R1ZSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3o7TKr3nzBHl5tgZug/giphy.gif",
-            "timeout": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW11aGwwZ3Z3bmJ0bWJ0NHA4NW55enE3d3A1cnZ2N2EzN2c1ZnZteCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/l3E689C8oK6d997ws/giphy.gif",
-            "default": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm13dW10ZTF5aG55ZzlzNmJieG02eHlsaGdvcG05YXNpaXdwb3RzNCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/l46Cn8wH780U1yNnG/giphy.gif",
-            "finish": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p1cG11NW55cDNrY3h0ZXRwZ2p0cm91aG5oN2E4OHZ4Z24xYWZ0aSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/3o7TKSxQyO1E2xH7cI/giphy.gif"
+            "correct": "https://i0.wp.com/media2.giphy.com/media/Zr9O0yaUmk6Yw/giphy.gif",
+            "incorrect": "https://www.gifcen.com/wp-content/uploads/2021/06/regular-show-gif.gif",
+            "timeout": "https://giffiles.alphacoders.com/295/29526.gif",
+            "default": "https://64.media.tumblr.com/fceac542818ce5499a27ffe3f60e5744/tumblr_mm1vrnLzCh1spa5b8o1_1280.gif",
+            "finish": "https://gifdb.com/images/high/regular-show-498-x-278-gif-x2t073p557c9yw5v.gif"
         },
         "questions": [
             {
@@ -158,13 +158,13 @@
         "card_title": "Os 10 Mandamentos",
         "card_category": "novelas",
         "card_level": 3,
-        "card_image": "https://via.placeholder.com/300x168/8A2BE2/FFFFFF?text=Os+10+Mandamentos",
+        "card_image": "https://upload.wikimedia.org/wikipedia/pt/9/91/Logotipo_de_Os_Dez_Mandamentos.png",
         "gif_urls": {
-            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=NOVELA+CORRETO",
-            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=NOVELA+ERRO",
-            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=NOVELA+TEMPO",
-            "default": "https://via.placeholder.com/1920x1080/8A2BE2/FFFFFF?text=NOVELA+NEUTRO",
-            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=NOVELA+FIM"
+            "correct": "https://38.media.tumblr.com/5fa8c6fb0f92f69efb97976beac7436f/tumblr_nqf3ds2S4v1sfmcfro6_400.gif",
+            "incorrect": "https://miro.medium.com/v2/resize:fit:960/1*g5OZ0ji9yzr8bfBTAhuwtQ.gif",
+            "timeout": "https://64.media.tumblr.com/913c4d3b1c133a5225d0a99b6d273b60/tumblr_nxrqva2Dnt1sfmcfro5_r1_400.gifv",
+            "default": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoIbRkMs-RZnIe73sQASOeNIz4Z-gU3cn9WV9AZQvwGbLqZrm5xRM2D70Zsde7ZMJoD2fEOnpi7vi9XjeBncz-MMgzYxaLL38hITAdQZT6Z7AvmaV6CULS8ZmLqVyCcA86mauJIGKU0AF8/s400/osdezmandamentos.gif",
+            "finish": "https://64.media.tumblr.com/eb00a9ae31df4577916ed6f36455f6d0/tumblr_nxrqva2Dnt1sfmcfro3_r1_400.gifv"
         },
         "questions": [
             {
@@ -184,13 +184,13 @@
         "card_title": "K-Pop Hits",
         "card_category": "musica",
         "card_level": 2,
-        "card_image": "https://via.placeholder.com/300x168/FFC107/333333?text=K-Pop+Hits",
+        "card_image": "https://dynamic.brandcrowd.com/template/preview/design/d4cf0a0d-752f-432e-8446-e2fbc1188999?v=4&designTemplateVersion=1&size=design-preview-tall-2x",
         "gif_urls": {
-            "correct": "https://via.placeholder.com/1920x1080/4CAF50/FFFFFF?text=KPOP+CORRETO",
-            "incorrect": "https://via.placeholder.com/1920x1080/D0021B/FFFFFF?text=KPOP+ERRO",
-            "timeout": "https://via.placeholder.com/1920x1080/FFC107/333333?text=KPOP+TEMPO",
-            "default": "https://via.placeholder.com/1920x1080/FFC107/333333?text=KPOP+NEUTRO",
-            "finish": "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=KPOP+FIM"
+            "correct": "https://64.media.tumblr.com/1b67f68500477990e0fc0e2f8144f439/tumblr_pvrnio1IVI1y4gx05o1_540.gif",
+            "incorrect": "https://64.media.tumblr.com/9626b7eb186ee7a4409b010d30b3b4c5/38a91fd534536e51-ab/s540x810/692d7a1f377da94356e41a653c43bdd52cf6df22.gifv",
+            "timeout": "https://64.media.tumblr.com/f552fdf0eb02bb3291a5c4e17be160ec/1a601b55b146ec41-fc/s500x750/4e469c0dba5a0c9ff827bbfbde1c004830559598.gifv",
+            "default": "https://64.media.tumblr.com/0ef0ef77f99f3646561c2e2e86519811/a818411b7b648bbd-a7/s540x810/b066aa4d63494a973f0ee7ace66549b594369b5f.gif",
+            "finish": "https://img.wattpad.com/1240d02e2572498de371edd921ef94ce015ad552/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f326e4b4767575a637479727352513d3d2d3732333130383736302e313539376535313033303362396239633633393931323032323537322e676966"
         },
         "questions": [
             {
