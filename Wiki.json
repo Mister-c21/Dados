@@ -145,6 +145,32 @@
             { "name": "AMC TV", "url": "https://www.amctv.com.br/", "type": "Estúdio" }
         ] 
     },
+    {
+    "id": 9,
+    "title": "Hollow Knight",
+    "category": "game",
+    "subtheme": "Metroidvania de Ação e Aventura",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Hollow_Knight.png/220px-Hollow_Knight.png",
+    "description": "Uma épica aventura de ação e aventura desenhada à mão, ambientada no vasto e arruinado reino de insetos de Hallownest. O Cavaleiro (The Knight) deve descer às profundezas, lutar contra criaturas corrompidas, descobrir mistérios antigos e enfrentar a fonte da praga que assola o reino.",
+    "spotifyEmbedUrl": "https://open.spotify.com/embed/album/1Y4hWf8gq9v10yD99eF8S4",
+    "rating": "4.8/5.0", 
+    "year": 2017,
+    "platform": "PC (Windows, macOS, Linux), Nintendo Switch, PS4, Xbox One",
+    "director": "Ari Gibson, William Pellen (Designers/Co-diretores)",
+    "cast": [
+        { "name": "The Knight (O Cavaleiro)", "img": "https://via.placeholder.com/60/000000/ffffff?text=TK" }, 
+        { "name": "Hornet", "img": "https://via.placeholder.com/60/990000/ffffff?text=H" }
+    ],
+    "relatedSites": [
+        { "name": "Team Cherry (Desenvolvedor)", "url": "http://teamcherry.com.au/", "type": "Desenvolvedor" },
+        { "name": "Hollow Knight Wiki", "url": "https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki", "type": "Fandom" },
+        { "name": "Análise IGN", "url": "https://www.ign.com/articles/2018/06/22/hollow-knight-review", "type": "Análise" }
+    ],
+    "trailers": [
+        { "title": "Trailer de Lançamento (PC)", "url": "https://www.youtube.com/embed/UAO2urG23S4" },
+        { "title": "Trailer da Edição Voidheart (PS4/Xbox One)", "url": "https://www.youtube.com/embed/JuP47fRBsWg" }
+    ]
+    },
     { 
         "id": 10, 
         "title": "The Office (série de televisão americana)", 
