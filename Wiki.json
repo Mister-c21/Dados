@@ -1021,21 +1021,21 @@
         "title": "Ori and the Blind Forest", 
         "category": "jogos", 
         "subtheme": "Metroidvania", 
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ori_and_the_Blind_Forest_Cover_Art.jpg/220px-Ori_and_the_Blind_Forest_Cover_Art.jpg", 
+        "image": "https://assets-prd.ignimgs.com/2021/12/18/ori-and-the-blind-forest-definitive-edition-button-fin-1639796507714.jpg", 
         "description": "Um conto visualmente deslumbrante sobre um jovem órfão destinado ao heroísmo. Apresenta controles de plataforma incrivelmente fluidos, uma história emocionante e um belo mundo pintado à mão, com foco em habilidades de movimento.", 
-        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/ori-and-the-blind-forest-soundtrack", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/7xPc1OsC2R0siZKMlzRBIo?utm_source=generator", 
         "rating": "4.7/5.0", 
         "year": 2015, 
         "platform": "PC, Xbox One, Nintendo Switch", 
         "director": "Moon Studios", 
         "cast": [
-            { "name": "Ori (Personagem Principal)", "img": "https://exemplo.com/ori-character-img.jpg" }
+            { "name": "Ori (Personagem Principal)", "img": "https://static.wikia.nocookie.net/oriandtheblindforest/images/0/08/Johannes-figlhuber-oriconceptsheet.jpg/revision/latest?cb=20200318144424" }
         ], 
         "relatedSites": [
             { "name": "Página na Microsoft Store", "url": "https://www.xbox.com/pt-br/games/ori-blind-forest", "type": "Distribuidor" }
         ],
         "trailers": [
-            { "title": "Trailer de Lançamento (Definitive Edition)", "url": "https://www.youtube.com/embed/kdG3h03lKSA" }
+            { "title": "Trailer de Lançamento (Definitive Edition)", "url": "https://www.youtube.com/embed/cklw-Yu3moE" }
         ]
     },
     { 
@@ -1043,21 +1043,21 @@
         "title": "Castlevania: Symphony of the Night", 
         "category": "jogos", 
         "subtheme": "Metroidvania", 
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Castlevania_Symphony_of_the_Night_Cover_Art.jpg/220px-Castlevania_Symphony_of_the_Night_Cover_Art.jpg", 
+        "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/img_4783_2.jpeg", 
         "description": "O jogo que definiu a metade 'vania' do gênero. Assuma o papel de Alucard e explore o vasto e sinistro Castelo de Drácula, adquirindo novas habilidades e equipamentos para derrotar as forças do mal. Combina elementos de RPG com a exploração de plataforma.", 
-        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/castlevania-symphony-of-the-night-soundtrack", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/6AvkC0h2TUdX6fpAKtXqYR?utm_source=generator", 
         "rating": "4.9/5.0", 
         "year": 1997, 
         "platform": "PS1, PS4, Xbox 360, PSP, Mobile, Switch (via Castlevania Requiem)", 
         "director": "Konami (Koji Igarashi)", 
         "cast": [
-            { "name": "Alucard (Personagem Principal)", "img": "https://exemplo.com/alucard-sotn-img.jpg" }
+            { "name": "Alucard (Personagem Principal)", "img": "https://upload.wikimedia.org/wikipedia/pt/9/98/Alucard_SotN.jpg" }
         ], 
         "relatedSites": [
             { "name": "Página da Konami", "url": "https://www.konami.com/games/castlevania/", "type": "Desenvolvedor" }
         ],
         "trailers": [
-            { "title": "Trailer de Lançamento (Requiem)", "url": "https://www.youtube.com/embed/5hV9k5t7VjY" }
+            { "title": "Trailer de Lançamento (Requiem)", "url": "https://www.youtube.com/embed/eFGNSrdLIr0" }
         ]
     },
     { 
@@ -1065,22 +1065,22 @@
         "title": "Metroid Dread", 
         "category": "jogos", 
         "subtheme": "Metroidvania", 
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Metroid_Dread_cover_art.jpg/220px-Metroid_Dread_cover_art.jpg", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Metroid_Dread_Banner.png/250px-Metroid_Dread_Banner.png", 
         "description": "A mais recente aventura 2D de Samus Aran. Traz de volta o terror da perseguição e a exploração intensa, combinando a fórmula clássica de Metroid com novos e poderosos inimigos E.M.M.I.s e habilidades de combate aprimoradas.", 
-        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/metroid-dread-soundtrack", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/playlist/0Knh1KMIoC8710cRAobvDA?utm_source=generator", 
         "rating": "4.6/5.0", 
         "year": 2021, 
         "platform": "Nintendo Switch", 
         "director": "MercurySteam, Nintendo EPD", 
         "cast": [
-            { "name": "Samus Aran (Personagem Principal)", "img": "https://exemplo.com/samus-dread-img.jpg" }
+            { "name": "Samus Aran (Personagem Principal)", "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgimyzkZCL206a_ZGs9v1fCl27N1x0ssLTpdH33Si4olSe3XHAHUZuQ9n4MQcFlzG0CDbZg0002LBAXLh34aWz8EcyfEzhNOP6PMXz-44lwxv7srJZaRJhSmNxQw63EVAO3BMBP2k-wEqdf/?imgmax=800" }
         ], 
         "relatedSites": [
             { "name": "Página Oficial da Nintendo", "url": "https://www.nintendo.com/pt-br/store/products/metroid-dread-switch/", "type": "Desenvolvedor/Distribuidor" }
         ],
         "trailers": [
-            { "title": "Trailer E3 2021", "url": "https://www.youtube.com/embed/p1gqJcK7D6Y" },
-            { "title": "Trailer de História", "url": "https://www.youtube.com/embed/c-T10wWw8c0" }
+            { "title": "Trailer GameSpot", "url": "https://www.youtube.com/embed/PUXZyqhrWoc" },
+            { "title": "Trailer IGN", "url": "https://www.youtube.com/embed/XsN0avdHf4I" }
         ]
     },
     { 
