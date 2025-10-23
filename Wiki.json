@@ -1015,6 +1015,117 @@
         { "title": "Trailer de Revelação", "url": "https://www.youtube.com/embed/pFAknD_9U7c" },
         { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/SyyNDebPKQE" }
     ]
-}
+},
+    { 
+        "id": 50, 
+        "title": "Ori and the Blind Forest", 
+        "category": "jogos", 
+        "subtheme": "Metroidvania em Destaque", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ori_and_the_Blind_Forest_Cover_Art.jpg/220px-Ori_and_the_Blind_Forest_Cover_Art.jpg", 
+        "description": "Um conto visualmente deslumbrante sobre um jovem órfão destinado ao heroísmo. Apresenta controles de plataforma incrivelmente fluidos, uma história emocionante e um belo mundo pintado à mão, com foco em habilidades de movimento.", 
+        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/ori-and-the-blind-forest-soundtrack", 
+        "rating": "4.7/5.0", 
+        "year": 2015, 
+        "platform": "PC, Xbox One, Nintendo Switch", 
+        "director": "Moon Studios", 
+        "cast": [
+            { "name": "Ori (Personagem Principal)", "img": "https://exemplo.com/ori-character-img.jpg" }
+        ], 
+        "relatedSites": [
+            { "name": "Página na Microsoft Store", "url": "https://www.xbox.com/pt-br/games/ori-blind-forest", "type": "Distribuidor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Lançamento (Definitive Edition)", "url": "https://www.youtube.com/embed/kdG3h03lKSA" }
+        ]
+    },
+    { 
+        "id": 51, 
+        "title": "Castlevania: Symphony of the Night", 
+        "category": "jogos", 
+        "subtheme": "Metroidvania em Destaque (Clássico)", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Castlevania_Symphony_of_the_Night_Cover_Art.jpg/220px-Castlevania_Symphony_of_the_Night_Cover_Art.jpg", 
+        "description": "O jogo que definiu a metade 'vania' do gênero. Assuma o papel de Alucard e explore o vasto e sinistro Castelo de Drácula, adquirindo novas habilidades e equipamentos para derrotar as forças do mal. Combina elementos de RPG com a exploração de plataforma.", 
+        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/castlevania-symphony-of-the-night-soundtrack", 
+        "rating": "4.9/5.0", 
+        "year": 1997, 
+        "platform": "PS1, PS4, Xbox 360, PSP, Mobile, Switch (via Castlevania Requiem)", 
+        "director": "Konami (Koji Igarashi)", 
+        "cast": [
+            { "name": "Alucard (Personagem Principal)", "img": "https://exemplo.com/alucard-sotn-img.jpg" }
+        ], 
+        "relatedSites": [
+            { "name": "Página da Konami", "url": "https://www.konami.com/games/castlevania/", "type": "Desenvolvedor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Lançamento (Requiem)", "url": "https://www.youtube.com/embed/5hV9k5t7VjY" }
+        ]
+    },
+    { 
+        "id": 52, 
+        "title": "Metroid Dread", 
+        "category": "jogos", 
+        "subtheme": "Metroidvania em Destaque (Clássico Moderno)", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Metroid_Dread_cover_art.jpg/220px-Metroid_Dread_cover_art.jpg", 
+        "description": "A mais recente aventura 2D de Samus Aran. Traz de volta o terror da perseguição e a exploração intensa, combinando a fórmula clássica de Metroid com novos e poderosos inimigos E.M.M.I.s e habilidades de combate aprimoradas.", 
+        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/metroid-dread-soundtrack", 
+        "rating": "4.6/5.0", 
+        "year": 2021, 
+        "platform": "Nintendo Switch", 
+        "director": "MercurySteam, Nintendo EPD", 
+        "cast": [
+            { "name": "Samus Aran (Personagem Principal)", "img": "https://exemplo.com/samus-dread-img.jpg" }
+        ], 
+        "relatedSites": [
+            { "name": "Página Oficial da Nintendo", "url": "https://www.nintendo.com/pt-br/store/products/metroid-dread-switch/", "type": "Desenvolvedor/Distribuidor" }
+        ],
+        "trailers": [
+            { "title": "Trailer E3 2021", "url": "https://www.youtube.com/embed/p1gqJcK7D6Y" },
+            { "title": "Trailer de História", "url": "https://www.youtube.com/embed/c-T10wWw8c0" }
+        ]
+    },
+    { 
+        "id": 53, 
+        "title": "Blasphemous", 
+        "category": "jogos", 
+        "subtheme": "Metroidvania Sombrio", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Blasphemous_cover_art.jpg/220px-Blasphemous_cover_art.jpg", 
+        "description": "Um brutal Metroidvania de plataforma e combate, profundamente inspirado em temas de horror religioso e folclore espanhol. Jogue como o Penitente e explore a terra de Cvstodia, sofrendo e lutando para quebrar A Maldição.", 
+        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/blasphemous-soundtrack", 
+        "rating": "4.4/5.0", 
+        "year": 2019, 
+        "platform": "PC, Nintendo Switch, PS4, Xbox One", 
+        "director": "The Game Kitchen", 
+        "cast": [
+            { "name": "The Penitent One (Personagem Principal)", "img": "https://exemplo.com/penitent-one-img.jpg" }
+        ], 
+        "relatedSites": [
+            { "name": "Página na Steam", "url": "https://store.steampowered.com/app/774361/Blasphemous/", "type": "Desenvolvedor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/wzXGz8T5-9A" }
+        ]
+    },
+    { 
+        "id": 54, 
+        "title": "Dead Cells", 
+        "category": "jogos", 
+        "subtheme": "Metroidvania com Elementos Roguelike", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Dead_Cells_Cover_Art.png/220px-Dead_Cells_Cover_Art.png", 
+        "description": "Um 'Roguelite Metroidvania' que combina a progressão de habilidades de um Metroidvania com a morte permanente e fases geradas proceduralmente de um Roguelite. Foco em combate 2D rápido e brutal com uma grande variedade de armas.", 
+        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/dead-cells-soundtrack", 
+        "rating": "4.5/5.0", 
+        "year": 2018, 
+        "platform": "PC, Nintendo Switch, PS4, Xbox One, Mobile", 
+        "director": "Motion Twin", 
+        "cast": [
+            { "name": "The Prisoner (Personagem Principal)", "img": "https://exemplo.com/dead-cells-prisoner-img.jpg" }
+        ], 
+        "relatedSites": [
+            { "name": "Página na Steam", "url": "https://store.steampowered.com/app/588650/Dead_Cells/", "type": "Desenvolvedor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/N0W54f3cK7M" }
+        ]
+    }
 
 ]
