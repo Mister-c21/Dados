@@ -1126,6 +1126,143 @@
         "trailers": [
             { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/RvGaSPTcTxc" }
         ]
+    },
+    {
+        "id":55,
+        "title": "Counter-Strike 2 (CS2)",
+        "category": "jogos",
+        "subtheme": "E-Sports FPS Tático Clássico",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Counter-Strike_2_cover_art.jpg/220px-Counter-Strike_2_cover_art.jpg",
+        "description": "A mais recente iteração do FPS tático que define o gênero. O CS2 mantém o foco em mecânicas de tiro de precisão, economia de rodadas e jogabilidade baseada em objetivos (plantar/desarmar a bomba), sendo o pilar dos e-sports mundiais. Notável pela introdução dos 'sub-tick updates' para um gameplay mais responsivo.",
+        "spotifyEmbedUrl": "https://open.spotify.com/album/43Y4Q8h0V4O2oN5HqG5q2f",
+        "rating": "4.5/5.0 (Média de Comunidade)",
+        "year": 2023,
+        "platform": "PC (Steam)",
+        "director": "Valve Corporation",
+        "cast": [
+            { "name": "Terrorists (Personagem Jogável)", "img": "Dado não aplicável para personagens genéricos." },
+            { "name": "Counter-Terrorists (Personagem Jogável)", "img": "Dado não aplicável para personagens genéricos." }
+        ],
+        "relatedSites": [
+            { "name": "Página na Steam", "url": "https://store.steampowered.com/app/730/CounterStrike_2/", "type": "Distribuidor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/BL2S0nEsv90" }
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Valorant",
+        "category": "jogos",
+        "subtheme": "E-Sports FPS Tático com Agentes",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Valorant_cover_art.jpg/220px-Valorant_cover_art.jpg",
+        "description": "Um FPS tático 5v5 que combina a precisão de tiro e a economia de rodadas de jogos clássicos com um elenco de 'Agentes' que possuem habilidades únicas e que podem alterar o curso da partida. Desenvolvido pela Riot Games (League of Legends). Possui um dos anti-cheats mais robustos do mercado (Vanguard).",
+        "spotifyEmbedUrl": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t",
+        "rating": "4.6/5.0 (Média de Comunidade)",
+        "year": 2020,
+        "platform": "PC",
+        "director": "Riot Games",
+        "cast": [
+            { "name": "Jett (Agente Jogável)", "img": "URL de imagem não aplicável." },
+            { "name": "Phoenix (Agente Jogável)", "img": "URL de imagem não aplicável." }
+        ],
+        "relatedSites": [
+            { "name": "Página Oficial", "url": "https://playvalorant.com/pt-br/", "type": "Desenvolvedor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Gameplay", "url": "https://www.youtube.com/embed/e_E9W2SEz_M" }
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Overwatch 2",
+        "category": "jogos",
+        "subtheme": "E-Sports FPS com Heróis",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Overwatch_2_cover_art.jpg/220px-Overwatch_2_cover_art.jpg",
+        "description": "Um FPS de equipes 5v5 com forte foco em heróis com papéis definidos (Tanque, Dano e Suporte), cada um com habilidades e 'Supremas' únicas. A ênfase é na cooperação rápida e na composição estratégica de times para cumprir objetivos. Passou para o formato free-to-play e de 6v6 para 5v5 em relação ao seu antecessor.",
+        "spotifyEmbedUrl": "https://open.spotify.com/album/4M6nB3d7K9xX1k49vjC9iG",
+        "rating": "4.3/5.0 (Média de Comunidade)",
+        "year": 2022,
+        "platform": "PC, PS4, PS5, Xbox One, Xbox Series X/S, Nintendo Switch",
+        "director": "Blizzard Entertainment",
+        "cast": [
+            { "name": "Tracer (Herói Jogável)", "img": "URL de imagem não aplicável." },
+            { "name": "Genji (Herói Jogável)", "img": "URL de imagem não aplicável." }
+        ],
+        "relatedSites": [
+            { "name": "Página Oficial da Blizzard", "url": "https://overwatch.blizzard.com/pt-br/", "type": "Desenvolvedor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/dGvT634gI84" }
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Tom Clancy's Rainbow Six Siege",
+        "category": "jogos",
+        "subtheme": "E-Sports FPS Tático com Destruição",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Tom_Clancy%27s_Rainbow_Six_Siege_Cover_Art.jpg/220px-Tom_Clancy%27s_Rainbow_Six_Siege_Cover_Art.jpg",
+        "description": "Um FPS tático assimétrico focado em operações de cerco 5v5, onde atacantes invadem e defensores se barricam. O principal diferencial é o ambiente destrutível, que permite estratégias verticais e alterações no mapa durante a partida. Seu sucesso é creditado às atualizações contínuas de Operadores e mapas ao longo de seus anos.",
+        "spotifyEmbedUrl": "Não há trilha sonora oficial completa no Spotify, apenas playlists de fãs e músicas de rádio do jogo.",
+        "rating": "4.4/5.0 (Média de Comunidade)",
+        "year": 2015,
+        "platform": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
+        "director": "Ubisoft Montreal",
+        "cast": [
+            { "name": "Ash (Operador Jogável)", "img": "URL de imagem não aplicável." },
+            { "name": "Jäger (Operador Jogável)", "img": "URL de imagem não aplicável." }
+        ],
+        "relatedSites": [
+            { "name": "Página Oficial da Ubisoft", "url": "https://www.ubisoft.com/pt-br/game/rainbow-six/siege", "type": "Desenvolvedor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Revelação", "url": "https://www.youtube.com/embed/6Gg_9mXF144" }
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Apex Legends",
+        "category": "jogos",
+        "subtheme": "E-Sports Battle Royale FPS",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Apex_legends_cover.jpg/220px-Apex_legends_cover.jpg",
+        "description": "Um Battle Royale em primeira pessoa, free-to-play, com equipes de três e um elenco de 'Lendas', cada uma com habilidades únicas que facilitam o combate, o reconhecimento e o suporte. Destaca-se pela fluidez da movimentação e tiroteios rápidos. Seu e-sport oficial é a Apex Legends Global Series (ALGS).",
+        "spotifyEmbedUrl": "https://open.spotify.com/album/324S00o3e8gY4g2n9wG56g",
+        "rating": "4.3/5.0 (Média de Comunidade)",
+        "year": 2019,
+        "platform": "PC, PS4, PS5, Xbox One, Xbox Series X/S, Nintendo Switch, Mobile (Versão móvel com descontinuação)",
+        "director": "Respawn Entertainment",
+        "cast": [
+            { "name": "Wraith (Lenda Jogável)", "img": "URL de imagem não aplicável." },
+            { "name": "Bloodhound (Lenda Jogável)", "img": "URL de imagem não aplicável." }
+        ],
+        "relatedSites": [
+            { "name": "Página Oficial da EA", "url": "https://www.ea.com/pt-br/games/apex-legends", "type": "Distribuidor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/oJ_V32RjYgI" }
+        ]
+    },
+    {
+        "id": 60,
+        "title": "Call of Duty: Warzone",
+        "category": "jogos",
+        "subtheme": "E-Sports Battle Royale FPS (Simulador de Armas)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Call_of_Duty_Warzone_cover_art.jpg/220px-Call_of_Duty_Warzone_cover_art.jpg",
+        "description": "O modo Battle Royale free-to-play da franquia Call of Duty. Famoso por sua jogabilidade 'gunplay' realista (baseada nos jogos principais), sistema de customização de classes ('Loadout') e o mecanismo de retorno 'Gulag'. Recebeu uma sequência (Warzone 2.0/Warzone Caldera) mantendo o cenário competitivo.",
+        "spotifyEmbedUrl": "O Warzone usa músicas licenciadas e temas de temporadas do Modern Warfare/Black Ops. Não há álbum de trilha sonora único e oficial.",
+        "rating": "4.2/5.0 (Média de Comunidade)",
+        "year": 2020,
+        "platform": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
+        "director": "Infinity Ward, Raven Software",
+        "cast": [
+            { "name": "Capitão Price (Personagem Jogável)", "img": "URL de imagem não aplicável." }
+        ],
+        "relatedSites": [
+            { "name": "Página Oficial da Activision", "url": "https://www.callofduty.com/br/pt/warzone", "type": "Distribuidor" }
+        ],
+        "trailers": [
+            { "title": "Trailer de Revelação", "url": "https://www.youtube.com/embed/0E4eW3wH92o" }
+        ]
     }
 
 ]
