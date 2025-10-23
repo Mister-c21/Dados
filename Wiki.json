@@ -1088,21 +1088,21 @@
         "title": "Blasphemous", 
         "category": "jogos", 
         "subtheme": "Metroidvania", 
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Blasphemous_cover_art.jpg/220px-Blasphemous_cover_art.jpg", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUj6FLWD1Mv1lGGaLLFxH1IXQWKCRapHWftZPQrkEodVN2vmVUyTqGjQ98&s=10", 
         "description": "Um brutal Metroidvania de plataforma e combate, profundamente inspirado em temas de horror religioso e folclore espanhol. Jogue como o Penitente e explore a terra de Cvstodia, sofrendo e lutando para quebrar A Maldição.", 
-        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/blasphemous-soundtrack", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/1oGyVpRrssPhtz23UDTYYS?utm_source=generator", 
         "rating": "4.4/5.0", 
         "year": 2019, 
         "platform": "PC, Nintendo Switch, PS4, Xbox One", 
         "director": "The Game Kitchen", 
         "cast": [
-            { "name": "The Penitent One (Personagem Principal)", "img": "https://exemplo.com/penitent-one-img.jpg" }
+            { "name": "The Penitent One (Personagem Principal)", "img": "https://cdn.5play.org/posts/2025-09/1758909175_1.webp" }
         ], 
         "relatedSites": [
             { "name": "Página na Steam", "url": "https://store.steampowered.com/app/774361/Blasphemous/", "type": "Desenvolvedor" }
         ],
         "trailers": [
-            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/wzXGz8T5-9A" }
+            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/seGW4vdfL7A" }
         ]
     },
     { 
@@ -1110,21 +1110,21 @@
         "title": "Dead Cells", 
         "category": "jogos", 
         "subtheme": "Metroidvania", 
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Dead_Cells_Cover_Art.png/220px-Dead_Cells_Cover_Art.png", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmcZ8k_2CZQxYtRbx8k5Eh_S3Z_TSw1b1p2ymad5EHw&s=10", 
         "description": "Um 'Roguelite Metroidvania' que combina a progressão de habilidades de um Metroidvania com a morte permanente e fases geradas proceduralmente de um Roguelite. Foco em combate 2D rápido e brutal com uma grande variedade de armas.", 
-        "spotifyEmbedUrl": "http://googleusercontent.com/spotify.com/dead-cells-soundtrack", 
+        "spotifyEmbedUrl": "https://open.spotify.com/embed/album/5MuOiTfGZfVbZ1rPcDX5A0?utm_source=generator", 
         "rating": "4.5/5.0", 
         "year": 2018, 
         "platform": "PC, Nintendo Switch, PS4, Xbox One, Mobile", 
         "director": "Motion Twin", 
         "cast": [
-            { "name": "The Prisoner (Personagem Principal)", "img": "https://exemplo.com/dead-cells-prisoner-img.jpg" }
+            { "name": "The Prisoner (Personagem Principal)", "img": "https://static.wikia.nocookie.net/vsbattles/images/7/7f/Dead_Cells_The_Beheaded_%28Render%29.png/revision/latest/scale-to-width-down/340?cb=20180928010659" }
         ], 
         "relatedSites": [
             { "name": "Página na Steam", "url": "https://store.steampowered.com/app/588650/Dead_Cells/", "type": "Desenvolvedor" }
         ],
         "trailers": [
-            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/N0W54f3cK7M" }
+            { "title": "Trailer de Lançamento", "url": "https://www.youtube.com/embed/RvGaSPTcTxc" }
         ]
     }
 
