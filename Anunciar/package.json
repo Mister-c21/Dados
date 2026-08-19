@@ -1,5 +1,5 @@
 {
-  "name": "turso-proxy-LoreSpaceADS-api",
+  "name": "backend-anuncios",
   "version": "1.0.0",
   "dependencies": {
     "@libsql/client": "^0.14.0"
